@@ -179,6 +179,14 @@ http://1789-181.123091763.it.com/live/882115_.m3u8
 http://1789-181.123091763.it.com/live/785917_.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Thmanyah 3 (720p)" tvg-logo="" group-title="Thmanyah ",Thmanyah 3 (720p)
 http://1789-181.123091763.it.com/live/595243_.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="4 Sport" tvg-logo="" group-title="Football (Others)",4 Sport
+https://pepsi.abntv.live/hls/4spstream.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DTV SPORTS" tvg-logo="" group-title="Football (Others)",DTV SPORTS
+http://38.183.182.166:8000/play/a125/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Persiana Sport" tvg-logo="" group-title="Football (Others)",Persiana Sport
+https://spstr.abntv.live/hls/psstream.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Realmadrid TV HD" tvg-logo="" group-title="Football (Others)",Realmadrid TV HD
+http://176.65.146.237:8401/play/a0ak/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Alkass 1 HD QA" tvg-logo="" group-title="Alkass ",Alkass 1 HD QA
 http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/109996
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AlKass 1 HD QA ARB" tvg-logo="" group-title="Alkass ",AlKass 1 HD QA ARB
@@ -205,6 +213,8 @@ https://fl41.moveonjoy.com/TSN_3/index.m3u8
 https://fl41.moveonjoy.com/TSN_4/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TSN5" tvg-logo="" group-title="F1",TSN5
 https://fl41.moveonjoy.com/TSN_5/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Game+ (720p)" tvg-logo="" group-title="Tennis",Game+ (720p)
+https://a-cdn.klowdtv.com/live2/fntsy_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tennis Channel" tvg-logo="" group-title="Tennis",Tennis Channel
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Abu Dhabi Sports 1 ARB" tvg-logo="" group-title="Abu Dhabi Sports",Abu Dhabi Sports 1 ARB
