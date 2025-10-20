@@ -235,3 +235,12 @@ http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/103343
 http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/103344
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ES: Movistar Dazn 1 ⁴ᴷ" tvg-logo="" group-title="Test",ES: Movistar Dazn 1 ⁴ᴷ
 http://apptv.xyz:8080/702ad56da375/j68Zf2fGA/80257
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Thmanyah 1 (1080p)" tvg-logo="" group-title="Thmanyah ",Thmanyah 1 (1080p)
+#EXTVLCOPT:http-user-agent=airmaxtvSyria
+https://airmaxx.boats:443/airmaxtvSyria996/airmaxtvSyria222/2515.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Thmanyah 2 (1080p)" tvg-logo="" group-title="Thmanyah ",Thmanyah 2 (1080p)
+#EXTVLCOPT:http-user-agent=airmaxtvSyria
+https://airmaxx.boats:443/airmaxtvSyria996/airmaxtvSyria222/2517.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Thmanyah 3 (1080p)" tvg-logo="" group-title="Thmanyah ",Thmanyah 3 (1080p)
+#EXTVLCOPT:http-user-agent=airmaxtvSyria
+https://airmaxx.boats:443/airmaxtvSyria996/airmaxtvSyria222/2519.ts
