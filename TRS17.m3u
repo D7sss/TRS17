@@ -79,6 +79,30 @@ http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/109991
 http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/109986
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports NBA HD QA" tvg-logo="" group-title="beIN Sports (Arabic)",beIN Sports NBA HD QA
 http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/98102
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BEIN SPORTS 1" tvg-logo="" group-title="beIN Sports (Backup)",BEIN SPORTS 1
+#EXTVLCOPT:http-user-agent=airmaxtvSyria
+https://airmaxx.boats:443/airmaxtvSyria996/airmaxtvSyria222/306.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BEIN SPORTS 2" tvg-logo="" group-title="beIN Sports (Backup)",BEIN SPORTS 2
+#EXTVLCOPT:http-user-agent=airmaxtvSyria
+https://airmaxx.boats:443/airmaxtvSyria996/airmaxtvSyria222/307.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BEIN SPORTS 3" tvg-logo="" group-title="beIN Sports (Backup)",BEIN SPORTS 3
+#EXTVLCOPT:http-user-agent=airmaxtvSyria
+https://airmaxx.boats:443/airmaxtvSyria996/airmaxtvSyria222/308.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BEIN SPORTS 4" tvg-logo="" group-title="beIN Sports (Backup)",BEIN SPORTS 4
+#EXTVLCOPT:http-user-agent=airmaxtvSyria
+https://airmaxx.boats:443/airmaxtvSyria996/airmaxtvSyria222/309.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BEIN SPORTS 5" tvg-logo="" group-title="beIN Sports (Backup)",BEIN SPORTS 5
+#EXTVLCOPT:http-user-agent=airmaxtvSyria
+https://airmaxx.boats:443/airmaxtvSyria996/airmaxtvSyria222/311.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BEIN SPORTS 6" tvg-logo="" group-title="beIN Sports (Backup)",BEIN SPORTS 6
+#EXTVLCOPT:http-user-agent=airmaxtvSyria
+https://airmaxx.boats:443/airmaxtvSyria996/airmaxtvSyria222/312.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BEIN SPORTS 7" tvg-logo="" group-title="beIN Sports (Backup)",BEIN SPORTS 7
+#EXTVLCOPT:http-user-agent=airmaxtvSyria
+https://airmaxx.boats:443/airmaxtvSyria996/airmaxtvSyria222/313.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BEIN SPORTS 8" tvg-logo="" group-title="beIN Sports (Backup)",BEIN SPORTS 8
+#EXTVLCOPT:http-user-agent=airmaxtvSyria
+https://airmaxx.boats:443/airmaxtvSyria996/airmaxtvSyria222/314.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Alwan Sport 1 FHD VIP Arb" tvg-logo="" group-title="Alwan Sport",Alwan Sport 1 FHD VIP Arb
 http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/128864
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Alwan Sport 1 HD VIP Arb" tvg-logo="" group-title="Alwan Sport",Alwan Sport 1 HD VIP Arb
@@ -171,8 +195,20 @@ http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/4087
 http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/7537
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AD Sport Premium 1 FHD AR" tvg-logo="" group-title="AD Sport Premium (Serie A)",AD Sport Premium 1 FHD AR
 http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/110606
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AR: Abu Dhabi Sport PREMIUM 1 HD" tvg-logo="" group-title="AD Sport Premium (Serie A)",AR: Abu Dhabi Sport PREMIUM 1 HD
+#EXTVLCOPT:http-user-agent=airmaxtvSyria
+https://airmaxx.boats:443/airmaxtvSyria996/airmaxtvSyria222/591.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AR: Abu Dhabi Sport 1 ASIA HD" tvg-logo="" group-title="AD Sport Premium (Serie A)",AR: Abu Dhabi Sport 1 ASIA HD
+#EXTVLCOPT:http-user-agent=airmaxtvSyria
+https://airmaxx.boats:443/airmaxtvSyria996/airmaxtvSyria222/593.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AD Sport Premium 2 FHD AR" tvg-logo="" group-title="AD Sport Premium (Serie A)",AD Sport Premium 2 FHD AR
 http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/110607
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AR: Abu Dhabi Sport PREMIUM 2 HD" tvg-logo="" group-title="AD Sport Premium (Serie A)",AR: Abu Dhabi Sport PREMIUM 2 HD
+#EXTVLCOPT:http-user-agent=airmaxtvSyria
+https://airmaxx.boats:443/airmaxtvSyria996/airmaxtvSyria222/592.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AR: Abu Dhabi Sport 2 ASIA HD" tvg-logo="" group-title="AD Sport Premium (Serie A)",AR: Abu Dhabi Sport 2 ASIA HD
+#EXTVLCOPT:http-user-agent=airmaxtvSyria
+https://airmaxx.boats:443/airmaxtvSyria996/airmaxtvSyria222/594.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="THAMANYA SPORTS 1 HD" tvg-logo="" group-title="Thmanyah ",THAMANYA SPORTS 1 HD
 #EXTVLCOPT:http-user-agent=airmaxtvSyria
 https://airmaxx.boats:443/airmaxtvSyria996/airmaxtvSyria222/2515.ts
