@@ -140,7 +140,6 @@ https://airmaxx.boats:443/airmaxtvSyria996/airmaxtvSyria222/309.ts
 #EXTVLCOPT:http-user-agent=airmaxtvSyria
 https://airmaxx.boats:443/airmaxtvSyria996/airmaxtvSyria222/311.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Alwan Sport 1 FHD VIP Arb" tvg-logo="" group-title="Alwan Sport",Alwan Sport 1 FHD VIP Arb
-#EXTVLCOPT:http-reconnect=true
 http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/128864
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Alwan Sport 1 HD VIP Arb" tvg-logo="" group-title="Alwan Sport",Alwan Sport 1 HD VIP Arb
 http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/128858
@@ -441,5 +440,6 @@ http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/103342
 http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/103343
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ON TIME Sports 3 FHD ARB" tvg-logo="" group-title="ON TIME Sports",ON TIME Sports 3 FHD ARB
 http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/103344
+
 
 
