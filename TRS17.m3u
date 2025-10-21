@@ -65,6 +65,9 @@ http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/98065
 http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/98066
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports 7 QA" tvg-logo="" group-title="beIN Sports (Arabic)",beIN Sports 7 QA
 http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/98067
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BEIN SPORTS 8" tvg-logo="" group-title="beIN Sports (Arabic)",BEIN SPORTS 8
+#EXTVLCOPT:http-user-agent=airmaxtvSyria
+https://airmaxx.boats:443/airmaxtvSyria996/airmaxtvSyria222/314.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports NBA FHD QA" tvg-logo="" group-title="beIN Sports (Arabic)",beIN Sports NBA FHD QA
 http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/98101
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports Xtra 1 QA" tvg-logo="" group-title="beIN Sports (Arabic)",beIN Sports Xtra 1 QA
@@ -79,30 +82,63 @@ http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/109991
 http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/109986
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports NBA HD QA" tvg-logo="" group-title="beIN Sports (Arabic)",beIN Sports NBA HD QA
 http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/98102
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BEIN SPORTS 1" tvg-logo="" group-title="beIN Sports (Backup)",BEIN SPORTS 1
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sport  HD" tvg-logo="" group-title="beIN Sports (Backup)",beIN Sport  HD
 #EXTVLCOPT:http-user-agent=airmaxtvSyria
-https://airmaxx.boats:443/airmaxtvSyria996/airmaxtvSyria222/306.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BEIN SPORTS 2" tvg-logo="" group-title="beIN Sports (Backup)",BEIN SPORTS 2
+https://airmaxx.boats:443/airmaxtvSyria996/airmaxtvSyria222/716.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sport 1 HD" tvg-logo="" group-title="beIN Sports (Backup)",beIN Sport 1 HD
 #EXTVLCOPT:http-user-agent=airmaxtvSyria
-https://airmaxx.boats:443/airmaxtvSyria996/airmaxtvSyria222/307.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BEIN SPORTS 3" tvg-logo="" group-title="beIN Sports (Backup)",BEIN SPORTS 3
+https://airmaxx.boats:443/airmaxtvSyria996/airmaxtvSyria222/705.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sport 1 SD" tvg-logo="" group-title="beIN Sports (Backup)",beIN Sport 1 SD
 #EXTVLCOPT:http-user-agent=airmaxtvSyria
-https://airmaxx.boats:443/airmaxtvSyria996/airmaxtvSyria222/308.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BEIN SPORTS 4" tvg-logo="" group-title="beIN Sports (Backup)",BEIN SPORTS 4
+https://airmaxx.boats:443/airmaxtvSyria996/airmaxtvSyria222/706.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sport 2 HD" tvg-logo="" group-title="beIN Sports (Backup)",beIN Sport 2 HD
 #EXTVLCOPT:http-user-agent=airmaxtvSyria
-https://airmaxx.boats:443/airmaxtvSyria996/airmaxtvSyria222/309.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BEIN SPORTS 5" tvg-logo="" group-title="beIN Sports (Backup)",BEIN SPORTS 5
+https://airmaxx.boats:443/airmaxtvSyria996/airmaxtvSyria222/707.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sport 2 SD" tvg-logo="" group-title="beIN Sports (Backup)",beIN Sport 2 SD
 #EXTVLCOPT:http-user-agent=airmaxtvSyria
-https://airmaxx.boats:443/airmaxtvSyria996/airmaxtvSyria222/311.ts
+https://airmaxx.boats:443/airmaxtvSyria996/airmaxtvSyria222/708.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sport 2 SSD" tvg-logo="" group-title="beIN Sports (Backup)",beIN Sport 2 SSD
+#EXTVLCOPT:http-user-agent=airmaxtvSyria
+https://airmaxx.boats:443/airmaxtvSyria996/airmaxtvSyria222/709.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sport 3 HD" tvg-logo="" group-title="beIN Sports (Backup)",beIN Sport 3 HD
+#EXTVLCOPT:http-user-agent=airmaxtvSyria
+https://airmaxx.boats:443/airmaxtvSyria996/airmaxtvSyria222/710.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sport 3 SD" tvg-logo="" group-title="beIN Sports (Backup)",beIN Sport 3 SD
+#EXTVLCOPT:http-user-agent=airmaxtvSyria
+https://airmaxx.boats:443/airmaxtvSyria996/airmaxtvSyria222/711.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sport 3 SSD" tvg-logo="" group-title="beIN Sports (Backup)",beIN Sport 3 SSD
+#EXTVLCOPT:http-user-agent=airmaxtvSyria
+https://airmaxx.boats:443/airmaxtvSyria996/airmaxtvSyria222/712.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sport 3 SSSD" tvg-logo="" group-title="beIN Sports (Backup)",beIN Sport 3 SSSD
+#EXTVLCOPT:http-user-agent=airmaxtvSyria
+https://airmaxx.boats:443/airmaxtvSyria996/airmaxtvSyria222/713.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sport 4 HD" tvg-logo="" group-title="beIN Sports (Backup)",beIN Sport 4 HD
+#EXTVLCOPT:http-user-agent=airmaxtvSyria
+https://airmaxx.boats:443/airmaxtvSyria996/airmaxtvSyria222/714.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sport 5 HD" tvg-logo="" group-title="beIN Sports (Backup)",beIN Sport 5 HD
+#EXTVLCOPT:http-user-agent=airmaxtvSyria
+https://airmaxx.boats:443/airmaxtvSyria996/airmaxtvSyria222/715.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BEIN SPORTS 6" tvg-logo="" group-title="beIN Sports (Backup)",BEIN SPORTS 6
 #EXTVLCOPT:http-user-agent=airmaxtvSyria
 https://airmaxx.boats:443/airmaxtvSyria996/airmaxtvSyria222/312.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BEIN SPORTS 7" tvg-logo="" group-title="beIN Sports (Backup)",BEIN SPORTS 7
 #EXTVLCOPT:http-user-agent=airmaxtvSyria
 https://airmaxx.boats:443/airmaxtvSyria996/airmaxtvSyria222/313.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BEIN SPORTS 8" tvg-logo="" group-title="beIN Sports (Backup)",BEIN SPORTS 8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BEIN SPORTS 1" tvg-logo="" group-title="beIN Sports (Backup 2)",BEIN SPORTS 1
 #EXTVLCOPT:http-user-agent=airmaxtvSyria
-https://airmaxx.boats:443/airmaxtvSyria996/airmaxtvSyria222/314.ts
+https://airmaxx.boats:443/airmaxtvSyria996/airmaxtvSyria222/306.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BEIN SPORTS 2" tvg-logo="" group-title="beIN Sports (Backup 2)",BEIN SPORTS 2
+#EXTVLCOPT:http-user-agent=airmaxtvSyria
+https://airmaxx.boats:443/airmaxtvSyria996/airmaxtvSyria222/307.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BEIN SPORTS 3" tvg-logo="" group-title="beIN Sports (Backup 2)",BEIN SPORTS 3
+#EXTVLCOPT:http-user-agent=airmaxtvSyria
+https://airmaxx.boats:443/airmaxtvSyria996/airmaxtvSyria222/308.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BEIN SPORTS 4" tvg-logo="" group-title="beIN Sports (Backup 2)",BEIN SPORTS 4
+#EXTVLCOPT:http-user-agent=airmaxtvSyria
+https://airmaxx.boats:443/airmaxtvSyria996/airmaxtvSyria222/309.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BEIN SPORTS 5" tvg-logo="" group-title="beIN Sports (Backup 2)",BEIN SPORTS 5
+#EXTVLCOPT:http-user-agent=airmaxtvSyria
+https://airmaxx.boats:443/airmaxtvSyria996/airmaxtvSyria222/311.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Alwan Sport 1 FHD VIP Arb" tvg-logo="" group-title="Alwan Sport",Alwan Sport 1 FHD VIP Arb
 http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/128864
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Alwan Sport 1 HD VIP Arb" tvg-logo="" group-title="Alwan Sport",Alwan Sport 1 HD VIP Arb
@@ -193,20 +229,32 @@ http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/4088
 http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/4087
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN SPORTS MAX 8 HD FR" tvg-logo="" group-title="beIN Sports (French) ",beIN SPORTS MAX 8 HD FR
 http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/7537
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AD Sport Premium 1 FHD AR" tvg-logo="" group-title="AD Sport Premium (Serie A)",AD Sport Premium 1 FHD AR
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sport TR 1" tvg-logo="" group-title="beIN Sports (Turkish) ",beIN Sport TR 1
+#EXTVLCOPT:http-user-agent=airmaxtvSyria
+https://airmaxx.boats:443/airmaxtvSyria996/airmaxtvSyria222/771.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sport TR 1 HD" tvg-logo="" group-title="beIN Sports (Turkish) ",beIN Sport TR 1 HD
+#EXTVLCOPT:http-user-agent=airmaxtvSyria
+https://airmaxx.boats:443/airmaxtvSyria996/airmaxtvSyria222/802.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sport TR 2" tvg-logo="" group-title="beIN Sports (Turkish) ",beIN Sport TR 2
+#EXTVLCOPT:http-user-agent=airmaxtvSyria
+https://airmaxx.boats:443/airmaxtvSyria996/airmaxtvSyria222/772.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sport TR 3" tvg-logo="" group-title="beIN Sports (Turkish) ",beIN Sport TR 3
+#EXTVLCOPT:http-user-agent=airmaxtvSyria
+https://airmaxx.boats:443/airmaxtvSyria996/airmaxtvSyria222/773.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AD Sport Premium 1 FHD " tvg-logo="" group-title="AD Sport Premium (Serie A)",AD Sport Premium 1 FHD 
 http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/110606
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AR: Abu Dhabi Sport PREMIUM 1 HD" tvg-logo="" group-title="AD Sport Premium (Serie A)",AR: Abu Dhabi Sport PREMIUM 1 HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AD Sport PREMIUM 1 HD" tvg-logo="" group-title="AD Sport Premium (Serie A)",AD Sport PREMIUM 1 HD
 #EXTVLCOPT:http-user-agent=airmaxtvSyria
 https://airmaxx.boats:443/airmaxtvSyria996/airmaxtvSyria222/591.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AR: Abu Dhabi Sport 1 ASIA HD" tvg-logo="" group-title="AD Sport Premium (Serie A)",AR: Abu Dhabi Sport 1 ASIA HD
-#EXTVLCOPT:http-user-agent=airmaxtvSyria
-https://airmaxx.boats:443/airmaxtvSyria996/airmaxtvSyria222/593.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AD Sport Premium 2 FHD AR" tvg-logo="" group-title="AD Sport Premium (Serie A)",AD Sport Premium 2 FHD AR
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AD Sport Premium 2 FHD " tvg-logo="" group-title="AD Sport Premium (Serie A)",AD Sport Premium 2 FHD 
 http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/110607
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AR: Abu Dhabi Sport PREMIUM 2 HD" tvg-logo="" group-title="AD Sport Premium (Serie A)",AR: Abu Dhabi Sport PREMIUM 2 HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AD Sport PREMIUM 2 HD" tvg-logo="" group-title="AD Sport Premium (Serie A)",AD Sport PREMIUM 2 HD
 #EXTVLCOPT:http-user-agent=airmaxtvSyria
 https://airmaxx.boats:443/airmaxtvSyria996/airmaxtvSyria222/592.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AR: Abu Dhabi Sport 2 ASIA HD" tvg-logo="" group-title="AD Sport Premium (Serie A)",AR: Abu Dhabi Sport 2 ASIA HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Shasha 1 (Serie A)" tvg-logo="" group-title="AD Sport Premium (Serie A)",Shasha 1 (Serie A)
+#EXTVLCOPT:http-user-agent=airmaxtvSyria
+https://airmaxx.boats:443/airmaxtvSyria996/airmaxtvSyria222/593.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Shasha 2 (Serie A)" tvg-logo="" group-title="AD Sport Premium (Serie A)",Shasha 2 (Serie A)
 #EXTVLCOPT:http-user-agent=airmaxtvSyria
 https://airmaxx.boats:443/airmaxtvSyria996/airmaxtvSyria222/594.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="THAMANYA SPORTS 1 HD" tvg-logo="" group-title="Thmanyah ",THAMANYA SPORTS 1 HD
@@ -218,20 +266,148 @@ https://airmaxx.boats:443/airmaxtvSyria996/airmaxtvSyria222/2517.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="THAMANYA SPORTS 3 HD" tvg-logo="" group-title="Thmanyah ",THAMANYA SPORTS 3 HD
 #EXTVLCOPT:http-user-agent=airmaxtvSyria
 https://airmaxx.boats:443/airmaxtvSyria996/airmaxtvSyria222/2519.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Thmanyah 1 (720p)" tvg-logo="" group-title="Thmanyah ",Thmanyah 1 (720p)
-http://1789-181.123091763.it.com/live/882115_.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Thmanyah 2 (720p)" tvg-logo="" group-title="Thmanyah ",Thmanyah 2 (720p)
-http://1789-181.123091763.it.com/live/785917_.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Thmanyah 3 (720p)" tvg-logo="" group-title="Thmanyah ",Thmanyah 3 (720p)
-http://1789-181.123091763.it.com/live/595243_.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="4 Sport" tvg-logo="" group-title="Football (Others)",4 Sport
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sport + " tvg-logo="" group-title="Sky Sport",Sky Sport + 
+#EXTVLCOPT:http-user-agent=airmaxtvSyria
+https://airmaxx.boats:443/airmaxtvSyria996/airmaxtvSyria222/860.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sport (Top Event) " tvg-logo="" group-title="Sky Sport",Sky Sport (Top Event) 
+#EXTVLCOPT:http-user-agent=airmaxtvSyria
+https://airmaxx.boats:443/airmaxtvSyria996/airmaxtvSyria222/1000.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sport (Main Event) UHD" tvg-logo="" group-title="Sky Sport",Sky Sport (Main Event) UHD
+#EXTVLCOPT:http-user-agent=airmaxtvSyria
+https://airmaxx.boats:443/airmaxtvSyria996/airmaxtvSyria222/847.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sport (Main Event) BK" tvg-logo="" group-title="Sky Sport",Sky Sport (Main Event) BK
+#EXTVLCOPT:http-user-agent=airmaxtvSyria
+https://airmaxx.boats:443/airmaxtvSyria996/airmaxtvSyria222/1123.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sport (PL) UHD" tvg-logo="" group-title="Sky Sport",Sky Sport (PL) UHD
+#EXTVLCOPT:http-user-agent=airmaxtvSyria
+https://airmaxx.boats:443/airmaxtvSyria996/airmaxtvSyria222/851.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sport (PL) " tvg-logo="" group-title="Sky Sport",Sky Sport (PL) 
+#EXTVLCOPT:http-user-agent=airmaxtvSyria
+https://airmaxx.boats:443/airmaxtvSyria996/airmaxtvSyria222/1111.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sport (PL2) " tvg-logo="" group-title="Sky Sport",Sky Sport (PL2) 
+#EXTVLCOPT:http-user-agent=airmaxtvSyria
+https://airmaxx.boats:443/airmaxtvSyria996/airmaxtvSyria222/1122.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sport (Football) UHD" tvg-logo="" group-title="Sky Sport",Sky Sport (Football) UHD
+#EXTVLCOPT:http-user-agent=airmaxtvSyria
+https://airmaxx.boats:443/airmaxtvSyria996/airmaxtvSyria222/852.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sport (Racing) UHD" tvg-logo="" group-title="Sky Sport",Sky Sport (Racing) UHD
+#EXTVLCOPT:http-user-agent=airmaxtvSyria
+https://airmaxx.boats:443/airmaxtvSyria996/airmaxtvSyria222/858.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sport (Mix)" tvg-logo="" group-title="Sky Sport",Sky Sport (Mix)
+#EXTVLCOPT:http-user-agent=airmaxtvSyria
+https://airmaxx.boats:443/airmaxtvSyria996/airmaxtvSyria222/1124.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sport (NFL) " tvg-logo="" group-title="Sky Sport",Sky Sport (NFL) 
+#EXTVLCOPT:http-user-agent=airmaxtvSyria
+https://airmaxx.boats:443/airmaxtvSyria996/airmaxtvSyria222/859.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN Sport" tvg-logo="" group-title="ESPN Sport",ESPN Sport
+#EXTVLCOPT:http-user-agent=airmaxtvSyria
+https://airmaxx.boats:443/airmaxtvSyria996/airmaxtvSyria222/905.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN Sport 2" tvg-logo="" group-title="ESPN Sport",ESPN Sport 2
+#EXTVLCOPT:http-user-agent=airmaxtvSyria
+https://airmaxx.boats:443/airmaxtvSyria996/airmaxtvSyria222/906.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ACCN ESPN " tvg-logo="" group-title="ESPN Sport",ACCN ESPN 
+#EXTVLCOPT:http-user-agent=airmaxtvSyria
+https://airmaxx.boats:443/airmaxtvSyria996/airmaxtvSyria222/910.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TNT Sport 3" tvg-logo="" group-title="TNT Sport",TNT Sport 3
+#EXTVLCOPT:http-user-agent=airmaxtvSyria
+https://airmaxx.boats:443/airmaxtvSyria996/airmaxtvSyria222/864.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TNT Sport 4" tvg-logo="" group-title="TNT Sport",TNT Sport 4
+#EXTVLCOPT:http-user-agent=airmaxtvSyria
+https://airmaxx.boats:443/airmaxtvSyria996/airmaxtvSyria222/863.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FS Sport 1" tvg-logo="" group-title="FS Sport",FS Sport 1
+#EXTVLCOPT:http-user-agent=airmaxtvSyria
+https://airmaxx.boats:443/airmaxtvSyria996/airmaxtvSyria222/911.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FS Sport 2" tvg-logo="" group-title="FS Sport",FS Sport 2
+#EXTVLCOPT:http-user-agent=airmaxtvSyria
+https://airmaxx.boats:443/airmaxtvSyria996/airmaxtvSyria222/912.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="4 Sport" tvg-logo="" group-title="Sport (Others)",4 Sport
 https://pepsi.abntv.live/hls/4spstream.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DTV SPORTS" tvg-logo="" group-title="Football (Others)",DTV SPORTS
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Astro PL" tvg-logo="" group-title="Sport (Others)",Astro PL
+#EXTVLCOPT:http-user-agent=airmaxtvSyria
+https://airmaxx.boats:443/airmaxtvSyria996/airmaxtvSyria222/838.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ball2" tvg-logo="" group-title="Sport (Others)",Ball2
+#EXTVLCOPT:http-user-agent=airmaxtvSyria
+https://airmaxx.boats:443/airmaxtvSyria996/airmaxtvSyria222/1002.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ball3" tvg-logo="" group-title="Sport (Others)",Ball3
+#EXTVLCOPT:http-user-agent=airmaxtvSyria
+https://airmaxx.boats:443/airmaxtvSyria996/airmaxtvSyria222/1003.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DIEMA Sport 1" tvg-logo="" group-title="Sport (Others)",DIEMA Sport 1
+#EXTVLCOPT:http-user-agent=airmaxtvSyria
+https://airmaxx.boats:443/airmaxtvSyria996/airmaxtvSyria222/1020.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DIEMA Sport 2" tvg-logo="" group-title="Sport (Others)",DIEMA Sport 2
+#EXTVLCOPT:http-user-agent=airmaxtvSyria
+https://airmaxx.boats:443/airmaxtvSyria996/airmaxtvSyria222/1021.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DIEMA Sport 3" tvg-logo="" group-title="Sport (Others)",DIEMA Sport 3
+#EXTVLCOPT:http-user-agent=airmaxtvSyria
+https://airmaxx.boats:443/airmaxtvSyria996/airmaxtvSyria222/1022.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DIGI Sport 1" tvg-logo="" group-title="Sport (Others)",DIGI Sport 1
+#EXTVLCOPT:http-user-agent=airmaxtvSyria
+https://airmaxx.boats:443/airmaxtvSyria996/airmaxtvSyria222/1018.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DIGI Sport 2" tvg-logo="" group-title="Sport (Others)",DIGI Sport 2
+#EXTVLCOPT:http-user-agent=airmaxtvSyria
+https://airmaxx.boats:443/airmaxtvSyria996/airmaxtvSyria222/1019.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DTV SPORTS" tvg-logo="" group-title="Sport (Others)",DTV SPORTS
 http://38.183.182.166:8000/play/a125/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Persiana Sport" tvg-logo="" group-title="Football (Others)",Persiana Sport
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Max Sport 1 " tvg-logo="" group-title="Sport (Others)",Max Sport 1 
+#EXTVLCOPT:http-user-agent=airmaxtvSyria
+https://airmaxx.boats:443/airmaxtvSyria996/airmaxtvSyria222/1023.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Max Sport 2" tvg-logo="" group-title="Sport (Others)",Max Sport 2
+#EXTVLCOPT:http-user-agent=airmaxtvSyria
+https://airmaxx.boats:443/airmaxtvSyria996/airmaxtvSyria222/1024.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Max Sport 3" tvg-logo="" group-title="Sport (Others)",Max Sport 3
+#EXTVLCOPT:http-user-agent=airmaxtvSyria
+https://airmaxx.boats:443/airmaxtvSyria996/airmaxtvSyria222/1025.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBA TV" tvg-logo="" group-title="Sport (Others)",NBA TV
+#EXTVLCOPT:http-user-agent=airmaxtvSyria
+https://airmaxx.boats:443/airmaxtvSyria996/airmaxtvSyria222/914.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NFL Network " tvg-logo="" group-title="Sport (Others)",NFL Network 
+#EXTVLCOPT:http-user-agent=airmaxtvSyria
+https://airmaxx.boats:443/airmaxtvSyria996/airmaxtvSyria222/915.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Persiana Sport" tvg-logo="" group-title="Sport (Others)",Persiana Sport
 https://spstr.abntv.live/hls/psstream.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Realmadrid TV HD" tvg-logo="" group-title="Football (Others)",Realmadrid TV HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Realmadrid TV HD" tvg-logo="" group-title="Sport (Others)",Realmadrid TV HD
 http://176.65.146.237:8401/play/a0ak/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SETANATA Sports 1" tvg-logo="" group-title="Sport (Others)",SETANATA Sports 1
+#EXTVLCOPT:http-user-agent=airmaxtvSyria
+https://airmaxx.boats:443/airmaxtvSyria996/airmaxtvSyria222/1029.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SETANTA Sports 2" tvg-logo="" group-title="Sport (Others)",SETANTA Sports 2
+#EXTVLCOPT:http-user-agent=airmaxtvSyria
+https://airmaxx.boats:443/airmaxtvSyria996/airmaxtvSyria222/1030.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sport TV 1 HD" tvg-logo="" group-title="Sport (Others)",Sport TV 1 HD
+#EXTVLCOPT:http-user-agent=airmaxtvSyria
+https://airmaxx.boats:443/airmaxtvSyria996/airmaxtvSyria222/719.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ziggo Sport" tvg-logo="" group-title="Sport (Others)",Ziggo Sport
+#EXTVLCOPT:http-user-agent=airmaxtvSyria
+https://airmaxx.boats:443/airmaxtvSyria996/airmaxtvSyria222/1004.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ziggo Sport 4" tvg-logo="" group-title="Sport (Others)",Ziggo Sport 4
+#EXTVLCOPT:http-user-agent=airmaxtvSyria
+https://airmaxx.boats:443/airmaxtvSyria996/airmaxtvSyria222/1006.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sport (F1) BK" tvg-logo="" group-title="F1",Sky Sport (F1) BK
+#EXTVLCOPT:http-user-agent=airmaxtvSyria
+https://airmaxx.boats:443/airmaxtvSyria996/airmaxtvSyria222/1264.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sport (F1) BK2" tvg-logo="" group-title="F1",Sky Sport (F1) BK2
+#EXTVLCOPT:http-user-agent=airmaxtvSyria
+https://airmaxx.boats:443/airmaxtvSyria996/airmaxtvSyria222/1127.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sport (F1) UHD" tvg-logo="" group-title="F1",Sky Sport (F1) UHD
+#EXTVLCOPT:http-user-agent=airmaxtvSyria
+https://airmaxx.boats:443/airmaxtvSyria996/airmaxtvSyria222/854.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TSN1 (1080p)" tvg-logo="" group-title="F1",TSN1 (1080p)
+https://fl41.moveonjoy.com/TSN_1/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TSN2" tvg-logo="" group-title="F1",TSN2
+https://fl41.moveonjoy.com/TSN_2/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TSN3" tvg-logo="" group-title="F1",TSN3
+https://fl41.moveonjoy.com/TSN_3/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TSN4" tvg-logo="" group-title="F1",TSN4
+https://fl41.moveonjoy.com/TSN_4/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TSN5" tvg-logo="" group-title="F1",TSN5
+https://fl41.moveonjoy.com/TSN_5/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sport (Tennis) " tvg-logo="" group-title="Tennis",Sky Sport (Tennis) 
+#EXTVLCOPT:http-user-agent=airmaxtvSyria
+https://airmaxx.boats:443/airmaxtvSyria996/airmaxtvSyria222/861.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Game+ (720p)" tvg-logo="" group-title="Tennis",Game+ (720p)
+https://a-cdn.klowdtv.com/live2/fntsy_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tennis Channel" tvg-logo="" group-title="Tennis",Tennis Channel
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Alkass 1 HD QA" tvg-logo="" group-title="Alkass ",Alkass 1 HD QA
 http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/109996
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AlKass 1 HD QA ARB" tvg-logo="" group-title="Alkass ",AlKass 1 HD QA ARB
@@ -248,20 +424,6 @@ http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/106998
 http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/109993
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AlKass 4 HD QA ARB" tvg-logo="" group-title="Alkass ",AlKass 4 HD QA ARB
 http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/106999
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TSN1 (1080p)" tvg-logo="" group-title="F1",TSN1 (1080p)
-https://fl41.moveonjoy.com/TSN_1/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TSN2" tvg-logo="" group-title="F1",TSN2
-https://fl41.moveonjoy.com/TSN_2/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TSN3" tvg-logo="" group-title="F1",TSN3
-https://fl41.moveonjoy.com/TSN_3/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TSN4" tvg-logo="" group-title="F1",TSN4
-https://fl41.moveonjoy.com/TSN_4/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TSN5" tvg-logo="" group-title="F1",TSN5
-https://fl41.moveonjoy.com/TSN_5/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Game+ (720p)" tvg-logo="" group-title="Tennis",Game+ (720p)
-https://a-cdn.klowdtv.com/live2/fntsy_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tennis Channel" tvg-logo="" group-title="Tennis",Tennis Channel
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Abu Dhabi Sports 1 ARB" tvg-logo="" group-title="Abu Dhabi Sports",Abu Dhabi Sports 1 ARB
 http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/3524
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Abu Dhabi Sports 2 ARB" tvg-logo="" group-title="Abu Dhabi Sports",Abu Dhabi Sports 2 ARB
