@@ -268,6 +268,30 @@ https://airmaxx.boats:443/airmaxtvSyria996/airmaxtvSyria222/2517.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="THAMANYA SPORTS 3 HD" tvg-logo="" group-title="Thmanyah ",THAMANYA SPORTS 3 HD
 #EXTVLCOPT:http-user-agent=airmaxtvSyria
 https://airmaxx.boats:443/airmaxtvSyria996/airmaxtvSyria222/2519.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sport TV+" tvg-logo="" group-title="Sport TV (Portugal) ",Sport TV+
+https://maldivesn.net/hilaytv/sporttvplus
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sport TV 1" tvg-logo="" group-title="Sport TV (Portugal) ",Sport TV 1
+https://maldivesn.net/hilaytv/sporttv1
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sport TV 2" tvg-logo="" group-title="Sport TV (Portugal) ",Sport TV 2
+https://maldivesn.net/hilaytv/sporttv2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sport TV 3" tvg-logo="" group-title="Sport TV (Portugal) ",Sport TV 3
+https://maldivesn.net/hilaytv/sporttv3
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sport TV 4" tvg-logo="" group-title="Sport TV (Portugal) ",Sport TV 4
+https://maldivesn.net/hilaytv/sporttv4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sport TV 5" tvg-logo="" group-title="Sport TV (Portugal) ",Sport TV 5
+https://maldivesn.net/hilaytv/sporttv5
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sport TV 6" tvg-logo="" group-title="Sport TV (Portugal) ",Sport TV 6
+https://maldivesn.net/hilaytv/sporttv6
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TNT Sport 1" tvg-logo="" group-title="TNT Sport",TNT Sport 1
+http://mains.services/live/bshorty/Zv5le07a0J/6c5b4010-afa9-4e64-921b-263217b936da.ts%20
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TNT Sport 2" tvg-logo="" group-title="TNT Sport",TNT Sport 2
+http://mains.services/live/bshorty/Zv5le07a0J/b99d4063-9cbf-46cc-a6ac-86601b3a17b1.ts%20
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TNT Sport 3" tvg-logo="" group-title="TNT Sport",TNT Sport 3
+http://mains.services/live/bshorty/Zv5le07a0J/3487f1f4-771e-4c8c-aa7c-80945800c7d9.ts%20
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TNT Sport 4" tvg-logo="" group-title="TNT Sport",TNT Sport 4
+http://mains.services/live/bshorty/Zv5le07a0J/26a00017-1496-468f-8693-93df9e1b846f.ts%20
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TNT Sport 5" tvg-logo="" group-title="TNT Sport",TNT Sport 5
+http://mains.services/live/bshorty/Zv5le07a0J/92614ec7-2113-4151-bc29-3a23ade80cc7.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sport + " tvg-logo="" group-title="Sky Sport",Sky Sport + 
 #EXTVLCOPT:http-user-agent=airmaxtvSyria
 https://airmaxx.boats:443/airmaxtvSyria996/airmaxtvSyria222/860.ts
@@ -310,12 +334,6 @@ https://airmaxx.boats:443/airmaxtvSyria996/airmaxtvSyria222/906.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ACCN ESPN " tvg-logo="" group-title="ESPN Sport",ACCN ESPN 
 #EXTVLCOPT:http-user-agent=airmaxtvSyria
 https://airmaxx.boats:443/airmaxtvSyria996/airmaxtvSyria222/910.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TNT Sport 3" tvg-logo="" group-title="TNT Sport",TNT Sport 3
-#EXTVLCOPT:http-user-agent=airmaxtvSyria
-https://airmaxx.boats:443/airmaxtvSyria996/airmaxtvSyria222/864.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TNT Sport 4" tvg-logo="" group-title="TNT Sport",TNT Sport 4
-#EXTVLCOPT:http-user-agent=airmaxtvSyria
-https://airmaxx.boats:443/airmaxtvSyria996/airmaxtvSyria222/863.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FS Sport 1" tvg-logo="" group-title="FS Sport",FS Sport 1
 #EXTVLCOPT:http-user-agent=airmaxtvSyria
 https://airmaxx.boats:443/airmaxtvSyria996/airmaxtvSyria222/911.ts
@@ -442,4 +460,3 @@ http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/103342
 http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/103343
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ON TIME Sports 3 FHD ARB" tvg-logo="" group-title="ON TIME Sports",ON TIME Sports 3 FHD ARB
 http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/103344
-
