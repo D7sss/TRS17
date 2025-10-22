@@ -3,6 +3,8 @@
 http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/98104
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports HD QA" tvg-logo="" group-title="beIN Sports (Arabic)",beIN Sports HD QA
 http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/98103
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sport 4K" tvg-logo="" group-title="beIN Sports (Arabic)",beIN Sport 4K
+http://0amoy91hrw.redplus.me:80/live/VinciDiv/26092021/200813.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bein Sports 1 4K QA" tvg-logo="" group-title="beIN Sports (Arabic)",Bein Sports 1 4K QA
 http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/118408
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports Premium 1 FHD QA" tvg-logo="" group-title="beIN Sports (Arabic)",beIN Sports Premium 1 FHD QA
@@ -440,6 +442,3 @@ http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/103342
 http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/103343
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ON TIME Sports 3 FHD ARB" tvg-logo="" group-title="ON TIME Sports",ON TIME Sports 3 FHD ARB
 http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/103344
-
-
-
