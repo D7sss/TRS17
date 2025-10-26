@@ -121,7 +121,8 @@ https://airmaxx.boats:443/airmaxtvSyria9963/airmaxtvSyria3232/714.ts
 #EXTVLCOPT:http-user-agent=airmaxtvSyria
 https://airmaxx.boats:443/airmaxtvSyria9963/airmaxtvSyria3232/715.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BEIN SPORTS 6" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-6-hz-mea.png" group-title="beIN Sports (Backup)",BEIN SPORTS 6
-#EXTVLCOPT:http-user-agent=airmaxtvSyria https://airmaxx.boats:443/airmaxtvSyria9963/airmaxtvSyria3232/312.ts
+#EXTVLCOPT:http-user-agent=airmaxtvSyria
+https://airmaxx.boats:443/airmaxtvSyria9963/airmaxtvSyria3232/312.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BEIN SPORTS 7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-7-hz-mea.png" group-title="beIN Sports (Backup)",BEIN SPORTS 7
 #EXTVLCOPT:http-user-agent=airmaxtvSyria
 https://airmaxx.boats:443/airmaxtvSyria9963/airmaxtvSyria3232/313.ts
@@ -472,4 +473,5 @@ http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/103342
 http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/103343
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ON TIME Sports 3 FHD ARB" tvg-logo="https://yt3.googleusercontent.com/5KXtaWB5YnPF8u39VWh-DsdvaAFEYtWIz-gzXvU3W65F3a9Um5VIMoJiyjE1H99umdpU4v3RgQ=s900-c-k-c0x00ffffff-no-rj" group-title="ON TIME Sports",ON TIME Sports 3 FHD ARB
 http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/103344
+
 
