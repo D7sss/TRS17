@@ -251,7 +251,7 @@ https://airmaxx.boats:443/airmaxtvSyria9963/airmaxtvSyria3232/2515.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Thamanya 2 (Backup)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Thmanyah_Logo.svg/2048px-Thmanyah_Logo.svg.png" group-title="Thamanya (Backup)",Thamanya 2 (Backup)
 #EXTVLCOPT:http-user-agent=airmaxtvSyria
 https://airmaxx.boats:443/airmaxtvSyria9963/airmaxtvSyria3232/2517.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Thamanya 3 (Backup)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e9/Thmanyah_Logo.svg" group-title="Thamanya (Backup)",Thamanya 3 (Backup)
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Thamanya 3 (Backup)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Thmanyah_Logo.svg/2048px-Thmanyah_Logo.svg.png" group-title="Thamanya (Backup)",Thamanya 3 (Backup)
 #EXTVLCOPT:http-user-agent=airmaxtvSyria
 https://airmaxx.boats:443/airmaxtvSyria9963/airmaxtvSyria3232/2519.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AD Sport PREMIUM 1" tvg-logo="https://mena-cdn-lb.aws.playco.com/prd-peg-data/default/web3/resources/images/starzplay.png" group-title="AD Sport Premium (Serie A)",AD Sport PREMIUM 1
@@ -268,6 +268,10 @@ https://airmaxx.boats:443/airmaxtvSyria9963/airmaxtvSyria3232/593.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Shasha 2 (Serie A)" tvg-logo="https://play-lh.googleusercontent.com/IKySffCPfxRg9V56Phaj1rfQCL3xme8NZg6wxTaSByBeBh4HEzal6EFjv1Fgfngjqh-h" group-title="AD Sport Premium (Serie A)",Shasha 2 (Serie A)
 #EXTVLCOPT:http-user-agent=airmaxtvSyria
 https://airmaxx.boats:443/airmaxtvSyria9963/airmaxtvSyria3232/594.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MBC Action HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-arab-emirates/mbc-action-ae.png" group-title="MBC Action",MBC Action HD
+http://2477fd5f.cbilant.com/iptv/WCSZMUM84X4689VHGC7UDAQQ/15197/index.m3u
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MBC Action SD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-arab-emirates/mbc-action-ae.png" group-title="MBC Action",MBC Action SD
+http://213.57.91.138:8000/play/a05l
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TNT Sport Ultimate 4K " tvg-logo="https://media.info/l/o/5/5824.1689874022.png" group-title="TNT Sport ",TNT Sport Ultimate 4K 
 https://a1xs.vip/2000031
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TNT Sport 1 " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tnt-sports-1-uk.png" group-title="TNT Sport ",TNT Sport 1 
@@ -378,7 +382,7 @@ https://maldivesn.net/hilaytv/sporttv6
 #EXTVLCOPT:http-user-agent=airmaxtvSyria
 https://airmaxx.boats:443/airmaxtvSyria9963/airmaxtvSyria3232/1020.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DIEMA Sport 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/diema-sport2-hd-bg.png" group-title="DIEMA Sport ",DIEMA Sport 2
-#EXTVLCOPT:http-user-agent=airmaxtvSyria 
+#EXTVLCOPT:http-user-agent=airmaxtvSyria
 https://airmaxx.boats:443/airmaxtvSyria9963/airmaxtvSyria3232/1021.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DIEMA Sport 3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/diema-sport3-hd-bg.png" group-title="DIEMA Sport ",DIEMA Sport 3
 #EXTVLCOPT:http-user-agent=airmaxtvSyria
@@ -427,4 +431,3 @@ http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/103342
 http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/103343
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ON TIME Sports 3 " tvg-logo="https://yt3.googleusercontent.com/5KXtaWB5YnPF8u39VWh-DsdvaAFEYtWIz-gzXvU3W65F3a9Um5VIMoJiyjE1H99umdpU4v3RgQ=s900-c-k-c0x00ffffff-no-rj" group-title="ON TIME Sports",ON TIME Sports 3 
 http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/103344
-
