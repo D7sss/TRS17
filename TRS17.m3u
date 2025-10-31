@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="http://m3u4u.com/epg/4z2xnjjzg1c2zrx9nv15"
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN SPORTS 1 FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-1-hz-mea.png" group-title="beIN SPORTS",beIN SPORTS 1 FHD
+#EXTINF:-1 tvg-id="7761" tvg-name="beIN SPORTS 1 FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-1-hz-mea.png" group-title="beIN SPORTS",beIN SPORTS 1 FHD
 http://176.119.29.54/bb1a4119-65f9-40dc-9867-127f2a6973d1.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN SPORTS 1 SD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-1-hz-mea.png" group-title="beIN SPORTS",beIN SPORTS 1 SD
 http://176.119.29.54/131f26d9-afb0-480e-8690-e46007de9fc8.m3u8
