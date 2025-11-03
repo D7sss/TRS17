@@ -51,6 +51,12 @@ http://176.119.29.54/00df2c2c-c740-41c4-b1ae-d7b57469bccc.m3u8
 http://176.119.29.54/31dc1067-8fa1-4189-bfc2-b0550f8c477b.m3u8
 #EXTINF:-1 tvg-id="beIN 4K.qa" tvg-name="beIN SPORTS 4K" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/international/beinsports/old/horizontal/bein-4k-hz-int.png" group-title="beIN SPORTS",beIN SPORTS 4K
 http://ffg.gogo8k.me:80/play/live.php?mac=00:1A:79:00:23:B1&stream=983525&extension=ts&play_token=hszzN8IAD6
+#EXTINF:-1 tvg-id="beIN SPORTS XTRA 1.qa" tvg-name="beIN SPORTS XTRA 1 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-1-xtra-hz-mea.png" group-title="beIN SPORTS",beIN SPORTS XTRA 1 HD
+http://medsat.casacam.net:2082/star7arab.x/fktjSy@2SmF/131
+#EXTINF:-1 tvg-id="beIN SPORTS XTRA 2.qa" tvg-name="beIN SPORTS XTRA 2 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-2-xtra-hz-mea.png" group-title="beIN SPORTS",beIN SPORTS XTRA 2 HD
+http://medsat.casacam.net:2082/star7arab.x/fktjSy@2SmF/135
+#EXTINF:-1 tvg-id="beIN SPORTS XTRA 3.qa" tvg-name="beIN SPORTS XTRA 3 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/international/beinsports/old/horizontal/bein-sports-xtra-hz-int.png" group-title="beIN SPORTS",beIN SPORTS XTRA 3 HD
+http://medsat.casacam.net:2082/star7arab.x/fktjSy@2SmF/139
 #EXTINF:-1 tvg-id="beIN SPORTS 1.qa" tvg-name="beIN SPORTS 1 FHD (Backup2)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-1-hz-mea.png" group-title="beIN SPORTS (Backup2)",beIN SPORTS 1 FHD (Backup2)
 http://medsat.casacam.net:2082/star7arab.x/fktjSy@2SmF/21
 #EXTINF:-1 tvg-id="beIN SPORTS 1.qa" tvg-name="beIN SPORTS 1 HD (Backup2)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-1-hz-mea.png" group-title="beIN SPORTS (Backup2)",beIN SPORTS 1 HD (Backup2)
