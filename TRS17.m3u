@@ -206,16 +206,12 @@ http://oktay-can-mdiya-hack.streamtv.to:8080/RqgXIWS5LF/9azAQRq81w/101765
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Thamanya 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Thmanyah_Logo.svg/2048px-Thmanyah_Logo.svg.png" group-title="Thamanya ",Thamanya 3
 http://oktay-can-mdiya-hack.streamtv.to:8080/RqgXIWS5LF/9azAQRq81w/101764
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Thamanya 1 (Backup)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Thmanyah_Logo.svg/2048px-Thmanyah_Logo.svg.png" group-title="Thamanya (Backup)",Thamanya 1 (Backup)
-#EXTVLCOPT:http-user-agent=airmaxtvSyria
 https://airmaxx.boats/live/airmaxtv/009631945/2533.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Thamanya 2 (Backup)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Thmanyah_Logo.svg/2048px-Thmanyah_Logo.svg.png" group-title="Thamanya (Backup)",Thamanya 2 (Backup)
-#EXTVLCOPT:http-user-agent=airmaxtvSyria
 https://airmaxx.boats/live/airmaxtv/009631945/2534.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Thamanya 3 (Backup)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Thmanyah_Logo.svg/2048px-Thmanyah_Logo.svg.png" group-title="Thamanya (Backup)",Thamanya 3 (Backup)
-#EXTVLCOPT:http-user-agent=airmaxtvSyria
 https://airmaxx.boats/live/airmaxtv/009631945/2535.m3u8
 #EXTINF:-1 tvg-id="AD Sports Premium 1.sa" tvg-name="AD Sport PREMIUM " tvg-logo="https://mena-cdn-lb.aws.playco.com/prd-peg-data/default/web3/resources/images/starzplay.png" group-title="AD Sport Premium (Serie A)",AD Sport PREMIUM 
-#EXTVLCOPT:http-user-agent=airmaxtvSyria
 https://airmaxx.boats/live/airmaxtv/009631945/2532.m3u8
 #EXTINF:-1 tvg-id="AD Sports Premium 2.sa" tvg-name="AD Sport PREMIUM (Backup)" tvg-logo="https://mena-cdn-lb.aws.playco.com/prd-peg-data/default/web3/resources/images/starzplay.png" group-title="AD Sport Premium (Serie A)",AD Sport PREMIUM (Backup)
 http://173.212.193.243:8080/mo3ad330/mo3ad330/881
@@ -415,3 +411,4 @@ http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/103342
 http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/103343
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ON TIME Sports 3 " tvg-logo="https://yt3.googleusercontent.com/5KXtaWB5YnPF8u39VWh-DsdvaAFEYtWIz-gzXvU3W65F3a9Um5VIMoJiyjE1H99umdpU4v3RgQ=s900-c-k-c0x00ffffff-no-rj" group-title="ON TIME Sports",ON TIME Sports 3 
 http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/103344
+
