@@ -1,203 +1,136 @@
 #EXTM3U url-tvg="http://m3u4u.com/epg/4z2xnjjzg1c2zrx9nv15"
-#EXTINF:-1 tvg-id="beIN SPORTS 1.qa" tvg-name="beIN SPORTS 1 FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-1-hz-mea.png" group-title="beIN SPORTS",beIN SPORTS 1 FHD
-http://176.119.29.54/bb1a4119-65f9-40dc-9867-127f2a6973d1.m3u8
-#EXTINF:-1 tvg-id="beIN SPORTS 1.qa" tvg-name="beIN SPORTS 1 SD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-1-hz-mea.png" group-title="beIN SPORTS",beIN SPORTS 1 SD
-http://176.119.29.54/131f26d9-afb0-480e-8690-e46007de9fc8.m3u8
-#EXTINF:-1 tvg-id="beIN SPORTS 2.qa" tvg-name="beIN SPORTS 2 FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-2-hz-mea.png" group-title="beIN SPORTS",beIN SPORTS 2 FHD
-http://176.119.29.54/460a6117-53a7-4e38-a6c2-ff564589c7e6.m3u8
-#EXTINF:-1 tvg-id="beIN SPORTS 2.qa" tvg-name="beIN SPORTS 2 SD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-2-hz-mea.png" group-title="beIN SPORTS",beIN SPORTS 2 SD
-http://176.119.29.54/93650306-59d6-451e-bfc0-77fdb23bf6c9.m3u8
-#EXTINF:-1 tvg-id="beIN SPORTS 3.qa" tvg-name="beIN SPORTS 3 FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-3-hz-mea.png" group-title="beIN SPORTS",beIN SPORTS 3 FHD
-http://176.119.29.54/d461442c-174d-413a-8f60-041e6dd4f9cc.m3u8
-#EXTINF:-1 tvg-id="beIN SPORTS 3.qa" tvg-name="beIN SPORTS 3 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-3-hz-mea.png" group-title="beIN SPORTS",beIN SPORTS 3 HD
-http://176.119.29.54/29c30b88-b77a-46da-8f46-212ba02af5d7.m3u8
-#EXTINF:-1 tvg-id="beIN SPORTS 3.qa" tvg-name="beIN SPORTS 3 SD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-3-hz-mea.png" group-title="beIN SPORTS",beIN SPORTS 3 SD
-http://176.119.29.54/9ce5782e-0660-4235-b5b1-83a8e2984426.m3u8
-#EXTINF:-1 tvg-id="beIN SPORTS 4.qa" tvg-name="beIN SPORTS 4 FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-4-hz-mea.png" group-title="beIN SPORTS",beIN SPORTS 4 FHD
-http://176.119.29.54/6f91c9ad-073b-486a-ab15-f537f6bea3e2.m3u8
-#EXTINF:-1 tvg-id="beIN SPORTS 4.qa" tvg-name="beIN SPORTS 4 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-4-hz-mea.png" group-title="beIN SPORTS",beIN SPORTS 4 HD
-http://176.119.29.54/e09943ac-48bc-4ac7-80cd-050e846dd7ad.m3u8
-#EXTINF:-1 tvg-id="beIN SPORTS 4.qa" tvg-name="beIN SPORTS 4 SD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-4-hz-mea.png" group-title="beIN SPORTS",beIN SPORTS 4 SD
-http://176.119.29.54/98017c4b-341f-4df4-8bb5-8bc0c57bff48.m3u8
-#EXTINF:-1 tvg-id="beIN SPORTS 5.qa" tvg-name="beIN SPORTS 5 FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-5-hz-mea.png" group-title="beIN SPORTS",beIN SPORTS 5 FHD
-http://176.119.29.54/d3f51267-8b0f-4e6d-baef-239e6625dd45.m3u8
-#EXTINF:-1 tvg-id="beIN SPORTS 5.qa" tvg-name="beIN SPORTS 5 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-5-hz-mea.png" group-title="beIN SPORTS",beIN SPORTS 5 HD
-http://176.119.29.54/7f270b4b-0b5f-4405-a2a3-41cbe0902821.m3u8
-#EXTINF:-1 tvg-id="beIN SPORTS 5.qa" tvg-name="beIN SPORTS 5 SD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-5-hz-mea.png" group-title="beIN SPORTS",beIN SPORTS 5 SD
-http://176.119.29.54/1fe232ea-d16f-4fc0-9f6d-741ca6cb60ba.m3u8
-#EXTINF:-1 tvg-id="beIN SPORTS 6.qa" tvg-name="beIN SPORTS 6 FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-6-hz-mea.png" group-title="beIN SPORTS",beIN SPORTS 6 FHD
-http://176.119.29.54/ff452afc-2486-4906-a44c-9c19f60223ed.m3u8
-#EXTINF:-1 tvg-id="beIN SPORTS 6.qa" tvg-name="beIN SPORTS 6 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-6-hz-mea.png" group-title="beIN SPORTS",beIN SPORTS 6 HD
-http://176.119.29.54/2033e44d-fb78-4d1d-87c5-e113009f710a.m3u8
-#EXTINF:-1 tvg-id="beIN SPORTS 6.qa" tvg-name="beIN SPORTS 6 SD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-6-hz-mea.png" group-title="beIN SPORTS",beIN SPORTS 6 SD
-http://176.119.29.54/637be477-b933-49e7-a9d3-e1298ad2d6e2.m3u8
-#EXTINF:-1 tvg-id="beIN SPORTS 7.qa" tvg-name="beIN SPORTS 7 FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-7-hz-mea.png" group-title="beIN SPORTS",beIN SPORTS 7 FHD
-http://176.119.29.54/28a459e7-83c3-45c7-bac3-55d524b2a64b.m3u8
-#EXTINF:-1 tvg-id="beIN SPORTS 7.qa" tvg-name="beIN SPORTS 7 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-7-hz-mea.png" group-title="beIN SPORTS",beIN SPORTS 7 HD
-http://176.119.29.54/8876003a-1185-48eb-95af-aac8814681dd.m3u8
-#EXTINF:-1 tvg-id="beIN SPORTS 7.qa" tvg-name="beIN SPORTS 7 SD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-7-hz-mea.png" group-title="beIN SPORTS",beIN SPORTS 7 SD
-http://176.119.29.54/331f22a3-d7ab-4726-b4c1-a8462554c443.m3u8
-#EXTINF:-1 tvg-id="beIN SPORTS 8.qa" tvg-name="beIN SPORTS 8 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Logo-Beinsports-8MAX.png" group-title="beIN SPORTS",beIN SPORTS 8 FHD
-http://176.119.29.54/c0acccc8-dd00-4dbe-8c03-af30b82b351b.m3u8
-#EXTINF:-1 tvg-id="beIN SPORTS 8.qa" tvg-name="beIN SPORTS 8 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Logo-Beinsports-8MAX.png" group-title="beIN SPORTS",beIN SPORTS 8 HD
-http://176.119.29.54/e814a746-94f1-4d93-8664-eb32b47673c4.m3u8
-#EXTINF:-1 tvg-id="beIN SPORTS 8.qa" tvg-name="beIN SPORTS 8 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Logo-Beinsports-8MAX.png" group-title="beIN SPORTS",beIN SPORTS 8 SD
-http://176.119.29.54/9ae31c68-bd25-49f8-964d-b2dff929d656.m3u8
-#EXTINF:-1 tvg-id="beIN SPORTS 9.qa" tvg-name="beIN SPORTS 9 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Logo-Beinsports-9MAX.png/1200px-Logo-Beinsports-9MAX.png" group-title="beIN SPORTS",beIN SPORTS 9 FHD
-http://176.119.29.54/72fa7606-10d0-4338-a515-19ccd1312a7b.m3u8
-#EXTINF:-1 tvg-id="beIN SPORTS 9.qa" tvg-name="beIN SPORTS 9 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Logo-Beinsports-9MAX.png/1200px-Logo-Beinsports-9MAX.png" group-title="beIN SPORTS",beIN SPORTS 9 HD
-http://176.119.29.54/00df2c2c-c740-41c4-b1ae-d7b57469bccc.m3u8
-#EXTINF:-1 tvg-id="beIN SPORTS 9.qa" tvg-name="beIN SPORTS 9 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Logo-Beinsports-9MAX.png/1200px-Logo-Beinsports-9MAX.png" group-title="beIN SPORTS",beIN SPORTS 9 SD
-http://176.119.29.54/31dc1067-8fa1-4189-bfc2-b0550f8c477b.m3u8
-#EXTINF:-1 tvg-id="beIN 4K.qa" tvg-name="beIN SPORTS 4K" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/international/beinsports/old/horizontal/bein-4k-hz-int.png" group-title="beIN SPORTS",beIN SPORTS 4K
-http://ffg.gogo8k.me:80/play/live.php?mac=00:1A:79:00:23:B1&stream=983525&extension=ts&play_token=hszzN8IAD6
-#EXTINF:-1 tvg-id="beIN SPORTS XTRA 1.qa" tvg-name="beIN SPORTS XTRA 1 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-1-xtra-hz-mea.png" group-title="beIN SPORTS",beIN SPORTS XTRA 1 HD
-http://medsat.casacam.net:2082/star7arab.x/fktjSy@2SmF/131
-#EXTINF:-1 tvg-id="beIN SPORTS XTRA 2.qa" tvg-name="beIN SPORTS XTRA 2 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-2-xtra-hz-mea.png" group-title="beIN SPORTS",beIN SPORTS XTRA 2 HD
-http://medsat.casacam.net:2082/star7arab.x/fktjSy@2SmF/135
-#EXTINF:-1 tvg-id="beIN SPORTS XTRA 3.qa" tvg-name="beIN SPORTS XTRA 3 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/international/beinsports/old/horizontal/bein-sports-xtra-hz-int.png" group-title="beIN SPORTS",beIN SPORTS XTRA 3 HD
-http://medsat.casacam.net:2082/star7arab.x/fktjSy@2SmF/139
-#EXTINF:-1 tvg-id="beIN SPORTS 1.qa" tvg-name="beIN SPORTS 1 FHD (Backup2)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-1-hz-mea.png" group-title="beIN SPORTS (Backup2)",beIN SPORTS 1 FHD (Backup2)
+#EXTINF:-1 tvg-id="beIN SPORTS 1.qa" tvg-name="beIN SPORTS 1 FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-1-hz-mea.png" group-title="beIN SPORTS ",beIN SPORTS 1 FHD
 http://medsat.casacam.net:2082/star7arab.x/fktjSy@2SmF/21
-#EXTINF:-1 tvg-id="beIN SPORTS 1.qa" tvg-name="beIN SPORTS 1 HD (Backup2)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-1-hz-mea.png" group-title="beIN SPORTS (Backup2)",beIN SPORTS 1 HD (Backup2)
+#EXTINF:-1 tvg-id="beIN SPORTS 1.qa" tvg-name="beIN SPORTS 1 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-1-hz-mea.png" group-title="beIN SPORTS ",beIN SPORTS 1 HD
 http://medsat.casacam.net:2082/star7arab.x/fktjSy@2SmF/14
-#EXTINF:-1 tvg-id="beIN SPORTS 1.qa" tvg-name="beIN SPORTS 1 SD (Backup2)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-1-hz-mea.png" group-title="beIN SPORTS (Backup2)",beIN SPORTS 1 SD (Backup2)
+#EXTINF:-1 tvg-id="beIN SPORTS 1.qa" tvg-name="beIN SPORTS 1 SD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-1-hz-mea.png" group-title="beIN SPORTS ",beIN SPORTS 1 SD
 http://medsat.casacam.net:2082/star7arab.x/fktjSy@2SmF/24
-#EXTINF:-1 tvg-id="beIN SPORTS 2.qa" tvg-name="beIN SPORTS 2 FHD (Backup2)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-2-hz-mea.png" group-title="beIN SPORTS (Backup2)",beIN SPORTS 2 FHD (Backup2)
+#EXTINF:-1 tvg-id="beIN SPORTS 2.qa" tvg-name="beIN SPORTS 2 FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-2-hz-mea.png" group-title="beIN SPORTS ",beIN SPORTS 2 FHD
 http://medsat.casacam.net:2082/star7arab.x/fktjSy@2SmF/34
-#EXTINF:-1 tvg-id="beIN SPORTS 2.qa" tvg-name="beIN SPORTS 2 HD (Backup2)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-2-hz-mea.png" group-title="beIN SPORTS (Backup2)",beIN SPORTS 2 HD (Backup2)
+#EXTINF:-1 tvg-id="beIN SPORTS 2.qa" tvg-name="beIN SPORTS 2 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-2-hz-mea.png" group-title="beIN SPORTS ",beIN SPORTS 2 HD
 http://medsat.casacam.net:2082/star7arab.x/fktjSy@2SmF/27
-#EXTINF:-1 tvg-id="beIN SPORTS 2.qa" tvg-name="beIN SPORTS 2 SD (Backup2)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-2-hz-mea.png" group-title="beIN SPORTS (Backup2)",beIN SPORTS 2 SD (Backup2)
+#EXTINF:-1 tvg-id="beIN SPORTS 2.qa" tvg-name="beIN SPORTS 2 SD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-2-hz-mea.png" group-title="beIN SPORTS ",beIN SPORTS 2 SD
 http://medsat.casacam.net:2082/star7arab.x/fktjSy@2SmF/37
-#EXTINF:-1 tvg-id="beIN SPORTS 3.qa" tvg-name="beIN SPORTS 3 FHD (Backup2)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-3-hz-mea.png" group-title="beIN SPORTS (Backup2)",beIN SPORTS 3 FHD (Backup2)
+#EXTINF:-1 tvg-id="beIN SPORTS 3.qa" tvg-name="beIN SPORTS 3 FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-3-hz-mea.png" group-title="beIN SPORTS ",beIN SPORTS 3 FHD
 http://medsat.casacam.net:2082/star7arab.x/fktjSy@2SmF/47
-#EXTINF:-1 tvg-id="beIN SPORTS 3.qa" tvg-name="beIN SPORTS 3 HD (Backup2)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-3-hz-mea.png" group-title="beIN SPORTS (Backup2)",beIN SPORTS 3 HD (Backup2)
+#EXTINF:-1 tvg-id="beIN SPORTS 3.qa" tvg-name="beIN SPORTS 3 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-3-hz-mea.png" group-title="beIN SPORTS ",beIN SPORTS 3 HD
 http://medsat.casacam.net:2082/star7arab.x/fktjSy@2SmF/40
-#EXTINF:-1 tvg-id="beIN SPORTS 3.qa" tvg-name="beIN SPORTS 3 SD (Backup2)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-3-hz-mea.png" group-title="beIN SPORTS (Backup2)",beIN SPORTS 3 SD (Backup2)
+#EXTINF:-1 tvg-id="beIN SPORTS 3.qa" tvg-name="beIN SPORTS 3 SD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-3-hz-mea.png" group-title="beIN SPORTS ",beIN SPORTS 3 SD
 http://medsat.casacam.net:2082/star7arab.x/fktjSy@2SmF/50
-#EXTINF:-1 tvg-id="beIN SPORTS 4.qa" tvg-name="beIN SPORTS 4 FHD (Backup2)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-4-hz-mea.png" group-title="beIN SPORTS (Backup2)",beIN SPORTS 4 FHD (Backup2)
+#EXTINF:-1 tvg-id="beIN SPORTS 4.qa" tvg-name="beIN SPORTS 4 FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-4-hz-mea.png" group-title="beIN SPORTS ",beIN SPORTS 4 FHD
 http://medsat.casacam.net:2082/star7arab.x/fktjSy@2SmF/60
-#EXTINF:-1 tvg-id="beIN SPORTS 4.qa" tvg-name="beIN SPORTS 4 HD (Backup2)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-4-hz-mea.png" group-title="beIN SPORTS (Backup2)",beIN SPORTS 4 HD (Backup2)
+#EXTINF:-1 tvg-id="beIN SPORTS 4.qa" tvg-name="beIN SPORTS 4 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-4-hz-mea.png" group-title="beIN SPORTS ",beIN SPORTS 4 HD
 http://medsat.casacam.net:2082/star7arab.x/fktjSy@2SmF/53
-#EXTINF:-1 tvg-id="beIN SPORTS 4.qa" tvg-name="beIN SPORTS 4 SD (Backup2)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-4-hz-mea.png" group-title="beIN SPORTS (Backup2)",beIN SPORTS 4 SD (Backup2)
+#EXTINF:-1 tvg-id="beIN SPORTS 4.qa" tvg-name="beIN SPORTS 4 SD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-4-hz-mea.png" group-title="beIN SPORTS ",beIN SPORTS 4 SD
 http://medsat.casacam.net:2082/star7arab.x/fktjSy@2SmF/63
-#EXTINF:-1 tvg-id="beIN SPORTS 5.qa" tvg-name="beIN SPORTS 5 FHD (Backup2)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-5-hz-mea.png" group-title="beIN SPORTS (Backup2)",beIN SPORTS 5 FHD (Backup2)
+#EXTINF:-1 tvg-id="beIN SPORTS 5.qa" tvg-name="beIN SPORTS 5 FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-5-hz-mea.png" group-title="beIN SPORTS ",beIN SPORTS 5 FHD
 http://medsat.casacam.net:2082/star7arab.x/fktjSy@2SmF/73
-#EXTINF:-1 tvg-id="beIN SPORTS 5.qa" tvg-name="beIN SPORTS 5 HD (Backup2)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-5-hz-mea.png" group-title="beIN SPORTS (Backup2)",beIN SPORTS 5 HD (Backup2)
+#EXTINF:-1 tvg-id="beIN SPORTS 5.qa" tvg-name="beIN SPORTS 5 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-5-hz-mea.png" group-title="beIN SPORTS ",beIN SPORTS 5 HD
 http://medsat.casacam.net:2082/star7arab.x/fktjSy@2SmF/66
-#EXTINF:-1 tvg-id="beIN SPORTS 5.qa" tvg-name="beIN SPORTS 5 SD (Backup2)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-5-hz-mea.png" group-title="beIN SPORTS (Backup2)",beIN SPORTS 5 SD (Backup2)
+#EXTINF:-1 tvg-id="beIN SPORTS 5.qa" tvg-name="beIN SPORTS 5 SD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-5-hz-mea.png" group-title="beIN SPORTS ",beIN SPORTS 5 SD
 http://medsat.casacam.net:2082/star7arab.x/fktjSy@2SmF/76
-#EXTINF:-1 tvg-id="beIN SPORTS 6.qa" tvg-name="beIN SPORTS 6 FHD (Backup2)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-6-hz-mea.png" group-title="beIN SPORTS (Backup2)",beIN SPORTS 6 FHD (Backup2)
+#EXTINF:-1 tvg-id="beIN SPORTS 6.qa" tvg-name="beIN SPORTS 6 FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-6-hz-mea.png" group-title="beIN SPORTS ",beIN SPORTS 6 FHD
 http://medsat.casacam.net:2082/star7arab.x/fktjSy@2SmF/86
-#EXTINF:-1 tvg-id="beIN SPORTS 6.qa" tvg-name="beIN SPORTS 6 HD (Backup2)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-6-hz-mea.png" group-title="beIN SPORTS (Backup2)",beIN SPORTS 6 HD (Backup2)
+#EXTINF:-1 tvg-id="beIN SPORTS 6.qa" tvg-name="beIN SPORTS 6 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-6-hz-mea.png" group-title="beIN SPORTS ",beIN SPORTS 6 HD
 http://medsat.casacam.net:2082/star7arab.x/fktjSy@2SmF/79
-#EXTINF:-1 tvg-id="beIN SPORTS 6.qa" tvg-name="beIN SPORTS 6 SD (Backup2)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-6-hz-mea.png" group-title="beIN SPORTS (Backup2)",beIN SPORTS 6 SD (Backup2)
+#EXTINF:-1 tvg-id="beIN SPORTS 6.qa" tvg-name="beIN SPORTS 6 SD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-6-hz-mea.png" group-title="beIN SPORTS ",beIN SPORTS 6 SD
 http://medsat.casacam.net:2082/star7arab.x/fktjSy@2SmF/89
-#EXTINF:-1 tvg-id="beIN SPORTS 7.qa" tvg-name="beIN SPORTS 7 FHD (Backup2)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-7-hz-mea.png" group-title="beIN SPORTS (Backup2)",beIN SPORTS 7 FHD (Backup2)
+#EXTINF:-1 tvg-id="beIN SPORTS 7.qa" tvg-name="beIN SPORTS 7 FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-7-hz-mea.png" group-title="beIN SPORTS ",beIN SPORTS 7 FHD
 http://medsat.casacam.net:2082/star7arab.x/fktjSy@2SmF/99
-#EXTINF:-1 tvg-id="beIN SPORTS 7.qa" tvg-name="beIN SPORTS 7 SD (Backup2)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-7-hz-mea.png" group-title="beIN SPORTS (Backup2)",beIN SPORTS 7 SD (Backup2)
+#EXTINF:-1 tvg-id="beIN SPORTS 7.qa" tvg-name="beIN SPORTS 7 SD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-7-hz-mea.png" group-title="beIN SPORTS ",beIN SPORTS 7 SD
 http://medsat.casacam.net:2082/star7arab.x/fktjSy@2SmF/102
-#EXTINF:-1 tvg-id="beIN SPORTS 8.qa" tvg-name="beIN SPORTS 8 FHD (Backup2)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Logo-Beinsports-8MAX.png" group-title="beIN SPORTS (Backup2)",beIN SPORTS 8 FHD (Backup2)
+#EXTINF:-1 tvg-id="beIN SPORTS 8.qa" tvg-name="beIN SPORTS 8 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Logo-Beinsports-8MAX.png" group-title="beIN SPORTS ",beIN SPORTS 8 FHD
 http://medsat.casacam.net:2082/star7arab.x/fktjSy@2SmF/112
-#EXTINF:-1 tvg-id="beIN SPORTS 8.qa" tvg-name="beIN SPORTS 8 SD (Backup2)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Logo-Beinsports-8MAX.png" group-title="beIN SPORTS (Backup2)",beIN SPORTS 8 SD (Backup2)
+#EXTINF:-1 tvg-id="beIN SPORTS 8.qa" tvg-name="beIN SPORTS 8 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Logo-Beinsports-8MAX.png" group-title="beIN SPORTS ",beIN SPORTS 8 SD
 http://medsat.casacam.net:2082/star7arab.x/fktjSy@2SmF/105
-#EXTINF:-1 tvg-id="beIN SPORTS 9.qa" tvg-name="beIN SPORTS 9 FHD (Backup2)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Logo-Beinsports-9MAX.png/1200px-Logo-Beinsports-9MAX.png" group-title="beIN SPORTS (Backup2)",beIN SPORTS 9 FHD (Backup2)
+#EXTINF:-1 tvg-id="beIN SPORTS 9.qa" tvg-name="beIN SPORTS 9 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Logo-Beinsports-9MAX.png/1200px-Logo-Beinsports-9MAX.png" group-title="beIN SPORTS ",beIN SPORTS 9 FHD
 http://medsat.casacam.net:2082/star7arab.x/fktjSy@2SmF/118
-#EXTINF:-1 tvg-id="beIN SPORTS 9.qa" tvg-name="beIN SPORTS 9 SD (Backup2)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Logo-Beinsports-9MAX.png/1200px-Logo-Beinsports-9MAX.png" group-title="beIN SPORTS (Backup2)",beIN SPORTS 9 SD (Backup2)
+#EXTINF:-1 tvg-id="beIN SPORTS 9.qa" tvg-name="beIN SPORTS 9 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Logo-Beinsports-9MAX.png/1200px-Logo-Beinsports-9MAX.png" group-title="beIN SPORTS ",beIN SPORTS 9 SD
 http://medsat.casacam.net:2082/star7arab.x/fktjSy@2SmF/128
-#EXTINF:-1 tvg-id="beIN SPORTS 1.qa" tvg-name="beIN SPORTS 1 (Backup3)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-1-hz-mea.png" group-title="beIN SPORTS (Backup3)",beIN SPORTS 1 (Backup3)
+#EXTINF:-1 tvg-id="beIN SPORTS 1.qa" tvg-name="beIN SPORTS 1 (Backup2)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-1-hz-mea.png" group-title="beIN SPORTS (Backup2)",beIN SPORTS 1 (Backup2)
 https://nl1.streamlive.to/live/19995634/79960700/714411.m3u8
-#EXTINF:-1 tvg-id="beIN SPORTS 2.qa" tvg-name="beIN SPORTS 2 (Backup3)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-2-hz-mea.png" group-title="beIN SPORTS (Backup3)",beIN SPORTS 2 (Backup3)
+#EXTINF:-1 tvg-id="beIN SPORTS 2.qa" tvg-name="beIN SPORTS 2 (Backup2)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-2-hz-mea.png" group-title="beIN SPORTS (Backup2)",beIN SPORTS 2 (Backup2)
 https://nl1.streamlive.to/live/19995634/79960700/659428.m3u8
-#EXTINF:-1 tvg-id="beIN SPORTS 3.qa" tvg-name="beIN SPORTS 3 (Backup3)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-3-hz-mea.png" group-title="beIN SPORTS (Backup3)",beIN SPORTS 3 (Backup3)
+#EXTINF:-1 tvg-id="beIN SPORTS 3.qa" tvg-name="beIN SPORTS 3 (Backup2)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-3-hz-mea.png" group-title="beIN SPORTS (Backup2)",beIN SPORTS 3 (Backup2)
 https://nl1.streamlive.to/live/19995634/79960700/659429.m3u8
-#EXTINF:-1 tvg-id="beIN SPORTS 4.qa" tvg-name="beIN SPORTS 4 (Backup3)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-4-hz-mea.png" group-title="beIN SPORTS (Backup3)",beIN SPORTS 4 (Backup3)
+#EXTINF:-1 tvg-id="beIN SPORTS 4.qa" tvg-name="beIN SPORTS 4 (Backup2)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-4-hz-mea.png" group-title="beIN SPORTS (Backup2)",beIN SPORTS 4 (Backup2)
 https://nl1.streamlive.to/live/19995634/79960700/659430.m3u8
-#EXTINF:-1 tvg-id="beIN SPORTS 5.qa" tvg-name="beIN SPORTS 5 (Backup3)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-5-hz-mea.png" group-title="beIN SPORTS (Backup3)",beIN SPORTS 5 (Backup3)
+#EXTINF:-1 tvg-id="beIN SPORTS 5.qa" tvg-name="beIN SPORTS 5 (Backup2)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-5-hz-mea.png" group-title="beIN SPORTS (Backup2)",beIN SPORTS 5 (Backup2)
 https://nl1.streamlive.to/live/19995634/79960700/659431.m3u8
-#EXTINF:-1 tvg-id="beIN SPORTS 6.qa" tvg-name="beIN SPORTS 6 (Backup3)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-6-hz-mea.png" group-title="beIN SPORTS (Backup3)",beIN SPORTS 6 (Backup3)
+#EXTINF:-1 tvg-id="beIN SPORTS 6.qa" tvg-name="beIN SPORTS 6 (Backup2)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-6-hz-mea.png" group-title="beIN SPORTS (Backup2)",beIN SPORTS 6 (Backup2)
 https://nl1.streamlive.to/live/19995634/79960700/659432.m3u8
-#EXTINF:-1 tvg-id="beIN SPORTS 7.qa" tvg-name="beIN SPORTS 7 (Backup3)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-7-hz-mea.png" group-title="beIN SPORTS (Backup3)",beIN SPORTS 7 (Backup3)
+#EXTINF:-1 tvg-id="beIN SPORTS 7.qa" tvg-name="beIN SPORTS 7 (Backup2)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-7-hz-mea.png" group-title="beIN SPORTS (Backup2)",beIN SPORTS 7 (Backup2)
 https://nl1.streamlive.to/live/19995634/79960700/659433.m3u8
-#EXTINF:-1 tvg-id="beIN SPORTS 8.qa" tvg-name="beIN SPORTS 8 (Backup3)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Logo-Beinsports-8MAX.png" group-title="beIN SPORTS (Backup3)",beIN SPORTS 8 (Backup3)
+#EXTINF:-1 tvg-id="beIN SPORTS 8.qa" tvg-name="beIN SPORTS 8 (Backup2)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Logo-Beinsports-8MAX.png" group-title="beIN SPORTS (Backup2)",beIN SPORTS 8 (Backup2)
 https://nl1.streamlive.to/live/19995634/79960700/659434.m3u8
-#EXTINF:-1 tvg-id="beIN SPORTS 9.qa" tvg-name="beIN SPORTS 9 (Backup3)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Logo-Beinsports-9MAX.png/1200px-Logo-Beinsports-9MAX.png" group-title="beIN SPORTS (Backup3)",beIN SPORTS 9 (Backup3)
+#EXTINF:-1 tvg-id="beIN SPORTS 9.qa" tvg-name="beIN SPORTS 9 (Backup2)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Logo-Beinsports-9MAX.png/1200px-Logo-Beinsports-9MAX.png" group-title="beIN SPORTS (Backup2)",beIN SPORTS 9 (Backup2)
 https://nl1.streamlive.to/live/19995634/79960700/659435.m3u8
-#EXTINF:-1 tvg-id="beIN SPORTS 1.qa" tvg-name="beIN SPORT 1 (Backup4)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-1-hz-mea.png" group-title="beIN SPORTS (Backup4)",beIN SPORT 1 (Backup4)
+#EXTINF:-1 tvg-id="beIN SPORTS 1.qa" tvg-name="beIN SPORT 1 (Backup3)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-1-hz-mea.png" group-title="beIN SPORTS (Backup3)",beIN SPORT 1 (Backup3)
 http://173.212.193.243:8080/mo3ad330/mo3ad330/886
-#EXTINF:-1 tvg-id="beIN SPORTS 1.qa" tvg-name="beIN SPORT 1 (Backup4)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-1-hz-mea.png" group-title="beIN SPORTS (Backup4)",beIN SPORT 1 (Backup4)
+#EXTINF:-1 tvg-id="beIN SPORTS 1.qa" tvg-name="beIN SPORT 1 (Backup3)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-1-hz-mea.png" group-title="beIN SPORTS (Backup3)",beIN SPORT 1 (Backup3)
 http://173.212.193.243:8080/mo3ad330/mo3ad330/877
-#EXTINF:-1 tvg-id="beIN SPORTS 2.qa" tvg-name="beIN SPORT 2 (Backup4)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-2-hz-mea.png" group-title="beIN SPORTS (Backup4)",beIN SPORT 2 (Backup4)
+#EXTINF:-1 tvg-id="beIN SPORTS 2.qa" tvg-name="beIN SPORT 2 (Backup3)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-2-hz-mea.png" group-title="beIN SPORTS (Backup3)",beIN SPORT 2 (Backup3)
 http://173.212.193.243:8080/mo3ad330/mo3ad330/887
-#EXTINF:-1 tvg-id="beIN SPORTS 2.qa" tvg-name="beIN SPORT 2 (Backup4)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-2-hz-mea.png" group-title="beIN SPORTS (Backup4)",beIN SPORT 2 (Backup4)
+#EXTINF:-1 tvg-id="beIN SPORTS 2.qa" tvg-name="beIN SPORT 2 (Backup3)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-2-hz-mea.png" group-title="beIN SPORTS (Backup3)",beIN SPORT 2 (Backup3)
 http://173.212.193.243:8080/mo3ad330/mo3ad330/406
-#EXTINF:-1 tvg-id="beIN SPORTS 2.qa" tvg-name="beIN SPORT 2 (Backup4)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-2-hz-mea.png" group-title="beIN SPORTS (Backup4)",beIN SPORT 2 (Backup4)
+#EXTINF:-1 tvg-id="beIN SPORTS 2.qa" tvg-name="beIN SPORT 2 (Backup3)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-2-hz-mea.png" group-title="beIN SPORTS (Backup3)",beIN SPORT 2 (Backup3)
 http://173.212.193.243:8080/mo3ad330/mo3ad330/878
-#EXTINF:-1 tvg-id="beIN SPORTS 3.qa" tvg-name="beIN SPORT 3 (Backup4)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-3-hz-mea.png" group-title="beIN SPORTS (Backup4)",beIN SPORT 3 (Backup4)
+#EXTINF:-1 tvg-id="beIN SPORTS 3.qa" tvg-name="beIN SPORT 3 (Backup3)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-3-hz-mea.png" group-title="beIN SPORTS (Backup3)",beIN SPORT 3 (Backup3)
 http://173.212.193.243:8080/mo3ad330/mo3ad330/407
-#EXTINF:-1 tvg-id="beIN SPORTS 3.qa" tvg-name="beIN SPORT 3 (Backup4)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-3-hz-mea.png" group-title="beIN SPORTS (Backup4)",beIN SPORT 3 (Backup4)
+#EXTINF:-1 tvg-id="beIN SPORTS 3.qa" tvg-name="beIN SPORT 3 (Backup3)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-3-hz-mea.png" group-title="beIN SPORTS (Backup3)",beIN SPORT 3 (Backup3)
 http://173.212.193.243:8080/mo3ad330/mo3ad330/888
-#EXTINF:-1 tvg-id="beIN SPORTS 3.qa" tvg-name="beIN SPORT 3 (Backup4)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-3-hz-mea.png" group-title="beIN SPORTS (Backup4)",beIN SPORT 3 (Backup4)
+#EXTINF:-1 tvg-id="beIN SPORTS 3.qa" tvg-name="beIN SPORT 3 (Backup3)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-3-hz-mea.png" group-title="beIN SPORTS (Backup3)",beIN SPORT 3 (Backup3)
 http://173.212.193.243:8080/mo3ad330/mo3ad330/879
-#EXTINF:-1 tvg-id="beIN SPORTS 4.qa" tvg-name="beIN SPORT 4 (Backup4)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-4-hz-mea.png" group-title="beIN SPORTS (Backup4)",beIN SPORT 4 (Backup4)
+#EXTINF:-1 tvg-id="beIN SPORTS 4.qa" tvg-name="beIN SPORT 4 (Backup3)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-4-hz-mea.png" group-title="beIN SPORTS (Backup3)",beIN SPORT 4 (Backup3)
 http://173.212.193.243:8080/mo3ad330/mo3ad330/889
-#EXTINF:-1 tvg-id="beIN SPORTS 4.qa" tvg-name="beIN SPORT 4 (Backup4)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-4-hz-mea.png" group-title="beIN SPORTS (Backup4)",beIN SPORT 4 (Backup4)
+#EXTINF:-1 tvg-id="beIN SPORTS 4.qa" tvg-name="beIN SPORT 4 (Backup3)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-4-hz-mea.png" group-title="beIN SPORTS (Backup3)",beIN SPORT 4 (Backup3)
 http://173.212.193.243:8080/mo3ad330/mo3ad330/408
-#EXTINF:-1 tvg-id="beIN SPORTS 5.qa" tvg-name="beIN SPORT 5 (Backup4)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-5-hz-mea.png" group-title="beIN SPORTS (Backup4)",beIN SPORT 5 (Backup4)
+#EXTINF:-1 tvg-id="beIN SPORTS 5.qa" tvg-name="beIN SPORT 5 (Backup3)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-5-hz-mea.png" group-title="beIN SPORTS (Backup3)",beIN SPORT 5 (Backup3)
 http://173.212.193.243:8080/mo3ad330/mo3ad330/890
-#EXTINF:-1 tvg-id="beIN SPORTS 5.qa" tvg-name="beIN SPORT 5 (Backup4)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-5-hz-mea.png" group-title="beIN SPORTS (Backup4)",beIN SPORT 5 (Backup4)
+#EXTINF:-1 tvg-id="beIN SPORTS 5.qa" tvg-name="beIN SPORT 5 (Backup3)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-5-hz-mea.png" group-title="beIN SPORTS (Backup3)",beIN SPORT 5 (Backup3)
 http://173.212.193.243:8080/mo3ad330/mo3ad330/409
-#EXTINF:-1 tvg-id="beIN SPORTS 6.qa" tvg-name="beIN SPORT 6 (Backup4)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-6-hz-mea.png" group-title="beIN SPORTS (Backup4)",beIN SPORT 6 (Backup4)
+#EXTINF:-1 tvg-id="beIN SPORTS 6.qa" tvg-name="beIN SPORT 6 (Backup3)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-6-hz-mea.png" group-title="beIN SPORTS (Backup3)",beIN SPORT 6 (Backup3)
 http://173.212.193.243:8080/mo3ad330/mo3ad330/891
-#EXTINF:-1 tvg-id="beIN SPORTS 6.qa" tvg-name="beIN SPORT 6 (Backup4)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-6-hz-mea.png" group-title="beIN SPORTS (Backup4)",beIN SPORT 6 (Backup4)
+#EXTINF:-1 tvg-id="beIN SPORTS 6.qa" tvg-name="beIN SPORT 6 (Backup3)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-6-hz-mea.png" group-title="beIN SPORTS (Backup3)",beIN SPORT 6 (Backup3)
 http://173.212.193.243:8080/mo3ad330/mo3ad330/410
-#EXTINF:-1 tvg-id="beIN SPORTS 7.qa" tvg-name="beIN SPORT 7 (Backup4)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-7-hz-mea.png" group-title="beIN SPORTS (Backup4)",beIN SPORT 7 (Backup4)
+#EXTINF:-1 tvg-id="beIN SPORTS 7.qa" tvg-name="beIN SPORT 7 (Backup3)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-7-hz-mea.png" group-title="beIN SPORTS (Backup3)",beIN SPORT 7 (Backup3)
 http://173.212.193.243:8080/mo3ad330/mo3ad330/892
-#EXTINF:-1 tvg-id="beIN SPORTS 7.qa" tvg-name="beIN SPORT 7 (Backup4)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-7-hz-mea.png" group-title="beIN SPORTS (Backup4)",beIN SPORT 7 (Backup4)
+#EXTINF:-1 tvg-id="beIN SPORTS 7.qa" tvg-name="beIN SPORT 7 (Backup3)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-7-hz-mea.png" group-title="beIN SPORTS (Backup3)",beIN SPORT 7 (Backup3)
 http://173.212.193.243:8080/mo3ad330/mo3ad330/884
-#EXTINF:-1 tvg-id="beIN SPORTS 8.qa" tvg-name="beIN SPORT 8 (Backup4)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Logo-Beinsports-8MAX.png" group-title="beIN SPORTS (Backup4)",beIN SPORT 8 (Backup4)
+#EXTINF:-1 tvg-id="beIN SPORTS 8.qa" tvg-name="beIN SPORT 8 (Backup3)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Logo-Beinsports-8MAX.png" group-title="beIN SPORTS (Backup3)",beIN SPORT 8 (Backup3)
 http://173.212.193.243:8080/mo3ad330/mo3ad330/893
-#EXTINF:-1 tvg-id="beIN SPORTS 9.qa" tvg-name="beIN SPORT 9 (Backup4)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Logo-Beinsports-9MAX.png/1200px-Logo-Beinsports-9MAX.png" group-title="beIN SPORTS (Backup4)",beIN SPORT 9 (Backup4)
+#EXTINF:-1 tvg-id="beIN SPORTS 9.qa" tvg-name="beIN SPORT 9 (Backup3)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Logo-Beinsports-9MAX.png/1200px-Logo-Beinsports-9MAX.png" group-title="beIN SPORTS (Backup3)",beIN SPORT 9 (Backup3)
 http://173.212.193.243:8080/mo3ad330/mo3ad330/894
-#EXTINF:-1 tvg-id="beIN SPORTS 1.qa" tvg-name="beIN SPORTS 1 (Backup5)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-1-hz-mea.png" group-title="beIN SPORTS (Backup5)",beIN SPORTS 1 (Backup5)
+#EXTINF:-1 tvg-id="beIN SPORTS 1.qa" tvg-name="beIN SPORTS 1 (Backup4)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-1-hz-mea.png" group-title="beIN SPORTS (Backup4)",beIN SPORTS 1 (Backup4)
 http://2477fd5f.cbilant.com/iptv/WCSZMUM84X4689VHGC7UDAQQ/6123/index.m3u
-#EXTINF:-1 tvg-id="beIN SPORTS 3.qa" tvg-name="beIN SPORTS 3 (Backup5)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-3-hz-mea.png" group-title="beIN SPORTS (Backup5)",beIN SPORTS 3 (Backup5)
+#EXTINF:-1 tvg-id="beIN SPORTS 3.qa" tvg-name="beIN SPORTS 3 (Backup4)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-3-hz-mea.png" group-title="beIN SPORTS (Backup4)",beIN SPORTS 3 (Backup4)
 http://2477fd5f.cbilant.com/iptv/WCSZMUM84X4689VHGC7UDAQQ/6124/index.m3u
-#EXTINF:-1 tvg-id="beIN SPORTS 4.qa" tvg-name="beIN SPORTS 4 (Backup5)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-4-hz-mea.png" group-title="beIN SPORTS (Backup5)",beIN SPORTS 4 (Backup5)
+#EXTINF:-1 tvg-id="beIN SPORTS 4.qa" tvg-name="beIN SPORTS 4 (Backup4)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-4-hz-mea.png" group-title="beIN SPORTS (Backup4)",beIN SPORTS 4 (Backup4)
 http://2477fd5f.cbilant.com/iptv/WCSZMUM84X4689VHGC7UDAQQ/6125/index.m3u
-#EXTINF:-1 tvg-id="beIN SPORTS 5.qa" tvg-name="beIN SPORTS 5 (Backup5)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-5-hz-mea.png" group-title="beIN SPORTS (Backup5)",beIN SPORTS 5 (Backup5)
+#EXTINF:-1 tvg-id="beIN SPORTS 5.qa" tvg-name="beIN SPORTS 5 (Backup4)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-5-hz-mea.png" group-title="beIN SPORTS (Backup4)",beIN SPORTS 5 (Backup4)
 http://2477fd5f.cbilant.com/iptv/WCSZMUM84X4689VHGC7UDAQQ/6126/index.m3u
-#EXTINF:-1 tvg-id="beIN SPORTS 6.qa" tvg-name="beIN SPORTS 6 (Backup5)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-6-hz-mea.png" group-title="beIN SPORTS (Backup5)",beIN SPORTS 6 (Backup5)
+#EXTINF:-1 tvg-id="beIN SPORTS 6.qa" tvg-name="beIN SPORTS 6 (Backup4)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-6-hz-mea.png" group-title="beIN SPORTS (Backup4)",beIN SPORTS 6 (Backup4)
 http://2477fd5f.cbilant.com/iptv/WCSZMUM84X4689VHGC7UDAQQ/6127/index.m3u
-#EXTINF:-1 tvg-id="beIN SPORTS 7.qa" tvg-name="beIN SPORTS 7 (Backup5)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-7-hz-mea.png" group-title="beIN SPORTS (Backup5)",beIN SPORTS 7 (Backup5)
+#EXTINF:-1 tvg-id="beIN SPORTS 7.qa" tvg-name="beIN SPORTS 7 (Backup4)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-7-hz-mea.png" group-title="beIN SPORTS (Backup4)",beIN SPORTS 7 (Backup4)
 http://2477fd5f.cbilant.com/iptv/WCSZMUM84X4689VHGC7UDAQQ/6128/index.m3u
-#EXTINF:-1 tvg-id="beIN SPORTS 1.qa" tvg-name="beIN SPORTS 1 (Backup6)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-1-hz-mea.png" group-title="beIN SPORTS (Backup6)",beIN SPORTS 1 (Backup6)
-#EXTVLCOPT:http-user-agent=airmaxtvSyria
-https://airmaxx.boats:443/airmaxtvVIP/0096399135M/2523.ts
-#EXTINF:-1 tvg-id="beIN SPORTS 2.qa" tvg-name="beIN SPORTS 2 (Backup6)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-2-hz-mea.png" group-title="beIN SPORTS (Backup6)",beIN SPORTS 2 (Backup6)
-#EXTVLCOPT:http-user-agent=airmaxtvSyria
-https://airmaxx.boats:443/airmaxtvVIP/0096399135M/2524.ts
-#EXTINF:-1 tvg-id="beIN SPORTS 3.qa" tvg-name="beIN SPORTS 3 (Backup6)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-3-hz-mea.png" group-title="beIN SPORTS (Backup6)",beIN SPORTS 3 (Backup6)
-#EXTVLCOPT:http-user-agent=airmaxtvSyria
-https://airmaxx.boats:443/airmaxtvVIP/0096399135M/2525.ts
-#EXTINF:-1 tvg-id="beIN SPORTS 4.qa" tvg-name="beIN SPORTS 4 (Backup6)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-4-hz-mea.png" group-title="beIN SPORTS (Backup6)",beIN SPORTS 4 (Backup6)
-#EXTVLCOPT:http-user-agent=airmaxtvSyria
-https://airmaxx.boats:443/airmaxtvVIP/0096399135M/2526.ts
-#EXTINF:-1 tvg-id="beIN SPORTS 5.qa" tvg-name="beIN SPORTS 5 (Backup6)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-5-hz-mea.png" group-title="beIN SPORTS (Backup6)",beIN SPORTS 5 (Backup6)
-#EXTVLCOPT:http-user-agent=airmaxtvSyria
-https://airmaxx.boats:443/airmaxtvVIP/0096399135M/2527.ts
-#EXTINF:-1 tvg-id="beIN SPORTS 6.qa" tvg-name="beIN SPORTS 6 (Backup6)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-6-hz-mea.png" group-title="beIN SPORTS (Backup6)",beIN SPORTS 6 (Backup6)
-#EXTVLCOPT:http-user-agent=airmaxtvSyria
-https://airmaxx.boats:443/airmaxtvVIP/0096399135M/2528.ts
-#EXTINF:-1 tvg-id="beIN SPORTS 7.qa" tvg-name="beIN SPORTS 7 (Backup6)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-7-hz-mea.png" group-title="beIN SPORTS (Backup6)",beIN SPORTS 7 (Backup6)
-#EXTVLCOPT:http-user-agent=airmaxtvSyria
-https://airmaxx.boats:443/airmaxtvVIP/0096399135M/2529.ts
-#EXTINF:-1 tvg-id="beIN SPORTS 8.qa" tvg-name="beIN SPORTS 8 (Backup6)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Logo-Beinsports-8MAX.png" group-title="beIN SPORTS (Backup6)",beIN SPORTS 8 (Backup6)
-#EXTVLCOPT:http-user-agent=airmaxtvSyria
-https://airmaxx.boats:443/airmaxtvVIP/0096399135M/2530.ts
-#EXTINF:-1 tvg-id="beIN SPORTS 9.qa" tvg-name="beIN SPORTS 9 (Backup6)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Logo-Beinsports-9MAX.png/1200px-Logo-Beinsports-9MAX.png" group-title="beIN SPORTS (Backup6)",beIN SPORTS 9 (Backup6)
-#EXTVLCOPT:http-user-agent=airmaxtvSyria
-https://airmaxx.boats:443/airmaxtvVIP/0096399135M/2531.ts
+#EXTINF:-1 tvg-id="beIN SPORTS 1.qa" tvg-name="beIN SPORTS 1 (Backup5)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-1-hz-mea.png" group-title="beIN SPORTS (Backup5)",beIN SPORTS 1 (Backup5)
+http://e9f411eb.ottolok.net/iptv/YDFRWUQHUKMN2V/6123/index.m3u8
+#EXTINF:-1 tvg-id="beIN SPORTS 2.qa" tvg-name="beIN SPORTS 2 (Backup5)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-2-hz-mea.png" group-title="beIN SPORTS (Backup5)",beIN SPORTS 2 (Backup5)
+http://135.125.109.73:9000/beinsport2_.m3u8
+#EXTINF:-1 tvg-id="beIN SPORTS 3.qa" tvg-name="beIN SPORTS 3 (Backup5)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-3-hz-mea.png" group-title="beIN SPORTS (Backup5)",beIN SPORTS 3 (Backup5)
+http://e9f411eb.ottolok.net/iptv/YDFRWUQHUKMN2V/6124/index.m3u8
+#EXTINF:-1 tvg-id="beIN SPORTS 4.qa" tvg-name="beIN SPORTS 4 (Backup5)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-4-hz-mea.png" group-title="beIN SPORTS (Backup5)",beIN SPORTS 4 (Backup5)
+http://e9f411eb.ottolok.net/iptv/YDFRWUQHUKMN2V/6125/index.m3u8
+#EXTINF:-1 tvg-id="beIN SPORTS 5.qa" tvg-name="beIN SPORTS 5 (Backup5)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-5-hz-mea.png" group-title="beIN SPORTS (Backup5)",beIN SPORTS 5 (Backup5)
+http://e9f411eb.ottolok.net/iptv/YDFRWUQHUKMN2V/6126/index.m3u8
+#EXTINF:-1 tvg-id="beIN SPORTS 6.qa" tvg-name="beIN SPORTS 6 (Backup5)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-6-hz-mea.png" group-title="beIN SPORTS (Backup5)",beIN SPORTS 6 (Backup5)
+http://e9f411eb.ottolok.net/iptv/YDFRWUQHUKMN2V/6127/index.m3u8
+#EXTINF:-1 tvg-id="beIN SPORTS 7.qa" tvg-name="beIN SPORTS 7 (Backup5)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-7-hz-mea.png" group-title="beIN SPORTS (Backup5)",beIN SPORTS 7 (Backup5)
+http://e9f411eb.ottolok.net/iptv/YDFRWUQHUKMN2V/6128/index.m3u8
+#EXTINF:-1 tvg-id="beIN SPORTS 8.qa" tvg-name="beIN SPORTS 8 (Backup5)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Logo-Beinsports-8MAX.png" group-title="beIN SPORTS (Backup5)",beIN SPORTS 8 (Backup5)
+http://135.125.109.73:9000/beinsport8_.m3u8
+#EXTINF:-1 tvg-id="beIN SPORTS 9.qa" tvg-name="beIN SPORTS 9 (Backup5)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Logo-Beinsports-9MAX.png/1200px-Logo-Beinsports-9MAX.png" group-title="beIN SPORTS (Backup5)",beIN SPORTS 9 (Backup5)
+http://135.125.109.73:9000/beinsport9_.m3u8
 #EXTINF:-1 tvg-id="beIN SPORTS 1.fr" tvg-name="beIN SPORTS 1 FR" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-1-french-mea.png" group-title="beIN SPORTS (French)",beIN SPORTS 1 FR
 http://medsat.casacam.net:2082/star7arab.x/fktjSy@2SmF/455
 #EXTINF:-1 tvg-id="beIN SPORTS 2.fr" tvg-name="beIN SPORTS 2 FR" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-2-french-mea.png" group-title="beIN SPORTS (French)",beIN SPORTS 2 FR
@@ -274,16 +207,16 @@ http://oktay-can-mdiya-hack.streamtv.to:8080/RqgXIWS5LF/9azAQRq81w/101765
 http://oktay-can-mdiya-hack.streamtv.to:8080/RqgXIWS5LF/9azAQRq81w/101764
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Thamanya 1 (Backup)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Thmanyah_Logo.svg/2048px-Thmanyah_Logo.svg.png" group-title="Thamanya (Backup)",Thamanya 1 (Backup)
 #EXTVLCOPT:http-user-agent=airmaxtvSyria
-https://airmaxx.boats:443/airmaxtvVIP/0096399135M/2533.ts
+https://airmaxx.boats/live/airmaxtv/009631945/2533.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Thamanya 2 (Backup)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Thmanyah_Logo.svg/2048px-Thmanyah_Logo.svg.png" group-title="Thamanya (Backup)",Thamanya 2 (Backup)
 #EXTVLCOPT:http-user-agent=airmaxtvSyria
-https://airmaxx.boats:443/airmaxtvVIP/0096399135M/2534.ts
+https://airmaxx.boats/live/airmaxtv/009631945/2534.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Thamanya 3 (Backup)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Thmanyah_Logo.svg/2048px-Thmanyah_Logo.svg.png" group-title="Thamanya (Backup)",Thamanya 3 (Backup)
 #EXTVLCOPT:http-user-agent=airmaxtvSyria
-https://airmaxx.boats:443/airmaxtvVIP/0096399135M/2535.ts
+https://airmaxx.boats/live/airmaxtv/009631945/2535.m3u8
 #EXTINF:-1 tvg-id="AD Sports Premium 1.sa" tvg-name="AD Sport PREMIUM " tvg-logo="https://mena-cdn-lb.aws.playco.com/prd-peg-data/default/web3/resources/images/starzplay.png" group-title="AD Sport Premium (Serie A)",AD Sport PREMIUM 
 #EXTVLCOPT:http-user-agent=airmaxtvSyria
-https://airmaxx.boats:443/airmaxtvVIP/0096399135M/2532.ts
+https://airmaxx.boats/live/airmaxtv/009631945/2532.m3u8
 #EXTINF:-1 tvg-id="AD Sports Premium 2.sa" tvg-name="AD Sport PREMIUM (Backup)" tvg-logo="https://mena-cdn-lb.aws.playco.com/prd-peg-data/default/web3/resources/images/starzplay.png" group-title="AD Sport Premium (Serie A)",AD Sport PREMIUM (Backup)
 http://173.212.193.243:8080/mo3ad330/mo3ad330/881
 #EXTINF:-1 tvg-id="MBC Action HD.sa" tvg-name="MBC Action HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-arab-emirates/mbc-action-ae.png" group-title="MBC Action",MBC Action HD
@@ -440,15 +373,6 @@ http://2477fd5f.cbilant.com/iptv/WCSZMUM84X4689VHGC7UDAQQ/31413/index.m3u
 http://2477fd5f.cbilant.com/iptv/WCSZMUM84X4689VHGC7UDAQQ/19108/index.m3u
 #EXTINF:-1 tvg-id="BandSports.br" tvg-name="Band Sport (Brazil)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/band-sports-br.png" group-title="RSL",Band Sport (Brazil)
 http://2477fd5f.cbilant.com/iptv/WCSZMUM84X4689VHGC7UDAQQ/6157/index.m3u
-#EXTINF:-1 tvg-id="Diema Sport HD.bg" tvg-name="DIEMA Sport 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/diema-sport-hd-bg.png" group-title="DIEMA Sport ",DIEMA Sport 1
-#EXTVLCOPT:http-user-agent=airmaxtvSyria
-https://airmaxx.boats:443/airmaxtvSyria9963/airmaxtvSyria3232/1020.ts
-#EXTINF:-1 tvg-id="Diema Sport 2 HD.bg" tvg-name="DIEMA Sport 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/diema-sport2-hd-bg.png" group-title="DIEMA Sport ",DIEMA Sport 2
-#EXTVLCOPT:http-user-agent=airmaxtvSyria
-https://airmaxx.boats:443/airmaxtvSyria9963/airmaxtvSyria3232/1021.ts
-#EXTINF:-1 tvg-id="Diema Sport 3 HD.bg" tvg-name="DIEMA Sport 3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/diema-sport3-hd-bg.png" group-title="DIEMA Sport ",DIEMA Sport 3
-#EXTVLCOPT:http-user-agent=airmaxtvSyria
-https://airmaxx.boats:443/airmaxtvSyria9963/airmaxtvSyria3232/1022.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SETANTA Sports 1" tvg-logo="https://setantasports.com/wp-content/uploads/2025/03/logoyosat.png" group-title="SETANTA Sports",SETANTA Sports 1
 http://2477fd5f.cbilant.com/iptv/WCSZMUM84X4689VHGC7UDAQQ/271/index.m3u
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SETANTA Sports 2" tvg-logo="https://setantasports.com/wp-content/uploads/2025/03/logoyosat.png" group-title="SETANTA Sports",SETANTA Sports 2
