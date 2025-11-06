@@ -464,19 +464,20 @@ http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/109993
 #EXTINF:-1 tvg-id="2023 Alkass 4.qa" tvg-name="AlKass 4 B" tvg-logo="https://images.alkass.net/newsimages/large_20161007184153_1475854913.48.jpg" group-title="Alkass ",AlKass 4 B
 http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/106999
 #EXTINF:-1 tvg-id="AD Sports 1.sa" tvg-name="Abu Dhabi Sports 1 " tvg-logo="https://vo-static.cdb.cdn.orange.com/adm-uae/Images/attachments/White%20-%20Abu%20Dhabi%20Sports%201.png" group-title="Abu Dhabi Sports",Abu Dhabi Sports 1 
-http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/3524
+https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/index.m3u8
 #EXTINF:-1 tvg-id="AD Sports 2.sa" tvg-name="Abu Dhabi Sports 2 " tvg-logo="https://vo-static.cdb.cdn.orange.com/adm-uae/Images/attachments/White%20-%20Abu%20Dhabi%20Sports%202.png" group-title="Abu Dhabi Sports",Abu Dhabi Sports 2 
-http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/3523
+https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel2/HLS/index.m3u8
 #EXTINF:-1 tvg-id="Dubai Sports HD.sa" tvg-name="Dubai Sport 1 " tvg-logo="https://www.dmi.gov.ae/content/dam/corporate/dev/2023/elogos-en/dubai-sports-logo.png" group-title="Dubai Sport",Dubai Sport 1 
-http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/2363
+https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="Dubai Sports 2.sa" tvg-name="Dubai Sport 2 " tvg-logo="https://www.dmi.gov.ae/content/dam/corporate/dev/2023/elogos-en/dubai-sports-logo.png" group-title="Dubai Sport",Dubai Sport 2 
 http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/2362
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dubai Sport 3" tvg-logo="https://www.dmi.gov.ae/content/dam/corporate/dev/2023/elogos-en/dubai-sports-logo.png" group-title="Dubai Sport",Dubai Sport 3
-http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/21095
+https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ON TIME Sports 1 " tvg-logo="https://yt3.googleusercontent.com/5KXtaWB5YnPF8u39VWh-DsdvaAFEYtWIz-gzXvU3W65F3a9Um5VIMoJiyjE1H99umdpU4v3RgQ=s900-c-k-c0x00ffffff-no-rj" group-title="ON TIME Sports",ON TIME Sports 1 
 http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/103342
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ON TIME Sports 2 " tvg-logo="https://yt3.googleusercontent.com/5KXtaWB5YnPF8u39VWh-DsdvaAFEYtWIz-gzXvU3W65F3a9Um5VIMoJiyjE1H99umdpU4v3RgQ=s900-c-k-c0x00ffffff-no-rj" group-title="ON TIME Sports",ON TIME Sports 2 
 http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/103343
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ON TIME Sports 3 " tvg-logo="https://yt3.googleusercontent.com/5KXtaWB5YnPF8u39VWh-DsdvaAFEYtWIz-gzXvU3W65F3a9Um5VIMoJiyjE1H99umdpU4v3RgQ=s900-c-k-c0x00ffffff-no-rj" group-title="ON TIME Sports",ON TIME Sports 3 
 http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/103344
+
 
