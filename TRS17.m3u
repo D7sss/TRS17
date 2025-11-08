@@ -489,3 +489,5 @@ http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/103342
 http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/103343
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ON TIME Sports 3 " tvg-logo="https://yt3.googleusercontent.com/5KXtaWB5YnPF8u39VWh-DsdvaAFEYtWIz-gzXvU3W65F3a9Um5VIMoJiyjE1H99umdpU4v3RgQ=s900-c-k-c0x00ffffff-no-rj" group-title="ON TIME Sports",ON TIME Sports 3 
 http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/103344
+#EXTINF:-1 tvg-id="Space Toon.sa" tvg-name="Spacetoon" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Spacetoon_logo.png" group-title="Family",Spacetoon
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-spacetoon/d8382fb9ab4b2307058f12c7ea90db54/index.m3u8
