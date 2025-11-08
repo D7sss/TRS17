@@ -451,12 +451,6 @@ http://2477fd5f.cbilant.com/iptv/WCSZMUM84X4689VHGC7UDAQQ/6157/index.m3u
 http://2477fd5f.cbilant.com/iptv/WCSZMUM84X4689VHGC7UDAQQ/271/index.m3u
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SETANTA Sports 2" tvg-logo="https://setantasports.com/wp-content/uploads/2025/03/logoyosat.png" group-title="SETANTA Sports",SETANTA Sports 2
 http://2477fd5f.cbilant.com/iptv/WCSZMUM84X4689VHGC7UDAQQ/270/index.m3u
-#EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/espn-us.png" group-title="ESPN",ESPN 1
-http://oktay-can-mdiya-hack.streamtv.to:8080/RqgXIWS5LF/9azAQRq81w/10212
-#EXTINF:-1 tvg-id="ESPN2.us" tvg-name="ESPN 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/espn-2-us.png" group-title="ESPN",ESPN 2
-http://oktay-can-mdiya-hack.streamtv.to:8080/RqgXIWS5LF/9azAQRq81w/10186
-#EXTINF:-1 tvg-id="ESPNU.us" tvg-name="ESPN U" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/espn-u-us.png" group-title="ESPN",ESPN U
-http://oktay-can-mdiya-hack.streamtv.to:8080/RqgXIWS5LF/9azAQRq81w/10185
 #EXTINF:-1 tvg-id="2023 Alkass 1.qa" tvg-name="Alkass 1 " tvg-logo="https://images.alkass.net/newsimages/large_20161007184153_1475854913.48.jpg" group-title="Alkass ",Alkass 1 
 http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/109996
 #EXTINF:-1 tvg-id="2023 Alkass 1.qa" tvg-name="AlKass 1 B" tvg-logo="https://images.alkass.net/newsimages/large_20161007184153_1475854913.48.jpg" group-title="Alkass ",AlKass 1 B
@@ -491,3 +485,51 @@ http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/103343
 http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/103344
 #EXTINF:-1 tvg-id="Space Toon.sa" tvg-name="Spacetoon" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Spacetoon_logo.png" group-title="Family",Spacetoon
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-spacetoon/d8382fb9ab4b2307058f12c7ea90db54/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Altitude Sports" tvg-logo="" group-title="US Sport ",Altitude Sports
+https://a1xs.vip/40000048
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Big Ten Network " tvg-logo="" group-title="US Sport ",Big Ten Network 
+https://a1xs.vip/40000047
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CBS Sports Golazo Network" tvg-logo="" group-title="US Sport ",CBS Sports Golazo Network
+https://a1xs.vip/4000009
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CBS Sports HQ FHD" tvg-logo="" group-title="US Sport ",CBS Sports HQ FHD
+https://a1xs.vip/4000007
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CBS Sports Network" tvg-logo="" group-title="US Sport ",CBS Sports Network
+https://a1xs.vip/4000008
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Chicago Sports Network" tvg-logo="" group-title="US Sport ",Chicago Sports Network
+https://a1xs.vip/4000049
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN HD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/international/espn-int.png?raw=true" group-title="US Sport ",ESPN HD
+https://a1xs.vip/40000011
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN News HD" tvg-logo="" group-title="US Sport ",ESPN News HD
+https://a1xs.vip/40000014
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN2 HD" tvg-logo="" group-title="US Sport ",ESPN2 HD
+https://a1xs.vip/40000012
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPNU HD" tvg-logo="" group-title="US Sport ",ESPNU HD
+https://a1xs.vip/40000013
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FanDuel Sports Florida" tvg-logo="" group-title="US Sport ",FanDuel Sports Florida
+https://a1xs.vip/4000050
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FanDuel Sports Midwest" tvg-logo="" group-title="US Sport ",FanDuel Sports Midwest
+https://a1xs.vip/4000054
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FanDuel Sports North" tvg-logo="" group-title="US Sport ",FanDuel Sports North
+https://a1xs.vip/4000057
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FanDuel Sports South" tvg-logo="" group-title="US Sport ",FanDuel Sports South
+https://a1xs.vip/4000053
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FanDuel Sports Sun" tvg-logo="" group-title="US Sport ",FanDuel Sports Sun
+https://a1xs.vip/4000051
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FanDuel Sports West" tvg-logo="" group-title="US Sport ",FanDuel Sports West
+https://a1xs.vip/4000052
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FanDuel Sports Wisconsin" tvg-logo="" group-title="US Sport ",FanDuel Sports Wisconsin
+https://a1xs.vip/4000056
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FanDuel TV" tvg-logo="" group-title="US Sport ",FanDuel TV
+https://a1xs.vip/40000046
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FS1 HD" tvg-logo="" group-title="US Sport ",FS1 HD
+https://a1xs.vip/40000021
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FS2 HD" tvg-logo="" group-title="US Sport ",FS2 HD
+https://a1xs.vip/40000022
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MLB Network" tvg-logo="" group-title="US Sport ",MLB Network
+https://a1xs.vip/40000030
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBC Sports Bay Area" tvg-logo="" group-title="US Sport ",NBC Sports Bay Area
+https://a1xs.vip/400050
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBC Sports Philadelphia" tvg-logo="" group-title="US Sport ",NBC Sports Philadelphia
+https://a1xs.vip/400051
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NFL RedZone" tvg-logo="" group-title="US Sport ",NFL RedZone
+https://a1xs.vip/40000033
