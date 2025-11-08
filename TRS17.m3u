@@ -55,13 +55,13 @@ http://medsat.casacam.net:2082/star7arab.x/fktjSy@2SmF/131
 http://medsat.casacam.net:2082/star7arab.x/fktjSy@2SmF/135
 #EXTINF:-1 tvg-id="beIN SPORTS XTRA 3.qa" tvg-name="beIN SPORTS XTRA 3 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/international/beinsports/old/horizontal/bein-sports-xtra-hz-int.png" group-title="beIN SPORTS ",beIN SPORTS XTRA 3 HD
 http://medsat.casacam.net:2082/star7arab.x/fktjSy@2SmF/139
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN SPORTS FHD" tvg-logo="" group-title="beIN SPORTS ",beIN SPORTS FHD
+#EXTINF:-1 tvg-id="beIN SPORTS.qa" tvg-name="beIN SPORTS FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Bein_Sports_Logo.svg/2560px-Bein_Sports_Logo.svg.png" group-title="beIN SPORTS ",beIN SPORTS FHD
 http://medsat.casacam.net:2082/star7arab.x/fktjSy@2SmF/7
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN SPORTS SD" tvg-logo="" group-title="beIN SPORTS ",beIN SPORTS SD
+#EXTINF:-1 tvg-id="beIN SPORTS.qa" tvg-name="beIN SPORTS SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Bein_Sports_Logo.svg/2560px-Bein_Sports_Logo.svg.png" group-title="beIN SPORTS ",beIN SPORTS SD
 http://medsat.casacam.net:2082/star7arab.x/fktjSy@2SmF/9
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN SPORTS News FHD" tvg-logo="" group-title="beIN SPORTS ",beIN SPORTS News FHD
+#EXTINF:-1 tvg-id="beIN SPORTS NEWS.qa" tvg-name="beIN SPORTS News FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/international/beinsports/old/horizontal/bein-sports-news-arabic-hz-int.png" group-title="beIN SPORTS ",beIN SPORTS News FHD
 http://medsat.casacam.net:2082/star7arab.x/fktjSy@2SmF/2
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN SPORTS News SD" tvg-logo="" group-title="beIN SPORTS ",beIN SPORTS News SD
+#EXTINF:-1 tvg-id="beIN SPORTS NEWS.qa" tvg-name="beIN SPORTS News SD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/international/beinsports/old/horizontal/bein-sports-news-arabic-hz-int.png" group-title="beIN SPORTS ",beIN SPORTS News SD
 http://medsat.casacam.net:2082/star7arab.x/fktjSy@2SmF/5
 #EXTINF:-1 tvg-id="beIN SPORTS 1.qa" tvg-name="beIN SPORTS 1 (Backup2)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-1-hz-mea.png" group-title="beIN SPORTS (Backup2)",beIN SPORTS 1 (Backup2)
 https://nl1.streamlive.to/live/19995634/79960700/714411.m3u8
