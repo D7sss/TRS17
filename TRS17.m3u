@@ -1,10 +1,10 @@
 #EXTM3U url-tvg="http://m3u4u.com/epg/4z2xnjjzg1c2zrx9nv15"
 #EXTINF:-1 tvg-id="beIN SPORTS 1.qa" tvg-name="beIN SPORTS 1 FHD A" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-1-hz-mea.png" group-title="beIN SPORTS ",beIN SPORTS 1 FHD A
-http://173.212.193.243:8080/mo3ad330/mo3ad330/886
+http://176.119.29.7/0c55573d-12d8-43af-823b-25c94d67b190.m3u8
 #EXTINF:-1 tvg-id="beIN SPORTS 1.qa" tvg-name="beIN SPORTS 1 FHD B" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-1-hz-mea.png" group-title="beIN SPORTS ",beIN SPORTS 1 FHD B
 https://ab.footballii.ir/hls2/bein1_src.m3u8
 #EXTINF:-1 tvg-id="beIN SPORTS 1.qa" tvg-name="beIN SPORTS 1 FHD C" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-1-hz-mea.png" group-title="beIN SPORTS ",beIN SPORTS 1 FHD C
-http://176.119.29.7/0c55573d-12d8-43af-823b-25c94d67b190.m3u8
+http://173.212.193.243:8080/mo3ad330/mo3ad330/886
 #EXTINF:-1 tvg-id="beIN SPORTS 1.qa" tvg-name="beIN SPORTS 1 HD A" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-1-hz-mea.png" group-title="beIN SPORTS ",beIN SPORTS 1 HD A
 https://nl1.streamlive.to/live/19995634/79960700/714411.m3u8
 #EXTINF:-1 tvg-id="beIN SPORTS 1.qa" tvg-name="beIN SPORTS 1 HD B" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-1-hz-mea.png" group-title="beIN SPORTS ",beIN SPORTS 1 HD B
@@ -22,11 +22,11 @@ http://het000.4rouwanda-shop.store/live/918454578001/index.m3u8?t=DEJiMXN_IGsDgK
 #EXTINF:-1 tvg-id="beIN SPORTS 1.qa" tvg-name="beIN SPORTS 1 SD B" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-1-hz-mea.png" group-title="beIN SPORTS ",beIN SPORTS 1 SD B
 https://airmaxx.boats/live/airmaxtv/741985/2523.m3u8
 #EXTINF:-1 tvg-id="beIN SPORTS 2.qa" tvg-name="beIN SPORTS 2 FHD A" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-2-hz-mea.png" group-title="beIN SPORTS ",beIN SPORTS 2 FHD A
-https://nl1.streamlive.to/live/19995634/79960700/659428.m3u8
-#EXTINF:-1 tvg-id="beIN SPORTS 2.qa" tvg-name="beIN SPORTS 2 FHD B" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-2-hz-mea.png" group-title="beIN SPORTS ",beIN SPORTS 2 FHD B
-http://173.212.193.243:8080/mo3ad330/mo3ad330/406
-#EXTINF:-1 tvg-id="beIN SPORTS 2.qa" tvg-name="beIN SPORTS 2 FHD C" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-2-hz-mea.png" group-title="beIN SPORTS ",beIN SPORTS 2 FHD C
 http://176.119.29.7/01ed3a36-03b2-4f64-9dfa-dea3df61b611.m3u8
+#EXTINF:-1 tvg-id="beIN SPORTS 2.qa" tvg-name="beIN SPORTS 2 FHD B" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-2-hz-mea.png" group-title="beIN SPORTS ",beIN SPORTS 2 FHD B
+https://nl1.streamlive.to/live/19995634/79960700/659428.m3u8
+#EXTINF:-1 tvg-id="beIN SPORTS 2.qa" tvg-name="beIN SPORTS 2 FHD C" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-2-hz-mea.png" group-title="beIN SPORTS ",beIN SPORTS 2 FHD C
+http://173.212.193.243:8080/mo3ad330/mo3ad330/406
 #EXTINF:-1 tvg-id="beIN SPORTS 2.qa" tvg-name="beIN SPORTS 2 HD A" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-2-hz-mea.png" group-title="beIN SPORTS ",beIN SPORTS 2 HD A
 #EXTVLCOPT:http-referrer=https://x.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
