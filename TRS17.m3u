@@ -122,8 +122,7 @@ https://airmaxx.boats/live/airmaxtv/741985/2529.m3u8
 #EXTINF:-1 tvg-id="beIN SPORTS 8.qa" tvg-name="beIN SPORTS 8 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Logo-Beinsports-8MAX.png" group-title="beIN SPORTS ",beIN SPORTS 8 FHD
 https://nl1.streamlive.to/live/19995634/79960700/659434.m3u8
 #EXTINF:-1 tvg-id="beIN SPORTS 8.qa" tvg-name="beIN SPORTS 8 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Logo-Beinsports-8MAX.png" group-title="beIN SPORTS ",beIN SPORTS 8 HD
-#EXTVLCOPT:http-referrer=https://x.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://x.com/ #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 http://het110b.ycn-redirect.com/live/996251000/index.m3u8?t=8vG3z_IOe1kk5lMSt4osoQ&e=1762724824
 #EXTINF:-1 tvg-id="beIN SPORTS 8.qa" tvg-name="beIN SPORTS 8 SD A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Logo-Beinsports-8MAX.png" group-title="beIN SPORTS ",beIN SPORTS 8 SD A
 http://135.125.109.73:9000/beinsport8_.m3u8
@@ -413,53 +412,53 @@ http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/103343
 http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/103344
 #EXTINF:-1 tvg-id="Space Toon.sa" tvg-name="Spacetoon" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Spacetoon_logo.png" group-title="Family",Spacetoon
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-spacetoon/d8382fb9ab4b2307058f12c7ea90db54/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Altitude Sports" tvg-logo="" group-title="US Sport ",Altitude Sports
+#EXTINF:-1 tvg-id="Altitude Sports.us" tvg-name="Altitude Sports" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/altitude-sports-us.png?raw=true" group-title="US Sport ",Altitude Sports
 https://a1xs.vip/40000048
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Big Ten Network " tvg-logo="" group-title="US Sport ",Big Ten Network 
+#EXTINF:-1 tvg-id="Big Ten Network " tvg-name="Big Ten Network " tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/big-ten-network-us.png?raw=true" group-title="US Sport ",Big Ten Network 
 https://a1xs.vip/40000047
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CBS Sports Golazo Network" tvg-logo="" group-title="US Sport ",CBS Sports Golazo Network
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CBS Sports Golazo Network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cbs-sports-golazo-network-us.png?raw=true" group-title="US Sport ",CBS Sports Golazo Network
 https://a1xs.vip/4000009
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CBS Sports HQ FHD" tvg-logo="" group-title="US Sport ",CBS Sports HQ FHD
+#EXTINF:-1 tvg-id="CBS Sports HQ.us" tvg-name="CBS Sports HQ FHD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cbs-sports-hq-us.png?raw=true" group-title="US Sport ",CBS Sports HQ FHD
 https://a1xs.vip/4000007
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CBS Sports Network" tvg-logo="" group-title="US Sport ",CBS Sports Network
+#EXTINF:-1 tvg-id="CBS Sports Network.us" tvg-name="CBS Sports Network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cbs-sports-network-us.png?raw=true" group-title="US Sport ",CBS Sports Network
 https://a1xs.vip/4000008
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Chicago Sports Network" tvg-logo="" group-title="US Sport ",Chicago Sports Network
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Chicago Sports Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Chicago_Sports_Network_Logo.png" group-title="US Sport ",Chicago Sports Network
 https://a1xs.vip/4000049
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN HD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/international/espn-int.png?raw=true" group-title="US Sport ",ESPN HD
+#EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN HD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/international/espn-int.png?raw=true" group-title="US Sport ",ESPN HD
 https://a1xs.vip/40000011
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN News HD" tvg-logo="" group-title="US Sport ",ESPN News HD
+#EXTINF:-1 tvg-id="ESPN News.us" tvg-name="ESPN News HD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/international/espn-int.png?raw=true" group-title="US Sport ",ESPN News HD
 https://a1xs.vip/40000014
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN2 HD" tvg-logo="" group-title="US Sport ",ESPN2 HD
+#EXTINF:-1 tvg-id="ESPN2.us" tvg-name="ESPN2 HD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/espn-2-us.png?raw=true" group-title="US Sport ",ESPN2 HD
 https://a1xs.vip/40000012
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPNU HD" tvg-logo="" group-title="US Sport ",ESPNU HD
+#EXTINF:-1 tvg-id="ESPNU.us" tvg-name="ESPNU HD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/espn-u-us.png?raw=true" group-title="US Sport ",ESPNU HD
 https://a1xs.vip/40000013
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FanDuel Sports Florida" tvg-logo="" group-title="US Sport ",FanDuel Sports Florida
+#EXTINF:-1 tvg-id="FanDuel Sports" tvg-name="FanDuel Sports Florida" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fanduel-tv-us.png?raw=true" group-title="US Sport ",FanDuel Sports Florida
 https://a1xs.vip/4000050
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FanDuel Sports Midwest" tvg-logo="" group-title="US Sport ",FanDuel Sports Midwest
+#EXTINF:-1 tvg-id="FanDuel Sports Midwest.us" tvg-name="FanDuel Sports Midwest" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fanduel-tv-us.png?raw=true" group-title="US Sport ",FanDuel Sports Midwest
 https://a1xs.vip/4000054
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FanDuel Sports North" tvg-logo="" group-title="US Sport ",FanDuel Sports North
+#EXTINF:-1 tvg-id="FanDuel Sports North.us" tvg-name="FanDuel Sports North" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fanduel-tv-us.png?raw=true" group-title="US Sport ",FanDuel Sports North
 https://a1xs.vip/4000057
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FanDuel Sports South" tvg-logo="" group-title="US Sport ",FanDuel Sports South
+#EXTINF:-1 tvg-id="FanDuel Sports South.us" tvg-name="FanDuel Sports South" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fanduel-tv-us.png?raw=true" group-title="US Sport ",FanDuel Sports South
 https://a1xs.vip/4000053
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FanDuel Sports Sun" tvg-logo="" group-title="US Sport ",FanDuel Sports Sun
+#EXTINF:-1 tvg-id="FanDuel Sports Sun.us" tvg-name="FanDuel Sports Sun" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fanduel-tv-us.png?raw=true" group-title="US Sport ",FanDuel Sports Sun
 https://a1xs.vip/4000051
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FanDuel Sports West" tvg-logo="" group-title="US Sport ",FanDuel Sports West
+#EXTINF:-1 tvg-id="FanDuel Sports West.us" tvg-name="FanDuel Sports West" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fanduel-tv-us.png?raw=true" group-title="US Sport ",FanDuel Sports West
 https://a1xs.vip/4000052
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FanDuel Sports Wisconsin" tvg-logo="" group-title="US Sport ",FanDuel Sports Wisconsin
+#EXTINF:-1 tvg-id="FanDuel Sports Wisconsin.us" tvg-name="FanDuel Sports Wisconsin" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fanduel-tv-us.png?raw=true" group-title="US Sport ",FanDuel Sports Wisconsin
 https://a1xs.vip/4000056
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FanDuel TV" tvg-logo="" group-title="US Sport ",FanDuel TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FanDuel TV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fanduel-tv-us.png?raw=true" group-title="US Sport ",FanDuel TV
 https://a1xs.vip/40000046
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FS1 HD" tvg-logo="" group-title="US Sport ",FS1 HD
+#EXTINF:-1 tvg-id="Fox Sports 1.us" tvg-name="FS1 HD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-sports-1-us.png?raw=true" group-title="US Sport ",FS1 HD
 https://a1xs.vip/40000021
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FS2 HD" tvg-logo="" group-title="US Sport ",FS2 HD
+#EXTINF:-1 tvg-id="Fox Sports 2.us" tvg-name="FS2 HD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-sports-2-us.png?raw=true" group-title="US Sport ",FS2 HD
 https://a1xs.vip/40000022
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MLB Network" tvg-logo="" group-title="US Sport ",MLB Network
+#EXTINF:-1 tvg-id="MLB Network.us" tvg-name="MLB Network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mlb-network-us.png?raw=true" group-title="US Sport ",MLB Network
 https://a1xs.vip/40000030
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBC Sports Bay Area" tvg-logo="" group-title="US Sport ",NBC Sports Bay Area
+#EXTINF:-1 tvg-id="NBC Sports Bay Area.us" tvg-name="NBC Sports Bay Area" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-sports-us.png?raw=true" group-title="US Sport ",NBC Sports Bay Area
 https://a1xs.vip/400050
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBC Sports Philadelphia" tvg-logo="" group-title="US Sport ",NBC Sports Philadelphia
+#EXTINF:-1 tvg-id="NBC Sports Philadelphia.us" tvg-name="NBC Sports Philadelphia" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-sports-us.png?raw=true" group-title="US Sport ",NBC Sports Philadelphia
 https://a1xs.vip/400051
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NFL RedZone" tvg-logo="" group-title="US Sport ",NFL RedZone
+#EXTINF:-1 tvg-id="NFL RedZone.us" tvg-name="NFL RedZone" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-red-zone-hz-us.png?raw=true" group-title="US Sport ",NFL RedZone
 https://a1xs.vip/40000033
 #EXTINF:-1 tvg-id="beIN SPORTS 1.fr" tvg-name="beIN SPORTS 1 FR" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-1-french-mea.png" group-title="beIN SPORTS (French)",beIN SPORTS 1 FR
 http://medsat.casacam.net:2082/star7arab.x/fktjSy@2SmF/455
