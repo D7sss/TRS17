@@ -219,56 +219,18 @@ https://nl1.streamlive.to/live/19995634/79960700/659443.m3u8
 https://airmaxx.boats/live/airmaxtv/741985/2522.m3u8
 #EXTINF:-1 tvg-id="beIN SPORTS NEWS.qa" tvg-name="beIN SPORTS News HD " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTq1hIBJFckwFH_IyH-04w34hl7SI96xjKiLQ&s" group-title="beIN SPORTS ",beIN SPORTS News HD 
 https://airmaxx.boats/live/airmaxtv/741985/2521.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Alwan Sport 1 HD (Stable)" tvg-logo="https://static.nicegram.app/features/telegram_channel_icons/8fbd1510-9e0d-48b9-aba6-884fb8c8a5a5.jpeg" group-title="Alwan Sport",Alwan Sport 1 HD (Stable)
-https://mejarserver.site/Test/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Alwan Sport 1 SD (Stable)" tvg-logo="https://static.nicegram.app/features/telegram_channel_icons/8fbd1510-9e0d-48b9-aba6-884fb8c8a5a5.jpeg" group-title="Alwan Sport",Alwan Sport 1 SD (Stable)
-https://py.dencreak.com/alwan_sd1.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Alwan Sport 1 FHD " tvg-logo="https://static.nicegram.app/features/telegram_channel_icons/8fbd1510-9e0d-48b9-aba6-884fb8c8a5a5.jpeg" group-title="Alwan Sport",Alwan Sport 1 FHD 
-http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/128864
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Alwan Sport 1 HD " tvg-logo="https://static.nicegram.app/features/telegram_channel_icons/8fbd1510-9e0d-48b9-aba6-884fb8c8a5a5.jpeg" group-title="Alwan Sport",Alwan Sport 1 HD 
-http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/128858
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Alwan Sport 1 SD " tvg-logo="https://static.nicegram.app/features/telegram_channel_icons/8fbd1510-9e0d-48b9-aba6-884fb8c8a5a5.jpeg" group-title="Alwan Sport",Alwan Sport 1 SD 
-http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/128852
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Alwan Sport 1 FHD" tvg-logo="https://static.nicegram.app/features/telegram_channel_icons/8fbd1510-9e0d-48b9-aba6-884fb8c8a5a5.jpeg" group-title="Alwan Sport",Alwan Sport 1 FHD
+https://py.dencreak.com/alwan_hd1.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Alwan Sport 2 SD (Stable)" tvg-logo="https://static.nicegram.app/features/telegram_channel_icons/8fbd1510-9e0d-48b9-aba6-884fb8c8a5a5.jpeg" group-title="Alwan Sport",Alwan Sport 2 SD (Stable)
 https://py.dencreak.com/alwan_sd2.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Alwan Sport 2 FHD " tvg-logo="https://static.nicegram.app/features/telegram_channel_icons/8fbd1510-9e0d-48b9-aba6-884fb8c8a5a5.jpeg" group-title="Alwan Sport",Alwan Sport 2 FHD 
-http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/128863
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Alwan Sport 2 HD " tvg-logo="https://static.nicegram.app/features/telegram_channel_icons/8fbd1510-9e0d-48b9-aba6-884fb8c8a5a5.jpeg" group-title="Alwan Sport",Alwan Sport 2 HD 
-http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/128857
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Alwan Sport 2 SD " tvg-logo="https://static.nicegram.app/features/telegram_channel_icons/8fbd1510-9e0d-48b9-aba6-884fb8c8a5a5.jpeg" group-title="Alwan Sport",Alwan Sport 2 SD 
-http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/128851
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Alwan Sport 3 SD (Stable)" tvg-logo="https://static.nicegram.app/features/telegram_channel_icons/8fbd1510-9e0d-48b9-aba6-884fb8c8a5a5.jpeg" group-title="Alwan Sport",Alwan Sport 3 SD (Stable)
 https://py.dencreak.com/alwan_sd3.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Alwan Sport 3 FHD " tvg-logo="https://static.nicegram.app/features/telegram_channel_icons/8fbd1510-9e0d-48b9-aba6-884fb8c8a5a5.jpeg" group-title="Alwan Sport",Alwan Sport 3 FHD 
-http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/128862
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Alwan Sport 3 HD " tvg-logo="https://static.nicegram.app/features/telegram_channel_icons/8fbd1510-9e0d-48b9-aba6-884fb8c8a5a5.jpeg" group-title="Alwan Sport",Alwan Sport 3 HD 
-http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/128856
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Alwan Sport 3 SD" tvg-logo="https://static.nicegram.app/features/telegram_channel_icons/8fbd1510-9e0d-48b9-aba6-884fb8c8a5a5.jpeg" group-title="Alwan Sport",Alwan Sport 3 SD
-http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/128850
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Alwan Sport 4 SD (Stable)" tvg-logo="https://static.nicegram.app/features/telegram_channel_icons/8fbd1510-9e0d-48b9-aba6-884fb8c8a5a5.jpeg" group-title="Alwan Sport",Alwan Sport 4 SD (Stable)
 https://py.dencreak.com/alwan_sd4.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Alwan Sport 4 FHD " tvg-logo="https://static.nicegram.app/features/telegram_channel_icons/8fbd1510-9e0d-48b9-aba6-884fb8c8a5a5.jpeg" group-title="Alwan Sport",Alwan Sport 4 FHD 
-http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/128861
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Alwan Sport 4 HD" tvg-logo="https://static.nicegram.app/features/telegram_channel_icons/8fbd1510-9e0d-48b9-aba6-884fb8c8a5a5.jpeg" group-title="Alwan Sport",Alwan Sport 4 HD
-http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/128855
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Alwan Sport 4 SD " tvg-logo="https://static.nicegram.app/features/telegram_channel_icons/8fbd1510-9e0d-48b9-aba6-884fb8c8a5a5.jpeg" group-title="Alwan Sport",Alwan Sport 4 SD 
-http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/128849
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Alwan Sport 5 SD (Stable)" tvg-logo="https://static.nicegram.app/features/telegram_channel_icons/8fbd1510-9e0d-48b9-aba6-884fb8c8a5a5.jpeg" group-title="Alwan Sport",Alwan Sport 5 SD (Stable)
 https://py.dencreak.com/alwan_sd5.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Alwan Sport 5 FHD " tvg-logo="https://static.nicegram.app/features/telegram_channel_icons/8fbd1510-9e0d-48b9-aba6-884fb8c8a5a5.jpeg" group-title="Alwan Sport",Alwan Sport 5 FHD 
-http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/128860
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Alwan Sport 5 HD " tvg-logo="https://static.nicegram.app/features/telegram_channel_icons/8fbd1510-9e0d-48b9-aba6-884fb8c8a5a5.jpeg" group-title="Alwan Sport",Alwan Sport 5 HD 
-http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/128854
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Alwan Sport 5 SD " tvg-logo="https://static.nicegram.app/features/telegram_channel_icons/8fbd1510-9e0d-48b9-aba6-884fb8c8a5a5.jpeg" group-title="Alwan Sport",Alwan Sport 5 SD 
-http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/128848
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Alwan Sport 6 SD (Stable)" tvg-logo="https://static.nicegram.app/features/telegram_channel_icons/8fbd1510-9e0d-48b9-aba6-884fb8c8a5a5.jpeg" group-title="Alwan Sport",Alwan Sport 6 SD (Stable)
 https://py.dencreak.com/alwan_sd6.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Alwan Sport 6 FHD" tvg-logo="https://static.nicegram.app/features/telegram_channel_icons/8fbd1510-9e0d-48b9-aba6-884fb8c8a5a5.jpeg" group-title="Alwan Sport",Alwan Sport 6 FHD
-http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/128859
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Alwan Sport 6 HD" tvg-logo="https://static.nicegram.app/features/telegram_channel_icons/8fbd1510-9e0d-48b9-aba6-884fb8c8a5a5.jpeg" group-title="Alwan Sport",Alwan Sport 6 HD
-http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/128853
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Alwan Sport 6 SD" tvg-logo="https://static.nicegram.app/features/telegram_channel_icons/8fbd1510-9e0d-48b9-aba6-884fb8c8a5a5.jpeg" group-title="Alwan Sport",Alwan Sport 6 SD
-http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/128847
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Alwan Sport 7 FHD" tvg-logo="https://static.nicegram.app/features/telegram_channel_icons/8fbd1510-9e0d-48b9-aba6-884fb8c8a5a5.jpeg" group-title="Alwan Sport",Alwan Sport 7 FHD
 https://py.dencreak.com/alwan_sd7.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Alwan Sport 8 FHD" tvg-logo="https://static.nicegram.app/features/telegram_channel_icons/8fbd1510-9e0d-48b9-aba6-884fb8c8a5a5.jpeg" group-title="Alwan Sport",Alwan Sport 8 FHD
@@ -277,16 +239,10 @@ https://py.dencreak.com/alwan_sd8.m3u8
 https://py.dencreak.com/alwan_sd9.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Alwan Sport 10 FHD" tvg-logo="https://static.nicegram.app/features/telegram_channel_icons/8fbd1510-9e0d-48b9-aba6-884fb8c8a5a5.jpeg" group-title="Alwan Sport",Alwan Sport 10 FHD
 https://py.dencreak.com/alwan_sd10.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Thamanya 1 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Thmanyah_Logo.svg/2048px-Thmanyah_Logo.svg.png" group-title="Thamanya ",Thamanya 1 FHD
-http://star10.co/live/9999/0000/100166.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Thamanya 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Thmanyah_Logo.svg/2048px-Thmanyah_Logo.svg.png" group-title="Thamanya ",Thamanya 1 HD
 https://airmaxx.boats/live/airmaxtv/5569364/2533.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Thamanya 2 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Thmanyah_Logo.svg/2048px-Thmanyah_Logo.svg.png" group-title="Thamanya ",Thamanya 2 FHD
-http://star10.co/live/9999/0000/72610.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Thamanya 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Thmanyah_Logo.svg/2048px-Thmanyah_Logo.svg.png" group-title="Thamanya ",Thamanya 2 HD
 https://airmaxx.boats/live/airmaxtv/5569364/2534.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Thamanya 3 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Thmanyah_Logo.svg/2048px-Thmanyah_Logo.svg.png" group-title="Thamanya ",Thamanya 3 FHD
-http://star10.co/live/9999/0000/72597.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Thamanya 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Thmanyah_Logo.svg/2048px-Thmanyah_Logo.svg.png" group-title="Thamanya ",Thamanya 3 HD
 https://airmaxx.boats/live/airmaxtv/5569364/2535.m3u8
 #EXTINF:-1 tvg-id="AD Sports Premium 1.sa" tvg-name="AD Sport PREMIUM 1 FHD" tvg-logo="https://mena-cdn-lb.aws.playco.com/prd-peg-data/default/web3/resources/images/starzplay.png" group-title="AD Sport Premium (Serie A)",AD Sport PREMIUM 1 FHD
@@ -457,38 +413,10 @@ http://2477fd5f.cbilant.com/iptv/WCSZMUM84X4689VHGC7UDAQQ/6157/index.m3u
 http://2477fd5f.cbilant.com/iptv/WCSZMUM84X4689VHGC7UDAQQ/271/index.m3u
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SETANTA Sports 2" tvg-logo="https://setantasports.com/wp-content/uploads/2025/03/logoyosat.png" group-title="SETANTA Sports",SETANTA Sports 2
 http://2477fd5f.cbilant.com/iptv/WCSZMUM84X4689VHGC7UDAQQ/270/index.m3u
-#EXTINF:-1 tvg-id="2023 Alkass 1.qa" tvg-name="Alkass 1 " tvg-logo="https://images.alkass.net/newsimages/large_20161007184153_1475854913.48.jpg" group-title="Alkass ",Alkass 1 
-http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/109996
-#EXTINF:-1 tvg-id="2023 Alkass 1.qa" tvg-name="AlKass 1 B" tvg-logo="https://images.alkass.net/newsimages/large_20161007184153_1475854913.48.jpg" group-title="Alkass ",AlKass 1 B
-http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/106996
-#EXTINF:-1 tvg-id="2023 Alkass 2.qa" tvg-name="Alkass 2 " tvg-logo="https://images.alkass.net/newsimages/large_20161007184153_1475854913.48.jpg" group-title="Alkass ",Alkass 2 
-http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/109995
-#EXTINF:-1 tvg-id="2023 Alkass 2.qa" tvg-name="AlKass 2 B" tvg-logo="https://images.alkass.net/newsimages/large_20161007184153_1475854913.48.jpg" group-title="Alkass ",AlKass 2 B
-http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/106997
-#EXTINF:-1 tvg-id="2023 Alkass 3.qa" tvg-name="Alkass 3 " tvg-logo="https://images.alkass.net/newsimages/large_20161007184153_1475854913.48.jpg" group-title="Alkass ",Alkass 3 
-http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/109994
-#EXTINF:-1 tvg-id="2023 Alkass 3.qa" tvg-name="AlKass 3 B" tvg-logo="https://images.alkass.net/newsimages/large_20161007184153_1475854913.48.jpg" group-title="Alkass ",AlKass 3 B
-http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/106998
-#EXTINF:-1 tvg-id="2023 Alkass 4.qa" tvg-name="Alkass 4 " tvg-logo="https://images.alkass.net/newsimages/large_20161007184153_1475854913.48.jpg" group-title="Alkass ",Alkass 4 
-http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/109993
-#EXTINF:-1 tvg-id="2023 Alkass 4.qa" tvg-name="AlKass 4 B" tvg-logo="https://images.alkass.net/newsimages/large_20161007184153_1475854913.48.jpg" group-title="Alkass ",AlKass 4 B
-http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/106999
 #EXTINF:-1 tvg-id="AD Sports 1.sa" tvg-name="Abu Dhabi Sports 1 " tvg-logo="https://vo-static.cdb.cdn.orange.com/adm-uae/Images/attachments/White%20-%20Abu%20Dhabi%20Sports%201.png" group-title="Abu Dhabi Sports",Abu Dhabi Sports 1 
 https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/index.m3u8
 #EXTINF:-1 tvg-id="AD Sports 2.sa" tvg-name="Abu Dhabi Sports 2 " tvg-logo="https://vo-static.cdb.cdn.orange.com/adm-uae/Images/attachments/White%20-%20Abu%20Dhabi%20Sports%202.png" group-title="Abu Dhabi Sports",Abu Dhabi Sports 2 
 https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel2/HLS/index.m3u8
-#EXTINF:-1 tvg-id="Dubai Sports HD.sa" tvg-name="Dubai Sport 1 " tvg-logo="https://www.dmi.gov.ae/content/dam/corporate/dev/2023/elogos-en/dubai-sports-logo.png" group-title="Dubai Sport",Dubai Sport 1 
-http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/2363
-#EXTINF:-1 tvg-id="Dubai Sports 2.sa" tvg-name="Dubai Sport 2 " tvg-logo="https://www.dmi.gov.ae/content/dam/corporate/dev/2023/elogos-en/dubai-sports-logo.png" group-title="Dubai Sport",Dubai Sport 2 
-http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/2362
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dubai Sport 3" tvg-logo="https://www.dmi.gov.ae/content/dam/corporate/dev/2023/elogos-en/dubai-sports-logo.png" group-title="Dubai Sport",Dubai Sport 3
-http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/2361
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ON TIME Sports 1 " tvg-logo="https://yt3.googleusercontent.com/5KXtaWB5YnPF8u39VWh-DsdvaAFEYtWIz-gzXvU3W65F3a9Um5VIMoJiyjE1H99umdpU4v3RgQ=s900-c-k-c0x00ffffff-no-rj" group-title="ON TIME Sports",ON TIME Sports 1 
-http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/103342
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ON TIME Sports 2 " tvg-logo="https://yt3.googleusercontent.com/5KXtaWB5YnPF8u39VWh-DsdvaAFEYtWIz-gzXvU3W65F3a9Um5VIMoJiyjE1H99umdpU4v3RgQ=s900-c-k-c0x00ffffff-no-rj" group-title="ON TIME Sports",ON TIME Sports 2 
-http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/103343
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ON TIME Sports 3 " tvg-logo="https://yt3.googleusercontent.com/5KXtaWB5YnPF8u39VWh-DsdvaAFEYtWIz-gzXvU3W65F3a9Um5VIMoJiyjE1H99umdpU4v3RgQ=s900-c-k-c0x00ffffff-no-rj" group-title="ON TIME Sports",ON TIME Sports 3 
-http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/103344
 #EXTINF:-1 tvg-id="Space Toon.sa" tvg-name="Spacetoon" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Spacetoon_logo.png" group-title="Family",Spacetoon
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-spacetoon/d8382fb9ab4b2307058f12c7ea90db54/index.m3u8
 #EXTINF:-1 tvg-id="Altitude Sports.us" tvg-name="Altitude Sports" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/altitude-sports-us.png?raw=true" group-title="US Sport ",Altitude Sports
@@ -545,18 +473,6 @@ http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:AB:0D:24&stream=146116&exten
 http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:AB:0D:24&stream=149773&extension=ts&play_token=dvNH4e67it
 #EXTINF:-1 tvg-id="beIN SPORTS 3.fr" tvg-name="beIN SPORTS 3 FR" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-3-french-mea.png" group-title="beIN SPORTS (French)",beIN SPORTS 3 FR
 http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:AB:0D:24&stream=250663&extension=ts&play_token=iMTpbhzlZZ
-#EXTINF:-1 tvg-id="beIN SPORTS MAX 4.fr" tvg-name="beIN SPORTS 4 FR" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-4-max-mea.png" group-title="beIN SPORTS (French)",beIN SPORTS 4 FR
-http://medsat.casacam.net:2082/star7arab.x/fktjSy@2SmF/469
-#EXTINF:-1 tvg-id="beIN SPORTS MAX 5.fr" tvg-name="beIN SPORTS 5 FR" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-5-max-mea.png" group-title="beIN SPORTS (French)",beIN SPORTS 5 FR
-http://medsat.casacam.net:2082/star7arab.x/fktjSy@2SmF/474
-#EXTINF:-1 tvg-id="beIN SPORTS MAX 6.fr" tvg-name="beIN SPORTS 6 FR" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-6-max-mea.png" group-title="beIN SPORTS (French)",beIN SPORTS 6 FR
-http://medsat.casacam.net:2082/star7arab.x/fktjSy@2SmF/475
-#EXTINF:-1 tvg-id="beIN SPORTS MAX 7.fr" tvg-name="beIN SPORTS 7 FR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/Logo-Beinsports-7MAX.png" group-title="beIN SPORTS (French)",beIN SPORTS 7 FR
-http://medsat.casacam.net:2082/star7arab.x/fktjSy@2SmF/479
-#EXTINF:-1 tvg-id="beIN SPORTS MAX 8.fr" tvg-name="beIN SPORTS 8 FR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Logo-Beinsports-8MAX.png" group-title="beIN SPORTS (French)",beIN SPORTS 8 FR
-http://medsat.casacam.net:2082/star7arab.x/fktjSy@2SmF/484
-#EXTINF:-1 tvg-id="beIN SPORTS MAX 9.fr" tvg-name="beIN SPORTS 9 FR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Logo-Beinsports-9MAX.png/1200px-Logo-Beinsports-9MAX.png" group-title="beIN SPORTS (French)",beIN SPORTS 9 FR
-http://medsat.casacam.net:2082/star7arab.x/fktjSy@2SmF/485
 #EXTINF:-1 tvg-id="beIN SPORTS 1.tr" tvg-name="beIN SPORTS 1 TR" tvg-logo="https://match-images.icdb.tv/5eff02f4d1725fb111490c036ecec4d7.jpg" group-title="beIN SPORTS (Turkish)",beIN SPORTS 1 TR
 http://oktay-can-mdiya-hack.streamtv.to:8080/RqgXIWS5LF/9azAQRq81w/101858
 #EXTINF:-1 tvg-id="beIN SPORTS 2.tr" tvg-name="beIN SPORTS 2 TR" tvg-logo="https://match-images.icdb.tv/5eff02f4d1725fb111490c036ecec4d7.jpg" group-title="beIN SPORTS (Turkish)",beIN SPORTS 2 TR
