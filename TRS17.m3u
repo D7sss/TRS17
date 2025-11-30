@@ -1,4 +1,28 @@
 #EXTM3U url-tvg="http://m3u4u.com/epg/4z2xnjjzg1c2zrx9nv15"
+#EXTINF:-1 tvg-id="Alkass One.qa" tvg-name="Alkass 1" tvg-logo="https://images.alkass.net/newsimages/large_20161007184153_1475854913.48.jpg" group-title="FIFA Arab Cup",Alkass 1
+https://liveeu-gcp.alkassdigital.net/alkass1-p/20251112T070231Z/mux_video_1080p_ts/index-1.m3u8
+#EXTINF:-1 tvg-id="Alkass Two.qa" tvg-name="Alkass 2" tvg-logo="https://images.alkass.net/newsimages/large_20161007184153_1475854913.48.jpg" group-title="FIFA Arab Cup",Alkass 2
+https://liveeu-gcp.alkassdigital.net/alkass2-p/20251112T071253Z/mux_video_1080p_ts/index-1.m3u8
+#EXTINF:-1 tvg-id="Alkass Three.qa" tvg-name="Alkass 3" tvg-logo="https://images.alkass.net/newsimages/large_20161007184153_1475854913.48.jpg" group-title="FIFA Arab Cup",Alkass 3
+https://liveeu-gcp.alkassdigital.net/alkass3-p/20251112T072756Z/mux_video_1080p_ts/index-1.m3u8
+#EXTINF:-1 tvg-id="Alkass Four.qa" tvg-name="Alkass 4" tvg-logo="https://images.alkass.net/newsimages/large_20161007184153_1475854913.48.jpg" group-title="FIFA Arab Cup",Alkass 4
+https://liveeu-gcp.alkassdigital.net/alkass4-p/20251112T073510Z/mux_video_1080p_ts/index-1.m3u8
+#EXTINF:-1 tvg-id="AD Sports 1.sa" tvg-name="Abu Dhabi Sports 1 " tvg-logo="https://vo-static.cdb.cdn.orange.com/adm-uae/Images/attachments/White%20-%20Abu%20Dhabi%20Sports%201.png" group-title="FIFA Arab Cup",Abu Dhabi Sports 1 
+https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/index.m3u8
+#EXTINF:-1 tvg-id="AD Sports 2.sa" tvg-name="Abu Dhabi Sports 2 " tvg-logo="https://vo-static.cdb.cdn.orange.com/adm-uae/Images/attachments/White%20-%20Abu%20Dhabi%20Sports%202.png" group-title="FIFA Arab Cup",Abu Dhabi Sports 2 
+https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel2/HLS/index.m3u8
+#EXTINF:-1 tvg-id="Dubai Sports HD.sa" tvg-name="Dubai Sports 1" tvg-logo="https://www.dmi.gov.ae/content/dam/corporate/dev/2023/elogos-en/dubai-sports-logo.png" group-title="FIFA Arab Cup",Dubai Sports 1
+https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="Dubai Sports 2.sa" tvg-name="Dubai Sports 2" tvg-logo="https://www.dmi.gov.ae/content/dam/corporate/dev/2023/elogos-en/dubai-sports-logo.png" group-title="FIFA Arab Cup",Dubai Sports 2
+https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dubai Sports 3" tvg-logo="https://www.dmi.gov.ae/content/dam/corporate/dev/2023/elogos-en/dubai-sports-logo.png" group-title="FIFA Arab Cup",Dubai Sports 3
+https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kuwait Sports " tvg-logo="https://i.imgur.com/R1hGX1d.png" group-title="FIFA Arab Cup",Kuwait Sports 
+https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kuwait Sports 2" tvg-logo="https://i.imgur.com/l4oX0gf.png" group-title="FIFA Arab Cup",Kuwait Sports 2
+https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Morocco Sport" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDakHsvhpXA6XfMNQBw5unmmkuGAGqEYRQ6A&s" group-title="FIFA Arab Cup",Morocco Sport
+https://cdnet.alwaysdata.net/maroo23/maarrytnt.php?m3u8
 #EXTINF:-1 tvg-id="beIN SPORTS 1.qa" tvg-name="beIN SPORTS 1 FHD A" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-1-hz-mea.png" group-title="QA: beIN SPORTS ",beIN SPORTS 1 FHD A
 https://ab.footballii.ir/hls2/bein1_src.m3u8
 #EXTINF:-1 tvg-id="beIN SPORTS 1.qa" tvg-name="beIN SPORTS 1 FHD B" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-1-hz-mea.png" group-title="QA: beIN SPORTS ",beIN SPORTS 1 FHD B
@@ -381,22 +405,22 @@ https://a1xs.vip/2000016
 https://7pal.short.gy/SSF1uhd
 #EXTINF:-1 tvg-id="Sky Sports F1.uk" tvg-name="Sky Sports F1 UHD B2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-f1-uk.png?raw=true" group-title="UK: Sky Sport",Sky Sports F1 UHD B2
 https://hilay.tv/l/skyf1uhd
-#EXTINF:-1 tvg-id="Sky Sports F1.uk" tvg-name="Sky Sports F1 " tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-f1-uk.png?raw=true" group-title="UK: Sky Sport",Sky Sports F1 
-https://a1xs.vip/2000005
-#EXTINF:-1 tvg-id="Sky Sports F1.uk" tvg-name="Sky Sports F1 B" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-f1-uk.png?raw=true" group-title="UK: Sky Sport",Sky Sports F1 B
-http://51.89.166.17:3002/index.php?id=tiankongf1
-#EXTINF:-1 tvg-id="Sky Sports F1.uk" tvg-name="Sky Sports F1 B2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-f1-uk.png?raw=true" group-title="UK: Sky Sport",Sky Sports F1 B2
-https://7pal.short.gy/ssportsf1
-#EXTINF:-1 tvg-id="Sky Sports F1.uk" tvg-name="Sky Sports F1 B3" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-f1-uk.png?raw=true" group-title="UK: Sky Sport",Sky Sports F1 B3
-http://de.online24.pm/play/9923/0E5BF0B5A9755BD/video.m3u8
-#EXTINF:-1 tvg-id="Sky Sports F1.uk" tvg-name="Sky Sports F1 B4" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-f1-uk.png?raw=true" group-title="UK: Sky Sport",Sky Sports F1 B4
+#EXTINF:-1 tvg-id="Sky Sports F1.uk" tvg-name="Sky Sports F1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-f1-uk.png?raw=true" group-title="UK: Sky Sport",Sky Sports F1
 http://tvmate.icu:8080/69NpyV/884735/53704
-#EXTINF:-1 tvg-id="Sky Sports F1.uk" tvg-name="Sky Sports F1 B5" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-f1-uk.png?raw=true" group-title="UK: Sky Sport",Sky Sports F1 B5
+#EXTINF:-1 tvg-id="Sky Sports F1.uk" tvg-name="Sky Sports F1 B" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-f1-uk.png?raw=true" group-title="UK: Sky Sport",Sky Sports F1 B
+https://a1xs.vip/2000005
+#EXTINF:-1 tvg-id="Sky Sports F1.uk" tvg-name="Sky Sports F1 B2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-f1-uk.png?raw=true" group-title="UK: Sky Sport",Sky Sports F1 B2
+http://51.89.166.17:3002/index.php?id=tiankongf1
+#EXTINF:-1 tvg-id="Sky Sports F1.uk" tvg-name="Sky Sports F1 B3" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-f1-uk.png?raw=true" group-title="UK: Sky Sport",Sky Sports F1 B3
+https://7pal.short.gy/ssportsf1
+#EXTINF:-1 tvg-id="Sky Sports F1.uk" tvg-name="Sky Sports F1 B4" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-f1-uk.png?raw=true" group-title="UK: Sky Sport",Sky Sports F1 B4
 http://fortv.cc:8080/3017851038/JACKWES2001@GMAIL.COM/53704
-#EXTINF:-1 tvg-id="Sky Sports F1.uk" tvg-name="Sky Sports F1 B6" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-f1-uk.png?raw=true" group-title="UK: Sky Sport",Sky Sports F1 B6
+#EXTINF:-1 tvg-id="Sky Sports F1.uk" tvg-name="Sky Sports F1 B5" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-f1-uk.png?raw=true" group-title="UK: Sky Sport",Sky Sports F1 B5
 http://2477fd5f.cbilant.com/iptv/WCSZMUM84X4689VHGC7UDAQQ/9283/index.m3u
 #EXTINF:-1 tvg-id="Sky Sports F1.uk" tvg-name=" Sky Sports F1 DE" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-f1-uk.png?raw=true" group-title="UK: Sky Sport", Sky Sports F1 DE
 http://2477fd5f.cbilant.com/iptv/WCSZMUM84X4689VHGC7UDAQQ/10079/index.m3u
+#EXTINF:-1 tvg-id="Sky Sports F1.uk" tvg-name="Sky Sports F1 DE B" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-f1-uk.png?raw=true" group-title="UK: Sky Sport",Sky Sports F1 DE B
+http://de.online24.pm/play/9923/0E5BF0B5A9755BD/video.m3u8
 #EXTINF:-1 tvg-id="Sky Sports Racing.uk" tvg-name="Sky Sports Racing " tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-racing-uk.png?raw=true" group-title="UK: Sky Sport",Sky Sports Racing 
 https://a1xs.vip/2000010
 #EXTINF:-1 tvg-id="Sky Sports Racing.uk" tvg-name="Sky Sports Racing B" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-racing-uk.png?raw=true" group-title="UK: Sky Sport",Sky Sports Racing B
@@ -673,24 +697,6 @@ http://de.online24.pm/play/1910/0E5BF0B5A9755BD/video.m3u8
 http://2477fd5f.cbilant.com/iptv/WCSZMUM84X4689VHGC7UDAQQ/2520/index.m3u
 #EXTINF:-1 tvg-id="V sport ultra HD (T).se" tvg-name="V Sport Ultra HD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/nordic/norway/v-sport-ultrahd-no.png?raw=true" group-title="Others",V Sport Ultra HD
 https://a1xs.vip/9000013
-#EXTINF:-1 tvg-id="Alkass One.qa" tvg-name="Alkass 1" tvg-logo="https://images.alkass.net/newsimages/large_20161007184153_1475854913.48.jpg" group-title="QA: Alkass ",Alkass 1
-https://liveeu-gcp.alkassdigital.net/alkass1-p/20251112T070231Z/mux_video_1080p_ts/index-1.m3u8
-#EXTINF:-1 tvg-id="Alkass Two.qa" tvg-name="Alkass 2" tvg-logo="https://images.alkass.net/newsimages/large_20161007184153_1475854913.48.jpg" group-title="QA: Alkass ",Alkass 2
-https://liveeu-gcp.alkassdigital.net/alkass2-p/20251112T071253Z/mux_video_1080p_ts/index-1.m3u8
-#EXTINF:-1 tvg-id="Alkass Three.qa" tvg-name="Alkass 3" tvg-logo="https://images.alkass.net/newsimages/large_20161007184153_1475854913.48.jpg" group-title="QA: Alkass ",Alkass 3
-https://liveeu-gcp.alkassdigital.net/alkass3-p/20251112T072756Z/mux_video_1080p_ts/index-1.m3u8
-#EXTINF:-1 tvg-id="Alkass Four.qa" tvg-name="Alkass 4" tvg-logo="https://images.alkass.net/newsimages/large_20161007184153_1475854913.48.jpg" group-title="QA: Alkass ",Alkass 4
-https://liveeu-gcp.alkassdigital.net/alkass4-p/20251112T073510Z/mux_video_1080p_ts/index-1.m3u8
-#EXTINF:-1 tvg-id="AD Sports 1.sa" tvg-name="Abu Dhabi Sports 1 " tvg-logo="https://vo-static.cdb.cdn.orange.com/adm-uae/Images/attachments/White%20-%20Abu%20Dhabi%20Sports%201.png" group-title="AE: Abu Dhabi Sports",Abu Dhabi Sports 1 
-https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/index.m3u8
-#EXTINF:-1 tvg-id="AD Sports 2.sa" tvg-name="Abu Dhabi Sports 2 " tvg-logo="https://vo-static.cdb.cdn.orange.com/adm-uae/Images/attachments/White%20-%20Abu%20Dhabi%20Sports%202.png" group-title="AE: Abu Dhabi Sports",Abu Dhabi Sports 2 
-https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel2/HLS/index.m3u8
-#EXTINF:-1 tvg-id="Dubai Sports HD.sa" tvg-name="Dubai Sports 1" tvg-logo="https://www.dmi.gov.ae/content/dam/corporate/dev/2023/elogos-en/dubai-sports-logo.png" group-title="AE: Dubai Sport",Dubai Sports 1
-https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="Dubai Sports 2.sa" tvg-name="Dubai Sports 2" tvg-logo="https://www.dmi.gov.ae/content/dam/corporate/dev/2023/elogos-en/dubai-sports-logo.png" group-title="AE: Dubai Sport",Dubai Sports 2
-https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dubai Sports 3" tvg-logo="https://www.dmi.gov.ae/content/dam/corporate/dev/2023/elogos-en/dubai-sports-logo.png" group-title="AE: Dubai Sport",Dubai Sports 3
-https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ON TIME Sports 1" tvg-logo="https://yt3.googleusercontent.com/5KXtaWB5YnPF8u39VWh-DsdvaAFEYtWIz-gzXvU3W65F3a9Um5VIMoJiyjE1H99umdpU4v3RgQ=s900-c-k-c0x00ffffff-no-rj" group-title="EG: ON TIME Sports",ON TIME Sports 1
 http://141.98.115.53/vibertv96/rdvewfds/75.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ON TIME Sports 2" tvg-logo="https://yt3.googleusercontent.com/5KXtaWB5YnPF8u39VWh-DsdvaAFEYtWIz-gzXvU3W65F3a9Um5VIMoJiyjE1H99umdpU4v3RgQ=s900-c-k-c0x00ffffff-no-rj" group-title="EG: ON TIME Sports",ON TIME Sports 2
