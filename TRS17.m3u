@@ -17,8 +17,10 @@ https://liveeu-gcp.alkassdigital.net/alkass4-p/20251112T073510Z/mux_video_1080p_
 http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/255.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Alkass 5" tvg-logo="https://images.alkass.net/newsimages/large_20161007184153_1475854913.48.jpg" group-title="FIFA Arab Cup",Alkass 5
 http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/256.m3u8
-#EXTINF:-1 tvg-id="beIN SPORTS.qa" tvg-name="beIN SPORTS FHD " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Bein_Sports_Logo.svg/2560px-Bein_Sports_Logo.svg.png" group-title="FIFA Arab Cup",beIN SPORTS FHD 
+#EXTINF:-1 tvg-id="beIN SPORTS.qa" tvg-name="beIN SPORTS " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Bein_Sports_Logo.svg/2560px-Bein_Sports_Logo.svg.png" group-title="FIFA Arab Cup",beIN SPORTS 
 https://airmaxx.boats/live/airmaxtv/3691478/2522.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN SPORTS (Youtube)" tvg-logo="" group-title="FIFA Arab Cup",beIN SPORTS (Youtube)
+https://www.youtube.com/watch?v=AiQasdSrZVo
 #EXTINF:-1 tvg-id="AD Sports 1.sa" tvg-name="Abu Dhabi Sports 1 " tvg-logo="https://vo-static.cdb.cdn.orange.com/adm-uae/Images/attachments/White%20-%20Abu%20Dhabi%20Sports%201.png" group-title="FIFA Arab Cup",Abu Dhabi Sports 1 
 https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/index.m3u8
 #EXTINF:-1 tvg-id="AD Sports 2.sa" tvg-name="Abu Dhabi Sports 2 " tvg-logo="https://vo-static.cdb.cdn.orange.com/adm-uae/Images/attachments/White%20-%20Abu%20Dhabi%20Sports%202.png" group-title="FIFA Arab Cup",Abu Dhabi Sports 2 
