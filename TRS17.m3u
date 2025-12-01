@@ -1,32 +1,44 @@
 #EXTM3U url-tvg="http://m3u4u.com/epg/4z2xnjjzg1c2zrx9nv15"
 #EXTINF:-1 tvg-id="Alkass One.qa" tvg-name="Alkass 1" tvg-logo="https://images.alkass.net/newsimages/large_20161007184153_1475854913.48.jpg" group-title="FIFA Arab Cup",Alkass 1
 https://liveeu-gcp.alkassdigital.net/alkass1-p/20251112T070231Z/mux_video_1080p_ts/index-1.m3u8
+#EXTINF:-1 tvg-id="Alkass One.qa" tvg-name="Alkass 1 B" tvg-logo="https://images.alkass.net/newsimages/large_20161007184153_1475854913.48.jpg" group-title="FIFA Arab Cup",Alkass 1 B
+http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/252.m3u8
 #EXTINF:-1 tvg-id="Alkass Two.qa" tvg-name="Alkass 2" tvg-logo="https://images.alkass.net/newsimages/large_20161007184153_1475854913.48.jpg" group-title="FIFA Arab Cup",Alkass 2
 https://liveeu-gcp.alkassdigital.net/alkass2-p/20251112T071253Z/mux_video_1080p_ts/index-1.m3u8
+#EXTINF:-1 tvg-id="Alkass Two.qa" tvg-name="Alkass 2 B" tvg-logo="https://images.alkass.net/newsimages/large_20161007184153_1475854913.48.jpg" group-title="FIFA Arab Cup",Alkass 2 B
+http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/253.m3u8
 #EXTINF:-1 tvg-id="Alkass Three.qa" tvg-name="Alkass 3" tvg-logo="https://images.alkass.net/newsimages/large_20161007184153_1475854913.48.jpg" group-title="FIFA Arab Cup",Alkass 3
 https://liveeu-gcp.alkassdigital.net/alkass3-p/20251112T072756Z/mux_video_1080p_ts/index-1.m3u8
+#EXTINF:-1 tvg-id="Alkass Three.qa" tvg-name="Alkass 3 B" tvg-logo="https://images.alkass.net/newsimages/large_20161007184153_1475854913.48.jpg" group-title="FIFA Arab Cup",Alkass 3 B
+http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/254.m3u8
 #EXTINF:-1 tvg-id="Alkass Four.qa" tvg-name="Alkass 4" tvg-logo="https://images.alkass.net/newsimages/large_20161007184153_1475854913.48.jpg" group-title="FIFA Arab Cup",Alkass 4
 https://liveeu-gcp.alkassdigital.net/alkass4-p/20251112T073510Z/mux_video_1080p_ts/index-1.m3u8
+#EXTINF:-1 tvg-id="Alkass Four.qa" tvg-name="Alkass 4 B" tvg-logo="https://images.alkass.net/newsimages/large_20161007184153_1475854913.48.jpg" group-title="FIFA Arab Cup",Alkass 4 B
+http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/255.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Alkass 5" tvg-logo="https://images.alkass.net/newsimages/large_20161007184153_1475854913.48.jpg" group-title="FIFA Arab Cup",Alkass 5
+http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/256.m3u8
 #EXTINF:-1 tvg-id="beIN SPORTS.qa" tvg-name="beIN SPORTS FHD " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Bein_Sports_Logo.svg/2560px-Bein_Sports_Logo.svg.png" group-title="FIFA Arab Cup",beIN SPORTS FHD 
 https://airmaxx.boats/live/airmaxtv/3691478/2522.m3u8
 #EXTINF:-1 tvg-id="AD Sports 1.sa" tvg-name="Abu Dhabi Sports 1 " tvg-logo="https://vo-static.cdb.cdn.orange.com/adm-uae/Images/attachments/White%20-%20Abu%20Dhabi%20Sports%201.png" group-title="FIFA Arab Cup",Abu Dhabi Sports 1 
 https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/index.m3u8
-#EXTINF:-1 tvg-id="AD Sports 1.sa" tvg-name="Abu Dhabi Sports 1 B" tvg-logo="https://vo-static.cdb.cdn.orange.com/adm-uae/Images/attachments/White%20-%20Abu%20Dhabi%20Sports%201.png" group-title="FIFA Arab Cup",Abu Dhabi Sports 1 B
-https://ev-fuj-dxb-cdn-edge2.aws.playco.com/live/eds/Abu_Dhabi_Sports_1_HD/DASH/Abu_Dhabi_Sports_1_HD.mpd
 #EXTINF:-1 tvg-id="AD Sports 2.sa" tvg-name="Abu Dhabi Sports 2 " tvg-logo="https://vo-static.cdb.cdn.orange.com/adm-uae/Images/attachments/White%20-%20Abu%20Dhabi%20Sports%202.png" group-title="FIFA Arab Cup",Abu Dhabi Sports 2 
 https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel2/HLS/index.m3u8
-#EXTINF:-1 tvg-id="AD Sports 2.sa" tvg-name="Abu Dhabi Sports 2 B" tvg-logo="https://vo-static.cdb.cdn.orange.com/adm-uae/Images/attachments/White%20-%20Abu%20Dhabi%20Sports%202.png" group-title="FIFA Arab Cup",Abu Dhabi Sports 2 B
-https://ev-fuj-dxb-cdn-edge2.aws.playco.com/live/eds/Abu_Dhabi_Sports_2_HD/DASH/Abu_Dhabi_Sports_2_HD.mpd
 #EXTINF:-1 tvg-id="Dubai Sports HD.sa" tvg-name="Dubai Sports 1" tvg-logo="https://www.dmi.gov.ae/content/dam/corporate/dev/2023/elogos-en/dubai-sports-logo.png" group-title="FIFA Arab Cup",Dubai Sports 1
 https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="Dubai Sports 2.sa" tvg-name="Dubai Sports 2" tvg-logo="https://www.dmi.gov.ae/content/dam/corporate/dev/2023/elogos-en/dubai-sports-logo.png" group-title="FIFA Arab Cup",Dubai Sports 2
 https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dubai Sports 3" tvg-logo="https://www.dmi.gov.ae/content/dam/corporate/dev/2023/elogos-en/dubai-sports-logo.png" group-title="FIFA Arab Cup",Dubai Sports 3
 https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sharjah Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/4/4e/%D8%A7%D9%84%D8%B4%D8%A7%D8%B1%D9%82%D8%A9_%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9.jpg" group-title="FIFA Arab Cup",Sharjah Sports
+https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kuwait Sports " tvg-logo="https://i.imgur.com/R1hGX1d.png" group-title="FIFA Arab Cup",Kuwait Sports 
 https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kuwait Sports 2" tvg-logo="https://i.imgur.com/l4oX0gf.png" group-title="FIFA Arab Cup",Kuwait Sports 2
 https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/index.m3u8
+#EXTINF:-1 tvg-id="MBC MASR 2.sa" tvg-name="MBC Masr 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-arab-emirates/mbc-maser-2-ae.png" group-title="FIFA Arab Cup",MBC Masr 2
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-2/754931856515075b0aabf0e583495c68/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Oman Sports " tvg-logo="https://tonyoconnorsthirdwebsite.com/wp-content/uploads/2018/06/4_OMTVSports_1000x650.jpg" group-title="FIFA Arab Cup",Oman Sports 
+https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Morocco Sport" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDakHsvhpXA6XfMNQBw5unmmkuGAGqEYRQ6A&s" group-title="FIFA Arab Cup",Morocco Sport
 https://cdnet.alwaysdata.net/maroo23/maarrytnt.php?m3u8
 #EXTINF:-1 tvg-id="beIN SPORTS 1.qa" tvg-name="beIN SPORTS 1 FHD A" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-1-hz-mea.png" group-title="QA: beIN SPORTS ",beIN SPORTS 1 FHD A
@@ -303,18 +315,34 @@ https://py.dencreak.com/alwan_sd8.m3u8
 https://py.dencreak.com/alwan_sd9.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Alwan Sport 10 FHD" tvg-logo="https://static.nicegram.app/features/telegram_channel_icons/8fbd1510-9e0d-48b9-aba6-884fb8c8a5a5.jpeg" group-title="Alwan Sport",Alwan Sport 10 FHD
 https://py.dencreak.com/alwan_sd10.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Post Sport 1" tvg-logo="https://scontent.fjed4-6.fna.fbcdn.net/v/t39.30808-6/382709763_860630308835944_6751765187798459607_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=kNb8Q1lqGLUQ7kNvwGvWlP3&_nc_oc=AdlNxr3j81mRjZ6h2s6mkpIJ_2hMctJ8PKZjVFNUKzPpyCjNlz-J9uOJ0BkGKuld_NOZNIBuUGPXs" group-title="Post Sport",Post Sport 1
+http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/348895.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Post Sport 2" tvg-logo="https://scontent.fjed4-6.fna.fbcdn.net/v/t39.30808-6/382709763_860630308835944_6751765187798459607_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=kNb8Q1lqGLUQ7kNvwGvWlP3&_nc_oc=AdlNxr3j81mRjZ6h2s6mkpIJ_2hMctJ8PKZjVFNUKzPpyCjNlz-J9uOJ0BkGKuld_NOZNIBuUGPXs" group-title="Post Sport",Post Sport 2
+http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/348896.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Post Sport 3" tvg-logo="https://scontent.fjed4-6.fna.fbcdn.net/v/t39.30808-6/382709763_860630308835944_6751765187798459607_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=kNb8Q1lqGLUQ7kNvwGvWlP3&_nc_oc=AdlNxr3j81mRjZ6h2s6mkpIJ_2hMctJ8PKZjVFNUKzPpyCjNlz-J9uOJ0BkGKuld_NOZNIBuUGPXs" group-title="Post Sport",Post Sport 3
+http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/348897.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Post Sport 4" tvg-logo="https://scontent.fjed4-6.fna.fbcdn.net/v/t39.30808-6/382709763_860630308835944_6751765187798459607_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=kNb8Q1lqGLUQ7kNvwGvWlP3&_nc_oc=AdlNxr3j81mRjZ6h2s6mkpIJ_2hMctJ8PKZjVFNUKzPpyCjNlz-J9uOJ0BkGKuld_NOZNIBuUGPXs" group-title="Post Sport",Post Sport 4
+http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/348898.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Post Sport 5" tvg-logo="https://scontent.fjed4-6.fna.fbcdn.net/v/t39.30808-6/382709763_860630308835944_6751765187798459607_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=kNb8Q1lqGLUQ7kNvwGvWlP3&_nc_oc=AdlNxr3j81mRjZ6h2s6mkpIJ_2hMctJ8PKZjVFNUKzPpyCjNlz-J9uOJ0BkGKuld_NOZNIBuUGPXs" group-title="Post Sport",Post Sport 5
+http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/348899.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Thamanya 1 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Thmanyah_Logo.svg/2048px-Thmanyah_Logo.svg.png" group-title="SA: Thamanya ",Thamanya 1 
 http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:CB:46:ED&stream=1549874&extension=ts&play_token=cRbYcECF02
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Thamanya 1 B" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Thmanyah_Logo.svg/2048px-Thmanyah_Logo.svg.png" group-title="SA: Thamanya ",Thamanya 1 B
 https://airmaxx.boats/live/airmaxtv/3691478/2533.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Thamanya 1 B2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Thmanyah_Logo.svg/2048px-Thmanyah_Logo.svg.png" group-title="SA: Thamanya ",Thamanya 1 B2
+http://bk.xiptv.network/live/freelist/freelist568/13647.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Thamanya 2 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Thmanyah_Logo.svg/2048px-Thmanyah_Logo.svg.png" group-title="SA: Thamanya ",Thamanya 2 
 http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:CB:46:ED&stream=1549875&extension=ts&play_token=NNU1ppbsDh
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Thamanya 2 B" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Thmanyah_Logo.svg/2048px-Thmanyah_Logo.svg.png" group-title="SA: Thamanya ",Thamanya 2 B
 https://airmaxx.boats/live/airmaxtv/3691478/2534.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Thamanya 2 B2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Thmanyah_Logo.svg/2048px-Thmanyah_Logo.svg.png" group-title="SA: Thamanya ",Thamanya 2 B2
+http://bk.xiptv.network/live/freelist/freelist568/13648.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Thamanya 3 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Thmanyah_Logo.svg/2048px-Thmanyah_Logo.svg.png" group-title="SA: Thamanya ",Thamanya 3 
 http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:CB:46:ED&stream=1597571&extension=ts&play_token=NIgPwoaa7Y
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Thamanya 3 B" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Thmanyah_Logo.svg/2048px-Thmanyah_Logo.svg.png" group-title="SA: Thamanya ",Thamanya 3 B
 https://airmaxx.boats/live/airmaxtv/3691478/2535.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Thamanya 3 B2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Thmanyah_Logo.svg/2048px-Thmanyah_Logo.svg.png" group-title="SA: Thamanya ",Thamanya 3 B2
+http://bk.xiptv.network/live/freelist/freelist568/13649.m3u8
 #EXTINF:-1 tvg-id="AD Sports Premium 1.sa" tvg-name="Starzplay Sport 1" tvg-logo="https://mena-cdn-lb.aws.playco.com/prd-peg-data/default/web3/resources/images/starzplay.png" group-title="AE: Starzplay Sport (Serie A)",Starzplay Sport 1
 http://splus.smartres.net/live/65787/54353/84721.m3u8
 #EXTINF:-1 tvg-id="AD Sports Premium 2.sa" tvg-name="Starzplay Sport 2 " tvg-logo="https://mena-cdn-lb.aws.playco.com/prd-peg-data/default/web3/resources/images/starzplay.png" group-title="AE: Starzplay Sport (Serie A)",Starzplay Sport 2 
@@ -327,8 +355,6 @@ https://airmaxx.boats/live/airmaxtv/3691478/2532.m3u8
 http://2477fd5f.cbilant.com/iptv/WCSZMUM84X4689VHGC7UDAQQ/15197/index.m3u
 #EXTINF:-1 tvg-id="MBC Action HD.sa" tvg-name="MBC Action SD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-arab-emirates/mbc-action-ae.png" group-title="SA: MBC Sport",MBC Action SD
 http://213.57.91.138:8000/play/a05l
-#EXTINF:-1 tvg-id="MBC MASR 2.sa" tvg-name="MBC Masr 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-arab-emirates/mbc-maser-2-ae.png" group-title="SA: MBC Sport",MBC Masr 2
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-2/754931856515075b0aabf0e583495c68/index.m3u8
 #EXTINF:-1 tvg-id="TNT Sports UHD 4K.uk" tvg-name="TNT Sport Ultimate 4K " tvg-logo="https://media.info/l/o/5/5824.1689874022.png" group-title="UK: TNT Sport ",TNT Sport Ultimate 4K 
 https://a1xs.vip/2000031
 #EXTINF:-1 tvg-id="TNT Sports UHD 4K.uk" tvg-name="TNT Sport Ultimate 4K B" tvg-logo="https://media.info/l/o/5/5824.1689874022.png" group-title="UK: TNT Sport ",TNT Sport Ultimate 4K B
@@ -747,6 +773,3 @@ https://a1xs.vip/400051
 https://a1xs.vip/40000033
 #EXTINF:-1 tvg-id="Space Toon.sa" tvg-name="Spacetoon" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Spacetoon_logo.png" group-title="Family",Spacetoon
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-spacetoon/d8382fb9ab4b2307058f12c7ea90db54/index.m3u8
-
-
-
