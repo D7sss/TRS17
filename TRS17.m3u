@@ -310,7 +310,7 @@ https://airmaxx.boats/live/airmaxtv/3691478/2533.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Thamanya 2 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Thmanyah_Logo.svg/2048px-Thmanyah_Logo.svg.png" group-title="SA: Thamanya ",Thamanya 2 
 http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:CB:46:ED&stream=1549875&extension=ts&play_token=NNU1ppbsDh
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Thamanya 2 B" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Thmanyah_Logo.svg/2048px-Thmanyah_Logo.svg.png" group-title="SA: Thamanya ",Thamanya 2 B
-https://airmaxx.boats/live/airmaxtv/3691478/3691478.m3u8
+https://airmaxx.boats/live/airmaxtv/3691478/2534.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Thamanya 3 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Thmanyah_Logo.svg/2048px-Thmanyah_Logo.svg.png" group-title="SA: Thamanya ",Thamanya 3 
 http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:CB:46:ED&stream=1597571&extension=ts&play_token=NIgPwoaa7Y
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Thamanya 3 B" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Thmanyah_Logo.svg/2048px-Thmanyah_Logo.svg.png" group-title="SA: Thamanya ",Thamanya 3 B
@@ -747,5 +747,6 @@ https://a1xs.vip/400051
 https://a1xs.vip/40000033
 #EXTINF:-1 tvg-id="Space Toon.sa" tvg-name="Spacetoon" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Spacetoon_logo.png" group-title="Family",Spacetoon
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-spacetoon/d8382fb9ab4b2307058f12c7ea90db54/index.m3u8
+
 
 
