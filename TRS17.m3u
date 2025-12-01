@@ -43,6 +43,8 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-2/754931856515075b0a
 https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Morocco Sport" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDakHsvhpXA6XfMNQBw5unmmkuGAGqEYRQ6A&s" group-title="FIFA Arab Cup",Morocco Sport
 https://cdnet.alwaysdata.net/maroo23/maarrytnt.php?m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Algiers TV6" tvg-logo="" group-title="FIFA Arab Cup",Algiers TV6
+https://games2.elahmad.xyz/tv769_www.elahmad.com_alegria_6/tracks-v1a1/mono.m3u8?token=f41551256e8d0413a7d968ccf38ef64e2256ccd9-8f412d9b99a810dd1f80dfb46a6f5d61-1764619258-1764608458
 #EXTINF:-1 tvg-id="beIN SPORTS 1.qa" tvg-name="beIN SPORTS 1 FHD A" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-1-hz-mea.png" group-title="QA: beIN SPORTS ",beIN SPORTS 1 FHD A
 https://ab.footballii.ir/hls2/bein1_src.m3u8
 #EXTINF:-1 tvg-id="beIN SPORTS 1.qa" tvg-name="beIN SPORTS 1 FHD B" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-1-hz-mea.png" group-title="QA: beIN SPORTS ",beIN SPORTS 1 FHD B
@@ -775,5 +777,3 @@ https://a1xs.vip/400051
 https://a1xs.vip/40000033
 #EXTINF:-1 tvg-id="Space Toon.sa" tvg-name="Spacetoon" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Spacetoon_logo.png" group-title="Family",Spacetoon
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-spacetoon/d8382fb9ab4b2307058f12c7ea90db54/index.m3u8
-
-
