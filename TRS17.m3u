@@ -44,8 +44,6 @@ http://bk.xiptv.network:80/live/freelist/freelist568/11580.m3u8
 #EXTINF:-1 tvg-chno="0" tvg-id="beIN SPORTS 1.qa" tvg-name="beIN SPORTS 1 FHD G" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-1-hz-mea.png" group-title="QA: beIN SPORTS ",beIN SPORTS 1 FHD G
 http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/348876.m3u8?t=1763971431366
 #EXTINF:-1 tvg-id="beIN SPORTS 1.qa" tvg-name="beIN SPORTS 1 FHD H" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-1-hz-mea.png" group-title="QA: beIN SPORTS ",beIN SPORTS 1 FHD H
-https://cdn.jsdelivr.net/gh/iliass-23/vibertv-m3u8@main/earthlink1.m3u8
-#EXTINF:-1 tvg-id="beIN SPORTS 1.qa" tvg-name="beIN SPORTS 1 FHD I" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-1-hz-mea.png" group-title="QA: beIN SPORTS ",beIN SPORTS 1 FHD I
 http://d7441a93.akadatel.com/iptv/NSEXWXAF56T6M4HP8WGLWQWK/6123/index.m3u8
 #EXTINF:-1 tvg-id="beIN SPORTS 1.qa" tvg-name="beIN SPORTS 1 HD A" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-1-hz-mea.png" group-title="QA: beIN SPORTS ",beIN SPORTS 1 HD A
 https://py.dencreak.com/bn_s_hd1.m3u8
@@ -67,8 +65,6 @@ https://py.dencreak.com/bn_g_4k2.m3u8
 http://bk.xiptv.network:80/live/freelist/freelist568/11579.m3u8
 #EXTINF:-1 tvg-id="beIN SPORTS 2.qa" tvg-name="beIN SPORTS 2 FHD D" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-2-hz-mea.png" group-title="QA: beIN SPORTS ",beIN SPORTS 2 FHD D
 http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/348877.m3u8?t=1763971484173
-#EXTINF:-1 tvg-id="beIN SPORTS 2.qa" tvg-name="beIN SPORTS 2 FHD E" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-2-hz-mea.png" group-title="QA: beIN SPORTS ",beIN SPORTS 2 FHD E
-https://cdn.jsdelivr.net/gh/iliass-23/vibertv-m3u8@main/earthlink2.m3u8
 #EXTINF:-1 tvg-id="beIN SPORTS 2.qa" tvg-name="beIN SPORTS 2 HD A" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-2-hz-mea.png" group-title="QA: beIN SPORTS ",beIN SPORTS 2 HD A
 https://py.dencreak.com/bn_s_hd2.m3u8
 #EXTINF:-1 tvg-id="beIN SPORTS 2.qa" tvg-name="beIN SPORTS 2 HD B" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-2-hz-mea.png" group-title="QA: beIN SPORTS ",beIN SPORTS 2 HD B
@@ -93,8 +89,6 @@ https://py.dencreak.com/bn_g_4k3.m3u8
 http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/348878.m3u8?t=1763971532454
 #EXTINF:-1 tvg-id="beIN SPORTS 3.qa" tvg-name="beIN SPORTS 3 FHD D" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-3-hz-mea.png" group-title="QA: beIN SPORTS ",beIN SPORTS 3 FHD D
 http://bk.xiptv.network:80/live/freelist/freelist568/11578.m3u8
-#EXTINF:-1 tvg-id="beIN SPORTS 3.qa" tvg-name="beIN SPORTS 3 FHD E" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-3-hz-mea.png" group-title="QA: beIN SPORTS ",beIN SPORTS 3 FHD E
-https://cdn.jsdelivr.net/gh/iliass-23/vibertv-m3u8@main/earthlink3.m3u8
 #EXTINF:-1 tvg-id="beIN SPORTS 3.qa" tvg-name="beIN SPORTS 3 HD A" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-3-hz-mea.png" group-title="QA: beIN SPORTS ",beIN SPORTS 3 HD A
 https://py.dencreak.com/bn_s_hd3.m3u8
 #EXTINF:-1 tvg-id="beIN SPORTS 3.qa" tvg-name="beIN SPORTS 3 HD B" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-3-hz-mea.png" group-title="QA: beIN SPORTS ",beIN SPORTS 3 HD B
@@ -143,8 +137,6 @@ https://py.dencreak.com/bn_g_4k5.m3u8
 http://bk.xiptv.network:80/live/freelist/freelist568/11576.m3u8
 #EXTINF:-1 tvg-id="beIN SPORTS 5.qa" tvg-name="beIN SPORTS 5 FHD D" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-5-hz-mea.png" group-title="QA: beIN SPORTS ",beIN SPORTS 5 FHD D
 http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/348880.m3u8?t=1763971571181
-#EXTINF:-1 tvg-id="beIN SPORTS 5.qa" tvg-name="beIN SPORTS 5 FHD E" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-5-hz-mea.png" group-title="QA: beIN SPORTS ",beIN SPORTS 5 FHD E
-https://cdn.jsdelivr.net/gh/iliass-23/vibertv-m3u8@main/earthlink5.m3u8
 #EXTINF:-1 tvg-id="beIN SPORTS 5.qa" tvg-name="beIN SPORTS 5 HD A" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-5-hz-mea.png" group-title="QA: beIN SPORTS ",beIN SPORTS 5 HD A
 https://py.dencreak.com/bn_s_hd5.m3u8
 #EXTINF:-1 tvg-id="beIN SPORTS 5.qa" tvg-name="beIN SPORTS 5 HD B" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-5-hz-mea.png" group-title="QA: beIN SPORTS ",beIN SPORTS 5 HD B
@@ -755,4 +747,3 @@ https://a1xs.vip/400051
 https://a1xs.vip/40000033
 #EXTINF:-1 tvg-id="Space Toon.sa" tvg-name="Spacetoon" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Spacetoon_logo.png" group-title="Family",Spacetoon
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-spacetoon/d8382fb9ab4b2307058f12c7ea90db54/index.m3u8
-
