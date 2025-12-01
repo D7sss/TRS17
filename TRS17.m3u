@@ -35,6 +35,8 @@ https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
 https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kuwait Sports 2" tvg-logo="https://i.imgur.com/l4oX0gf.png" group-title="FIFA Arab Cup",Kuwait Sports 2
 https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Shasha" tvg-logo="https://qnetwork-production-bucket.s3-eu-west-1.amazonaws.com/logos/1648049258753_BZLlt.png" group-title="FIFA Arab Cup",Shasha
+https://213368-castr.akamaized.net/65bdf582e043b56b0868a081/live_0586efe0c2e611eeb02035c643a92b1e/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="MBC MASR 2.sa" tvg-name="MBC Masr 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-arab-emirates/mbc-maser-2-ae.png" group-title="FIFA Arab Cup",MBC Masr 2
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-2/754931856515075b0aabf0e583495c68/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Oman Sports " tvg-logo="https://tonyoconnorsthirdwebsite.com/wp-content/uploads/2018/06/4_OMTVSports_1000x650.jpg" group-title="FIFA Arab Cup",Oman Sports 
