@@ -1,6 +1,4 @@
 #EXTM3U url-tvg="http://m3u4u.com/epg/4z2xnjjzg1c2zrx9nv15"
-#EXTINF:-1 tvg-id="beIN SPORTS.qa" tvg-name="beIN SPORTS FHD " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Bein_Sports_Logo.svg/2560px-Bein_Sports_Logo.svg.png" group-title="FIFA Arab Cup",beIN SPORTS FHD 
-https://airmaxx.boats/live/airmaxtv/3691478/2522.m3u8
 #EXTINF:-1 tvg-id="Alkass One.qa" tvg-name="Alkass 1" tvg-logo="https://images.alkass.net/newsimages/large_20161007184153_1475854913.48.jpg" group-title="FIFA Arab Cup",Alkass 1
 https://liveeu-gcp.alkassdigital.net/alkass1-p/20251112T070231Z/mux_video_1080p_ts/index-1.m3u8
 #EXTINF:-1 tvg-id="Alkass Two.qa" tvg-name="Alkass 2" tvg-logo="https://images.alkass.net/newsimages/large_20161007184153_1475854913.48.jpg" group-title="FIFA Arab Cup",Alkass 2
@@ -9,6 +7,8 @@ https://liveeu-gcp.alkassdigital.net/alkass2-p/20251112T071253Z/mux_video_1080p_
 https://liveeu-gcp.alkassdigital.net/alkass3-p/20251112T072756Z/mux_video_1080p_ts/index-1.m3u8
 #EXTINF:-1 tvg-id="Alkass Four.qa" tvg-name="Alkass 4" tvg-logo="https://images.alkass.net/newsimages/large_20161007184153_1475854913.48.jpg" group-title="FIFA Arab Cup",Alkass 4
 https://liveeu-gcp.alkassdigital.net/alkass4-p/20251112T073510Z/mux_video_1080p_ts/index-1.m3u8
+#EXTINF:-1 tvg-id="beIN SPORTS.qa" tvg-name="beIN SPORTS FHD " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Bein_Sports_Logo.svg/2560px-Bein_Sports_Logo.svg.png" group-title="FIFA Arab Cup",beIN SPORTS FHD 
+https://airmaxx.boats/live/airmaxtv/3691478/2522.m3u8
 #EXTINF:-1 tvg-id="AD Sports 1.sa" tvg-name="Abu Dhabi Sports 1 " tvg-logo="https://vo-static.cdb.cdn.orange.com/adm-uae/Images/attachments/White%20-%20Abu%20Dhabi%20Sports%201.png" group-title="FIFA Arab Cup",Abu Dhabi Sports 1 
 https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/index.m3u8
 #EXTINF:-1 tvg-id="AD Sports 1.sa" tvg-name="Abu Dhabi Sports 1 B" tvg-logo="https://vo-static.cdb.cdn.orange.com/adm-uae/Images/attachments/White%20-%20Abu%20Dhabi%20Sports%201.png" group-title="FIFA Arab Cup",Abu Dhabi Sports 1 B
@@ -755,3 +755,4 @@ https://a1xs.vip/400051
 https://a1xs.vip/40000033
 #EXTINF:-1 tvg-id="Space Toon.sa" tvg-name="Spacetoon" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Spacetoon_logo.png" group-title="Family",Spacetoon
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-spacetoon/d8382fb9ab4b2307058f12c7ea90db54/index.m3u8
+
