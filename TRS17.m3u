@@ -26,15 +26,15 @@ https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel2/
 #EXTINF:-1 tvg-id="Dubai Sports HD.sa" tvg-name="Dubai Sports 1" tvg-logo="https://www.dmi.gov.ae/content/dam/corporate/dev/2023/elogos-en/dubai-sports-logo.png" group-title="FIFA Arab Cup",Dubai Sports 1
 https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunklist_b3000000.m3u8
 #EXTINF:-1 tvg-id="Dubai Sports 2.sa" tvg-name="Dubai Sports 2" tvg-logo="https://www.dmi.gov.ae/content/dam/corporate/dev/2023/elogos-en/dubai-sports-logo.png" group-title="FIFA Arab Cup",Dubai Sports 2
-https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b3000000.m3u8
+https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dubai Sports 3" tvg-logo="https://www.dmi.gov.ae/content/dam/corporate/dev/2023/elogos-en/dubai-sports-logo.png" group-title="FIFA Arab Cup",Dubai Sports 3
-https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b3000000.m3u8
+https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sharjah Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/4/4e/%D8%A7%D9%84%D8%B4%D8%A7%D8%B1%D9%82%D8%A9_%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9.jpg" group-title="FIFA Arab Cup",Sharjah Sports
 https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kuwait Sports " tvg-logo="https://i.imgur.com/R1hGX1d.png" group-title="FIFA Arab Cup",Kuwait Sports 
 https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist_b3500000_t64MTA4MHA=.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kuwait Sports 2" tvg-logo="https://i.imgur.com/l4oX0gf.png" group-title="FIFA Arab Cup",Kuwait Sports 2
-https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist_b350000_t64MjQwcA==.m3u8
+https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist_b8000000_t64MTA4MHA=.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Shasha" tvg-logo="https://qnetwork-production-bucket.s3-eu-west-1.amazonaws.com/logos/1648049258753_BZLlt.png" group-title="FIFA Arab Cup",Shasha
 https://213368-castr.akamaized.net/65bdf582e043b56b0868a081/live_0586efe0c2e611eeb02035c643a92b1e/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="MBC MASR 2.sa" tvg-name="MBC Masr 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-arab-emirates/mbc-maser-2-ae.png" group-title="FIFA Arab Cup",MBC Masr 2
