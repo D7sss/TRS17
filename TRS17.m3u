@@ -39,6 +39,8 @@ https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist_b3500000_t64M
 https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist_b8000000_t64MTA4MHA=.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Shasha" tvg-logo="https://qnetwork-production-bucket.s3-eu-west-1.amazonaws.com/logos/1648049258753_BZLlt.png" group-title="FIFA Arab Cup",Shasha
 https://213368-castr.akamaized.net/65bdf582e043b56b0868a081/live_0586efe0c2e611eeb02035c643a92b1e/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Shasha 2" tvg-logo="https://qnetwork-production-bucket.s3-eu-west-1.amazonaws.com/logos/1648049258753_BZLlt.png" group-title="FIFA Arab Cup",Shasha 2
+https://213368-castr.akamaized.net/65bdf582e043b56b0868a081/live_1dc7d580558d11efa2eeebd0ba5ae7e5/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="MBC MASR 2.sa" tvg-name="MBC Masr 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-arab-emirates/mbc-maser-2-ae.png" group-title="FIFA Arab Cup",MBC Masr 2
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-2/754931856515075b0aabf0e583495c68/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MBC 5" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-arab-emirates/mbc-5-ae.png?raw=true" group-title="FIFA Arab Cup",MBC 5
@@ -777,6 +779,7 @@ https://a1xs.vip/400051
 https://a1xs.vip/40000033
 #EXTINF:-1 tvg-id="Space Toon.sa" tvg-name="Spacetoon" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Spacetoon_logo.png" group-title="Family",Spacetoon
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-spacetoon/d8382fb9ab4b2307058f12c7ea90db54/index.m3u8
+
 
 
 
