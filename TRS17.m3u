@@ -17,14 +17,18 @@ https://liveeu-gcp.alkassdigital.net/alkass4-p/20251112T073510Z/mux_video_1080p_
 http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/255.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Alkass 5" tvg-logo="https://images.alkass.net/newsimages/large_20161007184153_1475854913.48.jpg" group-title="FIFA Arab Cup",Alkass 5
 http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/256.m3u8
-#EXTINF:-1 tvg-id="beIN SPORTS.qa" tvg-name="beIN SPORTS " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Bein_Sports_Logo.svg/2560px-Bein_Sports_Logo.svg.png" group-title="FIFA Arab Cup",beIN SPORTS 
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1764806315/ei/S3owabDzH4ur0u8P0vuO4Qo/ip/2001%3A16a2%3A71ec%3A200%3A4d9%3A2713%3Ab82f%3Aa17d/id/AiQasdSrZVo.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/sa/ss/1/ssa/1/bui/AdEuB5Rq0-BOfx3dGB3UrwovatCG9AMiN66ycAVpdlaDifJ6zFIlccqrheNYaycwDH_9WTyD7vndeVEl/spc/6b0G_L1vUIdiLOCVHfRfvqaUPkvCrqamqY_qKSKR2FUsO24aCrIFnWLAx01Xhai4xCQ/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565681%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAKRI46yYvxn4mrKdu1IAKcY7d6iOkiwuTBA2MT_ES4gLAiEA-P4UeZwL8L4b3nfbL8bisteUxUGyMVTOSBG1ebZS5bI%3D/file/index.m3u8
+#EXTINF:-1 tvg-id="beIN SPORTS.qa" tvg-name="beIN SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Bein_Sports_Logo.svg/2560px-Bein_Sports_Logo.svg.png" group-title="FIFA Arab Cup",beIN SPORTS
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1764873343/ei/H4AxaZSsOqm56dsPv6asuQ4/ip/2001:16a2:71ec:200:acb4:eca:1b74:16af/id/AiQasdSrZVo.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr1---sn-nuj-wxqs.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/gcr/sa/ss/1/ssa/1/bui/AdEuB5R0Q6dUVK3_jIWsW70N00AvNXRV5S0Qc3B_AAHLGEpMTI5mJUUhgJQZ2bVDaXRhOkEys-m45IZH/spc/6b0G_LTqd9U4xswR_91RRnGIncPHasqLFpMzfxo8DwLdEFpadwsveWDYLZ7IRqg-BJI/vprv/1/playlist_type/DVR/cps/769/initcwndbps/2248750/met/1764851744,/mh/ql/mm/44/mn/sn-nuj-wxqs/ms/lva/mv/m/mvi/1/pl/40/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51355912,51552689,51565116,51565682,51580968/mt/1764851312/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,gcr,ss,ssa,bui,spc,vprv,playlist_type/sig/AJfQdSswRQIgKxWU8P_mEbdnheer0SEEVA2PcACFHXqw8ODAd1QHtfMCIQD_ZLOy0CgSrQkuzZ50_4wI7raBtJptdE2BkNMQDW1r1w%3D%3D/lsparams/hls_chunk_host,cps,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIgXC4r13XGblzBvuo7nWuysTjz3vFchZBx5nndmxheSi4CIQCRqa-MF4O9BY0IT04oaHGHoelzKAZqFfE2TArwYL7B2g%3D%3D/playlist/index.m3u8
 #EXTINF:-1 tvg-id="beIN SPORTS.qa" tvg-name="beIN SPORTS B" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Bein_Sports_Logo.svg/2560px-Bein_Sports_Logo.svg.png" group-title="FIFA Arab Cup",beIN SPORTS B
 https://airmaxx.boats/live/airmaxtv/3691478/2522.m3u8
 #EXTINF:-1 tvg-id="beIN SPORTS.qa" tvg-name="beIN SPORTS (Youtube VLC Only)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Bein_Sports_Logo.svg/2560px-Bein_Sports_Logo.svg.png" group-title="FIFA Arab Cup",beIN SPORTS (Youtube VLC Only)
 https://www.youtube.com/watch?v=AiQasdSrZVo
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN SPORTS Xtra 1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/world-middle-east/bein-sports/bein-sports-1-xtra-hz-mea.png?raw=true" group-title="FIFA Arab Cup",beIN SPORTS Xtra 1
 https://s2.news-api-gen.lol/xtra1/tracks-v1a1/mono.m3u8?remote=2001:16a2:71ec:200:2af5:7498:5ad5:1d79&token=e6ba32f7e95fe7ab0ec74510f5bc2ae241b22ff5-fed5b52d1ed37fce4a5b2ed78633275e-1764681632-1764670832
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Abu Dhabi Sports 1" tvg-logo="https://adsc.ae/media/3bslw2cd/abu-dhabi-sports-channel.png" group-title="FIFA Arab Cup",Abu Dhabi Sports 1
+https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/abudhabi_sports_1/abudhabi_sports_1_hls_nd/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Abu Dhabi Sports 2" tvg-logo="https://adsc.ae/media/3bslw2cd/abu-dhabi-sports-channel.png" group-title="FIFA Arab Cup",Abu Dhabi Sports 2
+https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/abudhabi_sports_2/abudhabi_sports_2_hls_nd/index.m3u8
 #EXTINF:-1 tvg-id="Dubai Sports HD.sa" tvg-name="Dubai Sports 1" tvg-logo="https://www.dmi.gov.ae/content/dam/corporate/dev/2023/elogos-en/dubai-sports-logo.png" group-title="FIFA Arab Cup",Dubai Sports 1
 https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunklist_b3000000.m3u8
 #EXTINF:-1 tvg-id="Dubai Sports 2.sa" tvg-name="Dubai Sports 2" tvg-logo="https://www.dmi.gov.ae/content/dam/corporate/dev/2023/elogos-en/dubai-sports-logo.png" group-title="FIFA Arab Cup",Dubai Sports 2
@@ -41,6 +45,10 @@ https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist_b8000000_t
 https://213368-castr.akamaized.net/65bdf582e043b56b0868a081/live_0586efe0c2e611eeb02035c643a92b1e/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Shasha 2" tvg-logo="https://qnetwork-production-bucket.s3-eu-west-1.amazonaws.com/logos/1648049258753_BZLlt.png" group-title="FIFA Arab Cup",Shasha 2
 https://213368-castr.akamaized.net/65bdf582e043b56b0868a081/live_1dc7d580558d11efa2eeebd0ba5ae7e5/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MBC 1" tvg-logo="https://mbc-lite-strapi-s3.s3.me-south-1.amazonaws.com/svg_mbc_1_0bf58055e9.svg" group-title="FIFA Arab Cup",MBC 1
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1-na/eec141533c90dd34722c503a296dd0d8/index.m3u8
+#EXTINF:-1 tvg-id="MBC Action HD.sa" tvg-name="MBC Action HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-arab-emirates/mbc-action-ae.png" group-title="FIFA Arab Cup",MBC Action HD
+http://2477fd5f.cbilant.com/iptv/WCSZMUM84X4689VHGC7UDAQQ/15197/index.m3u
 #EXTINF:-1 tvg-id="MBC MASR 2.sa" tvg-name="MBC Masr 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-arab-emirates/mbc-maser-2-ae.png" group-title="FIFA Arab Cup",MBC Masr 2
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-2/754931856515075b0aabf0e583495c68/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MBC 5" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-arab-emirates/mbc-5-ae.png?raw=true" group-title="FIFA Arab Cup",MBC 5
@@ -357,10 +365,6 @@ http://173.212.193.243:8080/mo3ad330/mo3ad330/881
 http://splus.smartres.net/live/65787/54353/84715.m3u8
 #EXTINF:-1 tvg-id="AD Sports Premium 2.sa" tvg-name="Starzplay Sport 2 B" tvg-logo="https://mena-cdn-lb.aws.playco.com/prd-peg-data/default/web3/resources/images/starzplay.png" group-title="AE: Starzplay Sport (Serie A)",Starzplay Sport 2 B
 https://airmaxx.boats/live/airmaxtv/3691478/2532.m3u8
-#EXTINF:-1 tvg-id="MBC Action HD.sa" tvg-name="MBC Action HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-arab-emirates/mbc-action-ae.png" group-title="SA: MBC Sport",MBC Action HD
-http://2477fd5f.cbilant.com/iptv/WCSZMUM84X4689VHGC7UDAQQ/15197/index.m3u
-#EXTINF:-1 tvg-id="MBC Action HD.sa" tvg-name="MBC Action SD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-arab-emirates/mbc-action-ae.png" group-title="SA: MBC Sport",MBC Action SD
-http://213.57.91.138:8000/play/a05l
 #EXTINF:-1 tvg-id="TNT Sports UHD 4K.uk" tvg-name="TNT Sport Ultimate 4K " tvg-logo="https://media.info/l/o/5/5824.1689874022.png" group-title="UK: TNT Sport ",TNT Sport Ultimate 4K 
 https://a1xs.vip/2000031
 #EXTINF:-1 tvg-id="TNT Sports UHD 4K.uk" tvg-name="TNT Sport Ultimate 4K B" tvg-logo="https://media.info/l/o/5/5824.1689874022.png" group-title="UK: TNT Sport ",TNT Sport Ultimate 4K B
@@ -779,10 +783,3 @@ https://a1xs.vip/400051
 https://a1xs.vip/40000033
 #EXTINF:-1 tvg-id="Space Toon.sa" tvg-name="Spacetoon" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Spacetoon_logo.png" group-title="Family",Spacetoon
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-spacetoon/d8382fb9ab4b2307058f12c7ea90db54/index.m3u8
-
-
-
-
-
-
-
