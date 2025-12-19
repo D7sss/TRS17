@@ -571,3 +571,7 @@ https://a1xs.vip/400051
 https://a1xs.vip/40000033
 #EXTINF:-1 tvg-id="Space Toon.sa" tvg-name="Spacetoon" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Spacetoon_logo.png" group-title="Family",Spacetoon
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-spacetoon/d8382fb9ab4b2307058f12c7ea90db54/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Thamanya "Live Event" " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Thmanyah_Logo.svg/2048px-Thmanyah_Logo.svg.png" group-title="Test ",Thamanya "Live Event"
+https://cloudfront-live.servers8.com/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJndzJ5cWQ2TG1nUnA1TURiQ0dGZHQ1YWpHOUYyIiwiY2hhbm5lbE5hbWUiOiJjaDA0LWZ0YSIsImlwIjoiNTQuMTc0LjEwMi42OCIsImlwX3Y0IjoiNTQuMTc0LjEwMi42OCIsImlwX3Y2IjoiIiwidXNlckFnZW50IjoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzE0My4wLjAuMCBTYWZhcmkvNTM3LjM2IiwibmJmIjoxNzY2MTcyOTEzLCJleHAiOjE3NjYxODM3MTMsImlhdCI6MTc2NjE3MjkxM30.EZTvO5Pl8Ln_1ppqBXZ6P0x3xB0fWQuPDkwbMS8sbaQ/live/ch04-fta/ll-variant__1080p.m3u8
+
+
