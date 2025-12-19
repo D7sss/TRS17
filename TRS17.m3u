@@ -163,7 +163,7 @@ https://py.dencreak.com/bn_g_hd9.m3u8
 https://py.dencreak.com/bn_g_sd9.m3u8
 #EXTINF:-1 tvg-id="beIN SPORTS 9.qa" tvg-name="beIN SPORTS 9 SD B" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Logo-Beinsports-9MAX.png/1200px-Logo-Beinsports-9MAX.png" group-title="QA: beIN SPORTS ",beIN SPORTS 9 SD B
 http://135.125.109.73:9000/beinsport9_.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN SPORTS 4K" tvg-logo="" group-title="QA: beIN SPORTS ",beIN SPORTS 4K
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN SPORTS 4K" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/international/beinsports/old/horizontal/bein-4k-hz-int.png?raw=true" group-title="QA: beIN SPORTS ",beIN SPORTS 4K
 http://ffg.gogo8k.me:80/play/live.php?mac=00:1A:79:00:23:B1&stream=983525&extension=ts&play_token=hszzN8IAD6
 #EXTINF:-1 tvg-id="beIN SPORTS.qa" tvg-name="beIN SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/BeIN_Sports_logo_%28horizontal_version%29.svg/960px-BeIN_Sports_logo_%28horizontal_version%29.svg.png" group-title="QA: beIN SPORTS ",beIN SPORTS
 https://airmaxx.boats/live/airmaxtv/2856499/2522.m3u8
@@ -262,7 +262,7 @@ http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:CB:46:ED&stream=1597571&exte
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Thamanya 3 B" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Thmanyah_Logo.svg/2048px-Thmanyah_Logo.svg.png" group-title="SA: Thamanya ",Thamanya 3 B
 https://airmaxx.boats/live/airmaxtv/2856499/2535.m3u8
 #EXTINF:-1 tvg-id="Alkass One.qa" tvg-name="Alkass 1" tvg-logo="https://www.qatar.qa/media/2021/10/alkass_logo_ar.png" group-title="SA: Arabic Sports",Alkass 1
-https://liveeu-gcp.alkassdigital.net/alkass1-bu/20251215T152730Z/mux_video_1080p_ts/index-1.m3u8
+https://liveeu-gcp.alkassdigital.net/alkass1-bu/20251218T024018Z/mux_video_1080p_ts/index-1.m3u8
 #EXTINF:-1 tvg-id="Alkass Two.qa" tvg-name="Alkass 2" tvg-logo="https://www.qatar.qa/media/2021/10/alkass_logo_ar.png" group-title="SA: Arabic Sports",Alkass 2
 https://liveeu-gcp.alkassdigital.net/alkass2-p/20251214T180127Z/mux_video_1080p_ts/index-1.m3u8
 #EXTINF:-1 tvg-id="Alkass Three.qa" tvg-name="Alkass 3" tvg-logo="https://www.qatar.qa/media/2021/10/alkass_logo_ar.png" group-title="SA: Arabic Sports",Alkass 3
