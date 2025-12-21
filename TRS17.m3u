@@ -305,6 +305,8 @@ https://airmaxx.boats/live/airmaxtv/2856499/2521.m3u8
 https://vg1m.m-2026-mobile.xyz/82_.m3u8
 #EXTINF:-1 tvg-id="beIN SPORTS MAX 1.qa" tvg-name="beIN SPORTS Max 1 FHD B" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/international/beinsports/old/horizontal/bein-sports-1-max-hz-int.png?raw=true" group-title="QA: beIN SPORTS Max (Africa Cup)",beIN SPORTS Max 1 FHD B
 https://vg1m.m-2026-mobile.xyz/84_.m3u8
+#EXTINF:-1 tvg-id="beIN SPORTS MAX 1.qa" tvg-name="beIN SPORTS Max 1 FHD C" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/international/beinsports/old/horizontal/bein-sports-1-max-hz-int.png?raw=true" group-title="QA: beIN SPORTS Max (Africa Cup)",beIN SPORTS Max 1 FHD C
+http://vibertv.online:8080/live/ANDVIBERTV/ANDVIBERTV60/298.m3u8
 #EXTINF:-1 tvg-id="beIN SPORTS MAX 1.qa" tvg-name="beIN SPORTS Max 1 HD A" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/international/beinsports/old/horizontal/bein-sports-1-max-hz-int.png?raw=true" group-title="QA: beIN SPORTS Max (Africa Cup)",beIN SPORTS Max 1 HD A
 https://vg1m.m-2026-mobile.xyz/19_.m3u8
 #EXTINF:-1 tvg-id="beIN SPORTS MAX 1.qa" tvg-name="beIN SPORTS Max 1 HD B" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/international/beinsports/old/horizontal/bein-sports-1-max-hz-int.png?raw=true" group-title="QA: beIN SPORTS Max (Africa Cup)",beIN SPORTS Max 1 HD B
@@ -723,3 +725,4 @@ https://a1xs.vip/400051
 https://a1xs.vip/40000033
 #EXTINF:-1 tvg-id="Space Toon.sa" tvg-name="Spacetoon" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Spacetoon_logo.png" group-title="Family",Spacetoon
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-spacetoon/d8382fb9ab4b2307058f12c7ea90db54/index.m3u8
+
