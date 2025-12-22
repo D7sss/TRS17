@@ -30,7 +30,6 @@ https://py.dencreak.com/bn_g_4k2.m3u8
 http://4kgood.org/live/8344281117826792/7mv6wkb8m8gwimx4frkr/1269944.m3u8
 #EXTINF:-1 tvg-id="beIN SPORTS 2.qa" tvg-name="beIN SPORTS 2 FHD D" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-2-hz-mea.png" group-title="QA: beIN SPORTS ",beIN SPORTS 2 FHD D
 https://nl1.streamlive.to/live/19995634/79960700/659428.m3u8
-
 #EXTINF:-1 tvg-id="beIN SPORTS 2.qa" tvg-name="beIN SPORTS 2 HD A" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-2-hz-mea.png" group-title="QA: beIN SPORTS ",beIN SPORTS 2 HD A
 https://py.dencreak.com/bn_s_hd2.m3u8
 #EXTINF:-1 tvg-id="beIN SPORTS 2.qa" tvg-name="beIN SPORTS 2 HD B" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-2-hz-mea.png" group-title="QA: beIN SPORTS ",beIN SPORTS 2 HD B
@@ -173,10 +172,36 @@ https://airmaxx.boats/live/airmaxtv/95147896/2522.m3u8
 https://www.youtube.com/watch?v=AiQasdSrZVo
 #EXTINF:-1 tvg-id="beIN SPORTS NEWS.qa" tvg-name="beIN SPORTS News HD " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTq1hIBJFckwFH_IyH-04w34hl7SI96xjKiLQ&s" group-title="QA: beIN SPORTS ",beIN SPORTS News HD 
 https://airmaxx.boats/live/airmaxtv/95147896/2521.m3u8
-#EXTINF:-1 tvg-id="beIN SPORTS MAX 1.qa" tvg-name="beIN SPORTS Max 1 HD A" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/international/beinsports/old/horizontal/bein-sports-1-max-hz-int.png?raw=true" group-title="QA: beIN SPORTS Max (Africa Cup)",beIN SPORTS Max 1 HD A
+#EXTINF:-1 tvg-id="beIN SPORTS MAX 1.qa" tvg-name="beIN SPORTS Max 1 HD A" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/international/beinsports/old/horizontal/bein-sports-1-max-hz-int.png?raw=true" group-title="Africa Cup",beIN SPORTS Max 1 HD A
 http://vibertv.online:8080/live/ANDVIBERTV/ANDVIBERTV60/298.m3u8
-#EXTINF:-1 tvg-id="beIN SPORTS MAX 1.qa" tvg-name="beIN SPORTS Max 1 HD B" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/international/beinsports/old/horizontal/bein-sports-1-max-hz-int.png?raw=true" group-title="QA: beIN SPORTS Max (Africa Cup)",beIN SPORTS Max 1 HD B
+#EXTINF:-1 tvg-id="beIN SPORTS MAX 1.qa" tvg-name="beIN SPORTS Max 1 HD B" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/international/beinsports/old/horizontal/bein-sports-1-max-hz-int.png?raw=true" group-title="Africa Cup",beIN SPORTS Max 1 HD B
 https://prod-fastly-us-west-2.video.pscp.tv/Transcoding/v1/hls/KhJz3UZYB0Yv7EIIjXD3D48G4VQO77fVluskrBgbkC3AU1IJZSn9wX9wlxaS3M8Q_PlT_BMJDR0v6B5BQAqqGg/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live
+#EXTINF:-1 tvg-id="Ziggo Sport.nl" tvg-name="Ziggo Sport 1 " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/netherlands/ziggo-sport-nl.png" group-title="Africa Cup ",Ziggo Sport 1 
+https://a1xs.vip/140001
+#EXTINF:-1 tvg-id="Ziggo Sport 2.nl" tvg-name="Ziggo Sport 2 " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/netherlands/ziggo-sport-2-nl.png" group-title="Africa Cup",Ziggo Sport 2 
+https://a1xs.vip/140002
+#EXTINF:-1 tvg-id="Ziggo Sport 2.nl" tvg-name="Ziggo Sport 2 B" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/netherlands/ziggo-sport-2-nl.png" group-title="Africa Cup",Ziggo Sport 2 B
+http://2477fd5f.cbilant.com/iptv/WCSZMUM84X4689VHGC7UDAQQ/2561/index.m3u
+#EXTINF:-1 tvg-id="Ziggo Sport 3.nl" tvg-name="Ziggo Sport 3 " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/netherlands/ziggo-sport-3-nl.png" group-title="Africa Cup",Ziggo Sport 3 
+https://a1xs.vip/140003
+#EXTINF:-1 tvg-id="Ziggo Sport 4.nl" tvg-name="Ziggo Sport 4 " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/netherlands/ziggo-sport-4-nl.png" group-title="Africa Cup",Ziggo Sport 4 
+https://a1xs.vip/140004
+#EXTINF:-1 tvg-id="SPORT TV+ HD.pt" tvg-name="Sport TV+" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/sport-tv-mais-pt.png" group-title="Africa Cup",Sport TV+
+http://2477fd5f.cbilant.com/iptv/WCSZMUM84X4689VHGC7UDAQQ/31590/index.m3u
+#EXTINF:-1 tvg-id="SPORT TV1 HD.pt" tvg-name="Sport TV 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/sport-tv-1-pt.png" group-title="Africa Cup",Sport TV 1
+http://2477fd5f.cbilant.com/iptv/WCSZMUM84X4689VHGC7UDAQQ/2525/index.m3u
+#EXTINF:-1 tvg-id="SPORT TV2 HD.pt" tvg-name="Sport TV 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/sport-tv-2-pt.png" group-title="Africa Cup",Sport TV 2
+http://2477fd5f.cbilant.com/iptv/WCSZMUM84X4689VHGC7UDAQQ/2526/index.m3u
+#EXTINF:-1 tvg-id="SPORT TV3 HD.pt" tvg-name="Sport TV 3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/sport-tv-3-pt.png" group-title="Africa Cup",Sport TV 3
+http://2477fd5f.cbilant.com/iptv/WCSZMUM84X4689VHGC7UDAQQ/2527/index.m3u
+#EXTINF:-1 tvg-id="SPORT TV4 HD.pt" tvg-name="Sport TV 4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/sport-tv-4-pt.png" group-title="Africa Cup",Sport TV 4
+http://2477fd5f.cbilant.com/iptv/WCSZMUM84X4689VHGC7UDAQQ/2528/index.m3u
+#EXTINF:-1 tvg-id="SPORT TV4 HD.pt" tvg-name="Sport TV 4 B" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/sport-tv-4-pt.png" group-title="Africa Cup",Sport TV 4 B
+http://supersonictv.live:8080/006779/439866/7710
+#EXTINF:-1 tvg-id="SPORT TV5 HD.pt" tvg-name="Sport TV 5" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/sport-tv-5-pt.png" group-title="Africa Cup",Sport TV 5
+http://2477fd5f.cbilant.com/iptv/WCSZMUM84X4689VHGC7UDAQQ/2529/index.m3u
+#EXTINF:-1 tvg-id="SPORT TV5 HD.pt" tvg-name="Sport TV 5 B" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/sport-tv-5-pt.png" group-title="Africa Cup",Sport TV 5 B
+http://supersonictv.live:8080/006779/439866/7713
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Alwan Sport 1 FHD" tvg-logo="https://static.nicegram.app/features/telegram_channel_icons/8fbd1510-9e0d-48b9-aba6-884fb8c8a5a5.jpeg" group-title="Alwan Sport",Alwan Sport 1 FHD
 https://py.dencreak.com/alwan_4k1.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Alwan Sport 1 FHD B" tvg-logo="https://static.nicegram.app/features/telegram_channel_icons/8fbd1510-9e0d-48b9-aba6-884fb8c8a5a5.jpeg" group-title="Alwan Sport",Alwan Sport 1 FHD B
@@ -405,16 +430,6 @@ https://a1xs.vip/1100032
 http://mag.redmytv.com/bO3trtivgYaMDwr/l4ptb6R31K/1289436
 #EXTINF:-1 tvg-id="Hub Premier 2.sg" tvg-name="Hub Premier 2 " tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/singapore/hub-premier-2-sg.png?raw=true" group-title="SG: Hub Premier",Hub Premier 2 
 https://a1xs.vip/1100042
-#EXTINF:-1 tvg-id="Ziggo Sport.nl" tvg-name="Ziggo Sport 1 " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/netherlands/ziggo-sport-nl.png" group-title="NL: Ziggo Sport ",Ziggo Sport 1 
-https://a1xs.vip/140001
-#EXTINF:-1 tvg-id="Ziggo Sport 2.nl" tvg-name="Ziggo Sport 2 " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/netherlands/ziggo-sport-2-nl.png" group-title="NL: Ziggo Sport ",Ziggo Sport 2 
-https://a1xs.vip/140002
-#EXTINF:-1 tvg-id="Ziggo Sport 2.nl" tvg-name="Ziggo Sport 2 B" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/netherlands/ziggo-sport-2-nl.png" group-title="NL: Ziggo Sport ",Ziggo Sport 2 B
-http://2477fd5f.cbilant.com/iptv/WCSZMUM84X4689VHGC7UDAQQ/2561/index.m3u
-#EXTINF:-1 tvg-id="Ziggo Sport 3.nl" tvg-name="Ziggo Sport 3 " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/netherlands/ziggo-sport-3-nl.png" group-title="NL: Ziggo Sport ",Ziggo Sport 3 
-https://a1xs.vip/140003
-#EXTINF:-1 tvg-id="Ziggo Sport 4.nl" tvg-name="Ziggo Sport 4 " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/netherlands/ziggo-sport-4-nl.png" group-title="NL: Ziggo Sport ",Ziggo Sport 4 
-https://a1xs.vip/140004
 #EXTINF:-1 tvg-id="Canal+ Sport.fr" tvg-name="Canal+ Sport 1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/france/canal-plus-fr.png?raw=true" group-title="PL: Canal+ Sport",Canal+ Sport 1
 http://151.80.18.177:86/Canal+_sport_HD/index.m3u8
 #EXTINF:-1 tvg-id="Canal+ Sport 360.fr" tvg-name="Canal +Sport360" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/france/canal-plus-fr.png?raw=true" group-title="PL: Canal+ Sport",Canal +Sport360
@@ -437,22 +452,6 @@ http://2477fd5f.cbilant.com/iptv/WCSZMUM84X4689VHGC7UDAQQ/31585/index.m3u
 http://2477fd5f.cbilant.com/iptv/WCSZMUM84X4689VHGC7UDAQQ/31586/index.m3u
 #EXTINF:-1 tvg-id="COSMOTE Sport 9 HD.gr" tvg-name="Cosmote Sport 9" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/greece/cosmote-sport-9-gr.png" group-title="GR: Cosmote Sport ",Cosmote Sport 9
 http://2477fd5f.cbilant.com/iptv/WCSZMUM84X4689VHGC7UDAQQ/31587/index.m3u
-#EXTINF:-1 tvg-id="SPORT TV+ HD.pt" tvg-name="Sport TV+" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/sport-tv-mais-pt.png" group-title="PT: Sport TV ",Sport TV+
-http://2477fd5f.cbilant.com/iptv/WCSZMUM84X4689VHGC7UDAQQ/31590/index.m3u
-#EXTINF:-1 tvg-id="SPORT TV1 HD.pt" tvg-name="Sport TV 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/sport-tv-1-pt.png" group-title="PT: Sport TV ",Sport TV 1
-http://2477fd5f.cbilant.com/iptv/WCSZMUM84X4689VHGC7UDAQQ/2525/index.m3u
-#EXTINF:-1 tvg-id="SPORT TV2 HD.pt" tvg-name="Sport TV 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/sport-tv-2-pt.png" group-title="PT: Sport TV ",Sport TV 2
-http://2477fd5f.cbilant.com/iptv/WCSZMUM84X4689VHGC7UDAQQ/2526/index.m3u
-#EXTINF:-1 tvg-id="SPORT TV3 HD.pt" tvg-name="Sport TV 3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/sport-tv-3-pt.png" group-title="PT: Sport TV ",Sport TV 3
-http://2477fd5f.cbilant.com/iptv/WCSZMUM84X4689VHGC7UDAQQ/2527/index.m3u
-#EXTINF:-1 tvg-id="SPORT TV4 HD.pt" tvg-name="Sport TV 4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/sport-tv-4-pt.png" group-title="PT: Sport TV ",Sport TV 4
-http://2477fd5f.cbilant.com/iptv/WCSZMUM84X4689VHGC7UDAQQ/2528/index.m3u
-#EXTINF:-1 tvg-id="SPORT TV4 HD.pt" tvg-name="Sport TV 4 B" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/sport-tv-4-pt.png" group-title="PT: Sport TV ",Sport TV 4 B
-http://supersonictv.live:8080/006779/439866/7710
-#EXTINF:-1 tvg-id="SPORT TV5 HD.pt" tvg-name="Sport TV 5" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/sport-tv-5-pt.png" group-title="PT: Sport TV ",Sport TV 5
-http://2477fd5f.cbilant.com/iptv/WCSZMUM84X4689VHGC7UDAQQ/2529/index.m3u
-#EXTINF:-1 tvg-id="SPORT TV5 HD.pt" tvg-name="Sport TV 5 B" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/sport-tv-5-pt.png" group-title="PT: Sport TV ",Sport TV 5 B
-http://supersonictv.live:8080/006779/439866/7713
 #EXTINF:-1 tvg-id="Polsat Sport Premium 1.pl" tvg-name="Polsat Sport Premium 1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/poland/polsat-sport-premium-1-pl.png?raw=true" group-title="PL: Polsat Sport ",Polsat Sport Premium 1
 http://2477fd5f.cbilant.com/iptv/WCSZMUM84X4689VHGC7UDAQQ/7296/index.m3u
 #EXTINF:-1 tvg-id="Polsat Sport Premium 1.pl" tvg-name="Polsat Sport Premium 1 B" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/poland/polsat-sport-premium-1-pl.png?raw=true" group-title="PL: Polsat Sport ",Polsat Sport Premium 1 B
@@ -579,5 +578,6 @@ https://a1xs.vip/400051
 https://a1xs.vip/40000033
 #EXTINF:-1 tvg-id="Space Toon.sa" tvg-name="Spacetoon" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Spacetoon_logo.png" group-title="Family",Spacetoon
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-spacetoon/d8382fb9ab4b2307058f12c7ea90db54/index.m3u8
+
 
 
