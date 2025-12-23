@@ -13,7 +13,6 @@ http://e9f411eb.ottolok.net/iptv/YDFRWUQHUKMN2V/6123/index.m3u8
 http://d7441a93.akadatel.com/iptv/NSEXWXAF56T6M4HP8WGLWQWK/6123/index.m3u8
 #EXTINF:-1 tvg-id="beIN SPORTS 1.qa" tvg-name="beIN SPORTS 1 FHD G" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-1-hz-mea.png" group-title="QA: beIN SPORTS ",beIN SPORTS 1 FHD G
 http://4kgood.org/live/8344281117826792/7mv6wkb8m8gwimx4frkr/1269943.m3u8
-#EXTINF:-1 tvg-id="beIN SPORTS 1.qa" tvg-name="beIN SPORTS 1 FHD H" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-1-hz-mea.png" group-title="QA: beIN SPORTS ",beIN SPORTS 1 FHD H
 #EXTINF:-1 tvg-id="beIN SPORTS 1.qa" tvg-name="beIN SPORTS 1 HD A" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-1-hz-mea.png" group-title="QA: beIN SPORTS ",beIN SPORTS 1 HD A
 https://py.dencreak.com/bn_s_hd1.m3u8
 #EXTINF:-1 tvg-id="beIN SPORTS 1.qa" tvg-name="beIN SPORTS 1 HD B" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-1-hz-mea.png" group-title="QA: beIN SPORTS ",beIN SPORTS 1 HD B
@@ -202,6 +201,10 @@ http://supersonictv.live:8080/006779/439866/7710
 http://2477fd5f.cbilant.com/iptv/WCSZMUM84X4689VHGC7UDAQQ/2529/index.m3u
 #EXTINF:-1 tvg-id="SPORT TV5 HD.pt" tvg-name="Sport TV 5 B" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/sport-tv-5-pt.png" group-title="Africa Cup",Sport TV 5 B
 http://supersonictv.live:8080/006779/439866/7713
+#EXTINF:-1 tvg-id="SPORTDIGITAL FUSSBALL.de" tvg-name="Sportdigital Fussball (Germany)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Sportdigital_Fu%C3%9Fball_Logo_2019.svg/2560px-Sportdigital_Fu%C3%9Fball_Logo_2019.svg.png" group-title="Africa Cup",Sportdigital Fussball (Germany)
+http://2477fd5f.cbilant.com/iptv/WCSZMUM84X4689VHGC7UDAQQ/31413/index.m3u
+#EXTINF:-1 tvg-id="Sportitalia.it" tvg-name="Sportitalia" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/hd/sportitalia-hd-it.png" group-title="Africa Cup",Sportitalia
+http://2477fd5f.cbilant.com/iptv/WCSZMUM84X4689VHGC7UDAQQ/19108/index.m3u
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Alwan Sport 1 FHD" tvg-logo="https://static.nicegram.app/features/telegram_channel_icons/8fbd1510-9e0d-48b9-aba6-884fb8c8a5a5.jpeg" group-title="Alwan Sport",Alwan Sport 1 FHD
 https://py.dencreak.com/alwan_4k1.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Alwan Sport 1 FHD B" tvg-logo="https://static.nicegram.app/features/telegram_channel_icons/8fbd1510-9e0d-48b9-aba6-884fb8c8a5a5.jpeg" group-title="Alwan Sport",Alwan Sport 1 FHD B
@@ -518,10 +521,6 @@ http://2477fd5f.cbilant.com/iptv/WCSZMUM84X4689VHGC7UDAQQ/31608/index.m3u
 http://2477fd5f.cbilant.com/iptv/WCSZMUM84X4689VHGC7UDAQQ/31609/index.m3u
 #EXTINF:-1 tvg-id="Arena Sport 9 HD.hr" tvg-name="Arena Sport 9" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/croatia/arena-sport-9-hr.png?raw=true" group-title="SK: Arena Sport",Arena Sport 9
 http://2477fd5f.cbilant.com/iptv/WCSZMUM84X4689VHGC7UDAQQ/31610/index.m3u
-#EXTINF:-1 tvg-id="SPORTDIGITAL FUSSBALL.de" tvg-name="Sportdigital Fussball (Germany)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Sportdigital_Fu%C3%9Fball_Logo_2019.svg/2560px-Sportdigital_Fu%C3%9Fball_Logo_2019.svg.png" group-title="SA: RSL",Sportdigital Fussball (Germany)
-http://2477fd5f.cbilant.com/iptv/WCSZMUM84X4689VHGC7UDAQQ/31413/index.m3u
-#EXTINF:-1 tvg-id="Sportitalia.it" tvg-name="Sportitalia" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/hd/sportitalia-hd-it.png" group-title="SA: RSL",Sportitalia
-http://2477fd5f.cbilant.com/iptv/WCSZMUM84X4689VHGC7UDAQQ/19108/index.m3u
 #EXTINF:-1 tvg-id="BandSports.br" tvg-name="Band Sport (Brazil)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/band-sports-br.png" group-title="SA: RSL",Band Sport (Brazil)
 http://2477fd5f.cbilant.com/iptv/WCSZMUM84X4689VHGC7UDAQQ/6157/index.m3u
 #EXTINF:-1 tvg-id="TVP Sport HD.pl" tvg-name="TVP Sport " tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/poland/tvp-sport-pl.png?raw=true" group-title="Others",TVP Sport 
@@ -578,6 +577,7 @@ https://a1xs.vip/400051
 https://a1xs.vip/40000033
 #EXTINF:-1 tvg-id="Space Toon.sa" tvg-name="Spacetoon" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Spacetoon_logo.png" group-title="Family",Spacetoon
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-spacetoon/d8382fb9ab4b2307058f12c7ea90db54/index.m3u8
+
 
 
 
