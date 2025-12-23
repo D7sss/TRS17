@@ -171,10 +171,14 @@ https://airmaxx.boats/live/airmaxtv/95147896/2522.m3u8
 https://www.youtube.com/watch?v=AiQasdSrZVo
 #EXTINF:-1 tvg-id="beIN SPORTS NEWS.qa" tvg-name="beIN SPORTS News HD " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTq1hIBJFckwFH_IyH-04w34hl7SI96xjKiLQ&s" group-title="QA: beIN SPORTS ",beIN SPORTS News HD 
 https://airmaxx.boats/live/airmaxtv/95147896/2521.m3u8
+EXTINF:-1 tvg-id="beIN SPORTS MAX 1.qa" tvg-name="beIN SPORTS Max 1 FHD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/international/beinsports/old/horizontal/bein-sports-1-max-hz-int.png?raw=true" group-title="Africa Cup",beIN SPORTS Max 1 FHD
+http://thksmom.shop/IN_AC1/tracks-v1a1/mono.m3u8?token=8543cd010d7bfaaa82563395e8f9af57
 #EXTINF:-1 tvg-id="beIN SPORTS MAX 1.qa" tvg-name="beIN SPORTS Max 1 HD A" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/international/beinsports/old/horizontal/bein-sports-1-max-hz-int.png?raw=true" group-title="Africa Cup",beIN SPORTS Max 1 HD A
 http://vibertv.online:8080/live/ANDVIBERTV/ANDVIBERTV60/298.m3u8
 #EXTINF:-1 tvg-id="beIN SPORTS MAX 1.qa" tvg-name="beIN SPORTS Max 1 HD B" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/international/beinsports/old/horizontal/bein-sports-1-max-hz-int.png?raw=true" group-title="Africa Cup",beIN SPORTS Max 1 HD B
 https://prod-fastly-us-west-2.video.pscp.tv/Transcoding/v1/hls/KhJz3UZYB0Yv7EIIjXD3D48G4VQO77fVluskrBgbkC3AU1IJZSn9wX9wlxaS3M8Q_PlT_BMJDR0v6B5BQAqqGg/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live
+EXTINF:-1 tvg-id="beIN SPORTS MAX 2.qa" tvg-name="beIN SPORTS Max 2 FHD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/international/beinsports/old/horizontal/bein-sports-2-max-hz-int.png?raw=true" group-title="Africa Cup",beIN SPORTS Max 2 FHD
+http://thksmom.shop/IN_AC2/tracks-v1a1/mono.m3u8?token=9b95cff1e40014ac04d8eff27f09e7ed
 #EXTINF:-1 tvg-id="Ziggo Sport.nl" tvg-name="Ziggo Sport 1 " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/netherlands/ziggo-sport-nl.png" group-title="Africa Cup ",Ziggo Sport 1 
 https://a1xs.vip/140001
 #EXTINF:-1 tvg-id="Ziggo Sport 2.nl" tvg-name="Ziggo Sport 2 " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/netherlands/ziggo-sport-2-nl.png" group-title="Africa Cup",Ziggo Sport 2 
@@ -577,6 +581,7 @@ https://a1xs.vip/400051
 https://a1xs.vip/40000033
 #EXTINF:-1 tvg-id="Space Toon.sa" tvg-name="Spacetoon" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Spacetoon_logo.png" group-title="Family",Spacetoon
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-spacetoon/d8382fb9ab4b2307058f12c7ea90db54/index.m3u8
+
 
 
 
