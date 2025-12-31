@@ -1,1 +1,3 @@
-
+#EXTM3U
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Thamanya 1 Match" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Thmanyah_Logo.svg/2048px-Thmanyah_Logo.svg.png" group-title="SA: Thamanya (Match)",Thamanya 1 Match
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
