@@ -77,102 +77,52 @@ https://a1xs.vip/140004
 http://2477fd5f.cbilant.com/iptv/WCSZMUM84X4689VHGC7UDAQQ/31590/index.m3u
 #EXTINF:-1 tvg-id="SPORTDIGITAL FUSSBALL.de" tvg-name="Sportdigital Fussball (Germany)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Sportdigital_Fu%C3%9Fball_Logo_2019.svg/2560px-Sportdigital_Fu%C3%9Fball_Logo_2019.svg.png" group-title="Africa Cup",Sportdigital Fussball (Germany)
 http://2477fd5f.cbilant.com/iptv/WCSZMUM84X4689VHGC7UDAQQ/31413/index.m3u
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Alwan Sport 1 FHD" tvg-logo="https://static.nicegram.app/features/telegram_channel_icons/8fbd1510-9e0d-48b9-aba6-884fb8c8a5a5.jpeg" group-title="Alwan Sport",Alwan Sport 1 FHD
-https://py.dencreak.com/alwan_4k1.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Alwan Sport 1 FHD B" tvg-logo="https://static.nicegram.app/features/telegram_channel_icons/8fbd1510-9e0d-48b9-aba6-884fb8c8a5a5.jpeg" group-title="Alwan Sport",Alwan Sport 1 FHD B
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Alwan Sport 1 FHD A" tvg-logo="https://static.nicegram.app/features/telegram_channel_icons/8fbd1510-9e0d-48b9-aba6-884fb8c8a5a5.jpeg" group-title="Alwan Sport",Alwan Sport 1 FHD A
 http://199.115.193.116/live/90040798278941/90040798278941/409794.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Alwan Sport 1 FHD C" tvg-logo="https://static.nicegram.app/features/telegram_channel_icons/8fbd1510-9e0d-48b9-aba6-884fb8c8a5a5.jpeg" group-title="Alwan Sport",Alwan Sport 1 FHD C
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Alwan Sport 1 FHD B" tvg-logo="https://static.nicegram.app/features/telegram_channel_icons/8fbd1510-9e0d-48b9-aba6-884fb8c8a5a5.jpeg" group-title="Alwan Sport",Alwan Sport 1 FHD B
 http://199.115.193.116/live/90040798278941/90040798278941/409795.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Alwan Sport 1 FHD D" tvg-logo="https://static.nicegram.app/features/telegram_channel_icons/8fbd1510-9e0d-48b9-aba6-884fb8c8a5a5.jpeg" group-title="Alwan Sport",Alwan Sport 1 FHD D
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Alwan Sport 1 FHD C" tvg-logo="https://static.nicegram.app/features/telegram_channel_icons/8fbd1510-9e0d-48b9-aba6-884fb8c8a5a5.jpeg" group-title="Alwan Sport",Alwan Sport 1 FHD C
 http://199.115.193.116/live/90040798278941/90040798278941/409796.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Alwan Sport 1 HD" tvg-logo="https://static.nicegram.app/features/telegram_channel_icons/8fbd1510-9e0d-48b9-aba6-884fb8c8a5a5.jpeg" group-title="Alwan Sport",Alwan Sport 1 HD
-https://py.dencreak.com/alwan_hd1.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Alwan Sport 1 SD" tvg-logo="https://static.nicegram.app/features/telegram_channel_icons/8fbd1510-9e0d-48b9-aba6-884fb8c8a5a5.jpeg" group-title="Alwan Sport",Alwan Sport 1 SD
-https://py.dencreak.com/alwan_sd1.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Alwan Sport 2 FHD" tvg-logo="https://static.nicegram.app/features/telegram_channel_icons/8fbd1510-9e0d-48b9-aba6-884fb8c8a5a5.jpeg" group-title="Alwan Sport",Alwan Sport 2 FHD
-https://py.dencreak.com/alwan_4k2.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Alwan Sport 2 FHD B" tvg-logo="https://static.nicegram.app/features/telegram_channel_icons/8fbd1510-9e0d-48b9-aba6-884fb8c8a5a5.jpeg" group-title="Alwan Sport",Alwan Sport 2 FHD B
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Alwan Sport 2 FHD A" tvg-logo="https://static.nicegram.app/features/telegram_channel_icons/8fbd1510-9e0d-48b9-aba6-884fb8c8a5a5.jpeg" group-title="Alwan Sport",Alwan Sport 2 FHD A
 http://199.115.193.116/live/90040798278941/90040798278941/409797.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Alwan Sport 2 FHD C" tvg-logo="https://static.nicegram.app/features/telegram_channel_icons/8fbd1510-9e0d-48b9-aba6-884fb8c8a5a5.jpeg" group-title="Alwan Sport",Alwan Sport 2 FHD C
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Alwan Sport 2 FHD B" tvg-logo="https://static.nicegram.app/features/telegram_channel_icons/8fbd1510-9e0d-48b9-aba6-884fb8c8a5a5.jpeg" group-title="Alwan Sport",Alwan Sport 2 FHD B
 http://199.115.193.116/live/90040798278941/90040798278941/409798.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Alwan Sport 2 FHD D" tvg-logo="https://static.nicegram.app/features/telegram_channel_icons/8fbd1510-9e0d-48b9-aba6-884fb8c8a5a5.jpeg" group-title="Alwan Sport",Alwan Sport 2 FHD D
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Alwan Sport 2 FHD C" tvg-logo="https://static.nicegram.app/features/telegram_channel_icons/8fbd1510-9e0d-48b9-aba6-884fb8c8a5a5.jpeg" group-title="Alwan Sport",Alwan Sport 2 FHD C
 http://199.115.193.116/live/90040798278941/90040798278941/409799.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Alwan Sport 2 HD" tvg-logo="https://static.nicegram.app/features/telegram_channel_icons/8fbd1510-9e0d-48b9-aba6-884fb8c8a5a5.jpeg" group-title="Alwan Sport",Alwan Sport 2 HD
-https://py.dencreak.com/alwan_hd2.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Alwan Sport 2 SD" tvg-logo="https://static.nicegram.app/features/telegram_channel_icons/8fbd1510-9e0d-48b9-aba6-884fb8c8a5a5.jpeg" group-title="Alwan Sport",Alwan Sport 2 SD
-https://py.dencreak.com/alwan_sd2.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Alwan Sport 3 FHD" tvg-logo="https://static.nicegram.app/features/telegram_channel_icons/8fbd1510-9e0d-48b9-aba6-884fb8c8a5a5.jpeg" group-title="Alwan Sport",Alwan Sport 3 FHD
-https://py.dencreak.com/alwan_4k3.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Alwan Sport 3 FHD B" tvg-logo="https://static.nicegram.app/features/telegram_channel_icons/8fbd1510-9e0d-48b9-aba6-884fb8c8a5a5.jpeg" group-title="Alwan Sport",Alwan Sport 3 FHD B
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Alwan Sport 3 FHD A" tvg-logo="https://static.nicegram.app/features/telegram_channel_icons/8fbd1510-9e0d-48b9-aba6-884fb8c8a5a5.jpeg" group-title="Alwan Sport",Alwan Sport 3 FHD A
 http://199.115.193.116/live/90040798278941/90040798278941/409800.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Alwan Sport 3 FHD C" tvg-logo="https://static.nicegram.app/features/telegram_channel_icons/8fbd1510-9e0d-48b9-aba6-884fb8c8a5a5.jpeg" group-title="Alwan Sport",Alwan Sport 3 FHD C
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Alwan Sport 3 FHD B" tvg-logo="https://static.nicegram.app/features/telegram_channel_icons/8fbd1510-9e0d-48b9-aba6-884fb8c8a5a5.jpeg" group-title="Alwan Sport",Alwan Sport 3 FHD B
 http://199.115.193.116/live/90040798278941/90040798278941/409801.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Alwan Sport 3 FHD D" tvg-logo="https://static.nicegram.app/features/telegram_channel_icons/8fbd1510-9e0d-48b9-aba6-884fb8c8a5a5.jpeg" group-title="Alwan Sport",Alwan Sport 3 FHD D
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Alwan Sport 3 FHD C" tvg-logo="https://static.nicegram.app/features/telegram_channel_icons/8fbd1510-9e0d-48b9-aba6-884fb8c8a5a5.jpeg" group-title="Alwan Sport",Alwan Sport 3 FHD C
 http://199.115.193.116/live/90040798278941/90040798278941/409802.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Alwan Sport 3 HD" tvg-logo="https://static.nicegram.app/features/telegram_channel_icons/8fbd1510-9e0d-48b9-aba6-884fb8c8a5a5.jpeg" group-title="Alwan Sport",Alwan Sport 3 HD
-https://py.dencreak.com/alwan_hd3.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Alwan Sport 3 SD" tvg-logo="https://static.nicegram.app/features/telegram_channel_icons/8fbd1510-9e0d-48b9-aba6-884fb8c8a5a5.jpeg" group-title="Alwan Sport",Alwan Sport 3 SD
-https://py.dencreak.com/alwan_sd3.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Alwan Sport 4 FHD" tvg-logo="https://static.nicegram.app/features/telegram_channel_icons/8fbd1510-9e0d-48b9-aba6-884fb8c8a5a5.jpeg" group-title="Alwan Sport",Alwan Sport 4 FHD
-https://py.dencreak.com/alwan_4k4.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Alwan Sport 4 FHD B" tvg-logo="https://static.nicegram.app/features/telegram_channel_icons/8fbd1510-9e0d-48b9-aba6-884fb8c8a5a5.jpeg" group-title="Alwan Sport",Alwan Sport 4 FHD B
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Alwan Sport 4 FHD A" tvg-logo="https://static.nicegram.app/features/telegram_channel_icons/8fbd1510-9e0d-48b9-aba6-884fb8c8a5a5.jpeg" group-title="Alwan Sport",Alwan Sport 4 FHD A
 http://199.115.193.116/live/90040798278941/90040798278941/409803.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Alwan Sport 4 FHD C" tvg-logo="https://static.nicegram.app/features/telegram_channel_icons/8fbd1510-9e0d-48b9-aba6-884fb8c8a5a5.jpeg" group-title="Alwan Sport",Alwan Sport 4 FHD C
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Alwan Sport 4 FHD B" tvg-logo="https://static.nicegram.app/features/telegram_channel_icons/8fbd1510-9e0d-48b9-aba6-884fb8c8a5a5.jpeg" group-title="Alwan Sport",Alwan Sport 4 FHD B
 http://199.115.193.116/live/90040798278941/90040798278941/409804.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Alwan Sport 4 FHD D" tvg-logo="https://static.nicegram.app/features/telegram_channel_icons/8fbd1510-9e0d-48b9-aba6-884fb8c8a5a5.jpeg" group-title="Alwan Sport",Alwan Sport 4 FHD D
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Alwan Sport 4 FHD C" tvg-logo="https://static.nicegram.app/features/telegram_channel_icons/8fbd1510-9e0d-48b9-aba6-884fb8c8a5a5.jpeg" group-title="Alwan Sport",Alwan Sport 4 FHD C
 http://199.115.193.116/live/90040798278941/90040798278941/409805.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Alwan Sport 4 HD" tvg-logo="https://static.nicegram.app/features/telegram_channel_icons/8fbd1510-9e0d-48b9-aba6-884fb8c8a5a5.jpeg" group-title="Alwan Sport",Alwan Sport 4 HD
-https://py.dencreak.com/alwan_hd4.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Alwan Sport 4 SD" tvg-logo="https://static.nicegram.app/features/telegram_channel_icons/8fbd1510-9e0d-48b9-aba6-884fb8c8a5a5.jpeg" group-title="Alwan Sport",Alwan Sport 4 SD
-https://py.dencreak.com/alwan_sd4.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Alwan Sport 5 FHD" tvg-logo="https://static.nicegram.app/features/telegram_channel_icons/8fbd1510-9e0d-48b9-aba6-884fb8c8a5a5.jpeg" group-title="Alwan Sport",Alwan Sport 5 FHD
-https://py.dencreak.com/alwan_4k5.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Alwan Sport 5 FHD B" tvg-logo="https://static.nicegram.app/features/telegram_channel_icons/8fbd1510-9e0d-48b9-aba6-884fb8c8a5a5.jpeg" group-title="Alwan Sport",Alwan Sport 5 FHD B
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Alwan Sport 5 FHD A" tvg-logo="https://static.nicegram.app/features/telegram_channel_icons/8fbd1510-9e0d-48b9-aba6-884fb8c8a5a5.jpeg" group-title="Alwan Sport",Alwan Sport 5 FHD A
 http://199.115.193.116/live/90040798278941/90040798278941/409806.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Alwan Sport 5 FHD C" tvg-logo="https://static.nicegram.app/features/telegram_channel_icons/8fbd1510-9e0d-48b9-aba6-884fb8c8a5a5.jpeg" group-title="Alwan Sport",Alwan Sport 5 FHD C
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Alwan Sport 5 FHD B" tvg-logo="https://static.nicegram.app/features/telegram_channel_icons/8fbd1510-9e0d-48b9-aba6-884fb8c8a5a5.jpeg" group-title="Alwan Sport",Alwan Sport 5 FHD B
 http://199.115.193.116/live/90040798278941/90040798278941/409807.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Alwan Sport 5 FHD D" tvg-logo="https://static.nicegram.app/features/telegram_channel_icons/8fbd1510-9e0d-48b9-aba6-884fb8c8a5a5.jpeg" group-title="Alwan Sport",Alwan Sport 5 FHD D
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Alwan Sport 5 FHD C" tvg-logo="https://static.nicegram.app/features/telegram_channel_icons/8fbd1510-9e0d-48b9-aba6-884fb8c8a5a5.jpeg" group-title="Alwan Sport",Alwan Sport 5 FHD C
 http://199.115.193.116/live/90040798278941/90040798278941/409808.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Alwan Sport 5 HD" tvg-logo="https://static.nicegram.app/features/telegram_channel_icons/8fbd1510-9e0d-48b9-aba6-884fb8c8a5a5.jpeg" group-title="Alwan Sport",Alwan Sport 5 HD
-https://py.dencreak.com/alwan_hd5.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Alwan Sport 5 SD" tvg-logo="https://static.nicegram.app/features/telegram_channel_icons/8fbd1510-9e0d-48b9-aba6-884fb8c8a5a5.jpeg" group-title="Alwan Sport",Alwan Sport 5 SD
-https://py.dencreak.com/alwan_sd5.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Alwan Sport 6 FHD" tvg-logo="https://static.nicegram.app/features/telegram_channel_icons/8fbd1510-9e0d-48b9-aba6-884fb8c8a5a5.jpeg" group-title="Alwan Sport",Alwan Sport 6 FHD
-https://py.dencreak.com/alwan_4k6.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Alwan Sport 6 FHD B" tvg-logo="https://static.nicegram.app/features/telegram_channel_icons/8fbd1510-9e0d-48b9-aba6-884fb8c8a5a5.jpeg" group-title="Alwan Sport",Alwan Sport 6 FHD B
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Alwan Sport 6 FHD A" tvg-logo="https://static.nicegram.app/features/telegram_channel_icons/8fbd1510-9e0d-48b9-aba6-884fb8c8a5a5.jpeg" group-title="Alwan Sport",Alwan Sport 6 FHD A
 http://199.115.193.116/live/90040798278941/90040798278941/409809.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Alwan Sport 6 FHD C" tvg-logo="https://static.nicegram.app/features/telegram_channel_icons/8fbd1510-9e0d-48b9-aba6-884fb8c8a5a5.jpeg" group-title="Alwan Sport",Alwan Sport 6 FHD C
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Alwan Sport 6 FHD B" tvg-logo="https://static.nicegram.app/features/telegram_channel_icons/8fbd1510-9e0d-48b9-aba6-884fb8c8a5a5.jpeg" group-title="Alwan Sport",Alwan Sport 6 FHD B
 http://199.115.193.116/live/90040798278941/90040798278941/409810.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Alwan Sport 6 HD" tvg-logo="https://static.nicegram.app/features/telegram_channel_icons/8fbd1510-9e0d-48b9-aba6-884fb8c8a5a5.jpeg" group-title="Alwan Sport",Alwan Sport 6 HD
-https://py.dencreak.com/alwan_hd6.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Alwan Sport 6 SD" tvg-logo="https://static.nicegram.app/features/telegram_channel_icons/8fbd1510-9e0d-48b9-aba6-884fb8c8a5a5.jpeg" group-title="Alwan Sport",Alwan Sport 6 SD
-https://py.dencreak.com/alwan_sd6.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Alwan Sport 7 FHD" tvg-logo="https://static.nicegram.app/features/telegram_channel_icons/8fbd1510-9e0d-48b9-aba6-884fb8c8a5a5.jpeg" group-title="Alwan Sport",Alwan Sport 7 FHD
-https://py.dencreak.com/alwan_sd7.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Alwan Sport 8 FHD" tvg-logo="https://static.nicegram.app/features/telegram_channel_icons/8fbd1510-9e0d-48b9-aba6-884fb8c8a5a5.jpeg" group-title="Alwan Sport",Alwan Sport 8 FHD
-https://py.dencreak.com/alwan_sd8.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Alwan Sport 9 FHD" tvg-logo="https://static.nicegram.app/features/telegram_channel_icons/8fbd1510-9e0d-48b9-aba6-884fb8c8a5a5.jpeg" group-title="Alwan Sport",Alwan Sport 9 FHD
-https://py.dencreak.com/alwan_sd9.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Alwan Sport 10 FHD" tvg-logo="https://static.nicegram.app/features/telegram_channel_icons/8fbd1510-9e0d-48b9-aba6-884fb8c8a5a5.jpeg" group-title="Alwan Sport",Alwan Sport 10 FHD
-https://py.dencreak.com/alwan_sd10.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Thamanya 1 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Thmanyah_Logo.svg/2048px-Thmanyah_Logo.svg.png" group-title="SA: Thamanya ",Thamanya 1 
 http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:CB:46:ED&stream=1549874&extension=ts&play_token=cRbYcECF02
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Thamanya 1 B" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Thmanyah_Logo.svg/2048px-Thmanyah_Logo.svg.png" group-title="SA: Thamanya ",Thamanya 1 B
-https://airmaxx.boats/live/airmaxtv/4562588/2533.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Thamanya 2 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Thmanyah_Logo.svg/2048px-Thmanyah_Logo.svg.png" group-title="SA: Thamanya ",Thamanya 2 
 http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:CB:46:ED&stream=1549875&extension=ts&play_token=NNU1ppbsDh
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Thamanya 2 B" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Thmanyah_Logo.svg/2048px-Thmanyah_Logo.svg.png" group-title="SA: Thamanya ",Thamanya 2 B
-https://airmaxx.boats/live/airmaxtv/4562588/2534.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Thamanya 3 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Thmanyah_Logo.svg/2048px-Thmanyah_Logo.svg.png" group-title="SA: Thamanya ",Thamanya 3 
 http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:CB:46:ED&stream=1597571&extension=ts&play_token=NIgPwoaa7Y
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Thamanya 3 B" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Thmanyah_Logo.svg/2048px-Thmanyah_Logo.svg.png" group-title="SA: Thamanya ",Thamanya 3 B
-https://airmaxx.boats/live/airmaxtv/4562588/2535.m3u8
 #EXTINF:-1 tvg-id="Alkass One.qa" tvg-name="Alkass 1" tvg-logo="https://www.qatar.qa/media/2021/10/alkass_logo_ar.png" group-title="SA: Arabic Sports",Alkass 1
 https://liveeu-gcp.alkassdigital.net/alkass1-bu/20251218T024018Z/mux_video_1080p_ts/index-1.m3u8
 #EXTINF:-1 tvg-id="Alkass Two.qa" tvg-name="Alkass 2" tvg-logo="https://www.qatar.qa/media/2021/10/alkass_logo_ar.png" group-title="SA: Arabic Sports",Alkass 2
-https://liveeu-gcp.alkassdigital.net/alkass2-p/20251214T180127Z/mux_video_1080p_ts/index-1.m3u8
+https://liveeu-gcp.alkassdigital.net/alkass2-p/20260102T032831Z/mux_video_1080p_ts/index-1.m3u8
 #EXTINF:-1 tvg-id="Alkass Three.qa" tvg-name="Alkass 3" tvg-logo="https://www.qatar.qa/media/2021/10/alkass_logo_ar.png" group-title="SA: Arabic Sports",Alkass 3
-https://liveeu-gcp.alkassdigital.net/alkass3-p/20251214T011949Z/mux_video_1080p_ts/index-1.m3u8
+https://liveeu-gcp.alkassdigital.net/alkass3-p/20260102T033003Z/mux_video_1080p_ts/index-1.m3u8
 #EXTINF:-1 tvg-id="Alkass Four.qa" tvg-name="Alkass 4" tvg-logo="https://www.qatar.qa/media/2021/10/alkass_logo_ar.png" group-title="SA: Arabic Sports",Alkass 4
 https://liveeu-gcp.alkassdigital.net/alkass4-p/20251213T060324Z/mux_video_1080p_ts/index-1.m3u8
 #EXTINF:-1 tvg-id="Abu Dhabi Sports 1 HD.sa" tvg-name="Abu Dhabi Sports 1" tvg-logo="https://adsc.ae/media/3bslw2cd/abu-dhabi-sports-channel.png" group-title="SA: Arabic Sports",Abu Dhabi Sports 1
@@ -191,10 +141,6 @@ https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
 https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist_b3500000_t64MTA4MHA=.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kuwait Sports 2" tvg-logo="https://i.imgur.com/l4oX0gf.png" group-title="SA: Arabic Sports",Kuwait Sports 2
 https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist_b8000000_t64MTA4MHA=.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Shasha" tvg-logo="https://www.shasha.com/logo-57x57.png" group-title="SA: Arabic Sports",Shasha
-https://213368-castr.akamaized.net/65bdf582e043b56b0868a081/live_0586efe0c2e611eeb02035c643a92b1e/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Shasha 2" tvg-logo="https://www.shasha.com/logo-57x57.png" group-title="SA: Arabic Sports",Shasha 2
-https://213368-castr.akamaized.net/65bdf582e043b56b0868a081/live_1dc7d580558d11efa2eeebd0ba5ae7e5/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="MBC Action HD.sa" tvg-name="MBC Action" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-arab-emirates/mbc-action-ae.png" group-title="SA: Arabic Sports",MBC Action
 http://2477fd5f.cbilant.com/iptv/WCSZMUM84X4689VHGC7UDAQQ/15197/index.m3u
 #EXTINF:-1 tvg-id="MBC Action HD.sa" tvg-name="MBC Action B" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-arab-emirates/mbc-action-ae.png" group-title="SA: Arabic Sports",MBC Action B
@@ -203,13 +149,9 @@ http://185.9.2.18/chid_378/mono.m3u8
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-2/754931856515075b0aabf0e583495c68/index.m3u8
 #EXTINF:-1 tvg-id="TNT Sports UHD 4K.uk" tvg-name="TNT Sport Ultimate 4K " tvg-logo="https://media.info/l/o/5/5824.1689874022.png" group-title="UK: TNT Sport ",TNT Sport Ultimate 4K 
 https://a1xs.vip/2000031
-#EXTINF:-1 tvg-id="TNT Sports UHD 4K.uk" tvg-name="TNT Sport Ultimate 4K B" tvg-logo="https://media.info/l/o/5/5824.1689874022.png" group-title="UK: TNT Sport ",TNT Sport Ultimate 4K B
-https://hilay.tv/l/tntultimateuhd
 #EXTINF:-1 tvg-id="TNT Sports 1 HD.uk" tvg-name="TNT Sport 1 " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tnt-sports-1-uk.png" group-title="UK: TNT Sport ",TNT Sport 1 
 https://a1xs.vip/2000021
 #EXTINF:-1 tvg-id="TNT Sports 1 HD.uk" tvg-name="TNT Sport 1 B" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tnt-sports-1-uk.png" group-title="UK: TNT Sport ",TNT Sport 1 B
-http://2477fd5f.cbilant.com/iptv/WCSZMUM84X4689VHGC7UDAQQ/2505/index.m3u
-#EXTINF:-1 tvg-id="TNT Sports 1 HD.uk" tvg-name="TNT Sport 1 B2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tnt-sports-1-uk.png" group-title="UK: TNT Sport ",TNT Sport 1 B2
 http://2477fd5f.cbilant.com/iptv/WCSZMUM84X4689VHGC7UDAQQ/6566/index.m3u
 #EXTINF:-1 tvg-id="TNT Sports 2 HD.uk" tvg-name="TNT Sport 2 " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tnt-sports-2-uk.png" group-title="UK: TNT Sport ",TNT Sport 2 
 https://a1xs.vip/2000022
@@ -266,8 +208,6 @@ http://fortv.cc:8080/3017851038/JACKWES2001@GMAIL.COM/76842
 #EXTINF:-1 tvg-id="Sky Sport Action.it" tvg-name="Sky Sports Action & NFL " tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-action-uk.png?raw=true" group-title="UK: Sky Sport",Sky Sports Action & NFL 
 https://a1xs.vip/2000011
 #EXTINF:-1 tvg-id="Sky Sport Action.it" tvg-name="Sky Sports Action & NFL B" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-action-uk.png?raw=true" group-title="UK: Sky Sport",Sky Sports Action & NFL B
-https://7pal.short.gy/ssportsat
-#EXTINF:-1 tvg-id="Sky Sport Action.it" tvg-name="Sky Sports Action & NFL B2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-action-uk.png?raw=true" group-title="UK: Sky Sport",Sky Sports Action & NFL B2
 http://2477fd5f.cbilant.com/iptv/WCSZMUM84X4689VHGC7UDAQQ/9155/index.m3u
 #EXTINF:-1 tvg-id="Sky Sports Tennis HD.uk" tvg-name="Sky Sports Tennis " tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-tennis-uk.png?raw=true" group-title="UK: Sky Sport",Sky Sports Tennis 
 https://a1xs.vip/2000013
@@ -369,18 +309,6 @@ http://2477fd5f.cbilant.com/iptv/WCSZMUM84X4689VHGC7UDAQQ/5068/index.m3u
 http://2477fd5f.cbilant.com/iptv/WCSZMUM84X4689VHGC7UDAQQ/16026/index.m3u
 #EXTINF:-1 tvg-id="Setanta Sports 2.ge" tvg-name=" Setanta Sports 2 " tvg-logo="https://setantasports.com/wp-content/uploads/2025/03/logoyosat.png" group-title="GE: Setanta Sports", Setanta Sports 2 
 http://2477fd5f.cbilant.com/iptv/WCSZMUM84X4689VHGC7UDAQQ/16025/index.m3u
-#EXTINF:-1 tvg-id="DAZN 1.pt" tvg-name="DAZN 1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/belgium/dazn-1-be.png?raw=true" group-title="PT: Dazn ",DAZN 1
-http://supersonictv.live:8080/006779/439866/7626
-#EXTINF:-1 tvg-id="DAZN 2.pt" tvg-name="DAZN 2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/belgium/dazn-2-be.png?raw=true" group-title="PT: Dazn ",DAZN 2
-http://supersonictv.live:8080/006779/439866/7628
-#EXTINF:-1 tvg-id="DAZN 3.pt" tvg-name="DAZN 3" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/belgium/dazn-3-be.png?raw=true" group-title="PT: Dazn ",DAZN 3
-http://supersonictv.live:8080/006779/439866/7630
-#EXTINF:-1 tvg-id="DAZN 4.pt" tvg-name="DAZN 4" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/belgium/dazn-4-be.png?raw=true" group-title="PT: Dazn ",DAZN 4
-http://supersonictv.live:8080/006779/439866/7632
-#EXTINF:-1 tvg-id="DAZN 5.pt" tvg-name="DAZN 5" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/belgium/dazn-5-be.png?raw=true" group-title="PT: Dazn ",DAZN 5
-http://supersonictv.live:8080/006779/439866/7634
-#EXTINF:-1 tvg-id="DAZN 6.pt" tvg-name="DAZN 6" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/belgium/dazn-6-be.png?raw=true" group-title="PT: Dazn ",DAZN 6
-http://supersonictv.live:8080/006779/439866/7636
 #EXTINF:-1 tvg-id="Arena Sport 1 HD.hr" tvg-name="Arena Sport 1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/serbia/arena-sport-1-rs.png?raw=true" group-title="SK: Arena Sport",Arena Sport 1
 http://2477fd5f.cbilant.com/iptv/WCSZMUM84X4689VHGC7UDAQQ/31602/index.m3u
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arena Sport 1x2 " tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/serbia/arena-sport-1x2-rs.png?raw=true" group-title="SK: Arena Sport",Arena Sport 1x2 
@@ -457,6 +385,7 @@ https://a1xs.vip/400051
 https://a1xs.vip/40000033
 #EXTINF:-1 tvg-id="Space Toon.sa" tvg-name="Spacetoon" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Spacetoon_logo.png" group-title="Family",Spacetoon
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-spacetoon/d8382fb9ab4b2307058f12c7ea90db54/index.m3u8
+
 
 
 
