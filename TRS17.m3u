@@ -229,7 +229,7 @@ http://2477fd5f.cbilant.com/iptv/WCSZMUM84X4689VHGC7UDAQQ/6564/index.m3u
 https://a1xs.vip/2000024
 #EXTINF:-1 tvg-id="TNT Sports 4 HD.uk" tvg-name="TNT Sport 4 B" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tnt-sports-4-uk.png" group-title="UK: TNT Sport ",TNT Sport 4 B
 http://2477fd5f.cbilant.com/iptv/WCSZMUM84X4689VHGC7UDAQQ/19054/index.m3u
-#EXTINF:-1 tvg-id="Sky Sports + HD.uk" tvg-name="Sky Sports+ " tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-plus-hz-uk.png?raw=true" group-title="Sky NW 19-12",Sky Sports+ 
+#EXTINF:-1 tvg-id="Sky Sports + HD.uk" tvg-name="Sky Sports+ " tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-plus-hz-uk.png?raw=true" group-title="UK: Sky Sport",Sky Sports+ 
 https://a1xs.vip/2000012
 #EXTINF:-1 tvg-id="Sky Sports Premier League.uk" tvg-name="Sky Sports Premier League " tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-premier-league-uk.png?raw=true" group-title="UK: Sky Sport",Sky Sports Premier League 
 https://a1xs.vip/2000002
@@ -249,7 +249,7 @@ https://a1xs.vip/2000003
 https://7pal.short.gy/ssportsfb
 #EXTINF:-1 tvg-id="Sky Sports F1.uk" tvg-name=" Sky Sports F1 UHD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-f1-uk.png?raw=true" group-title="UK: Sky Sport", Sky Sports F1 UHD
 https://a1xs.vip/2000016
-#EXTINF:-1 tvg-id="Sky Sports F1.uk" tvg-name="Sky Sports F1 UHD B" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-f1-uk.png?raw=true" group-title="Sky NW 19-12",Sky Sports F1 UHD B
+#EXTINF:-1 tvg-id="Sky Sports F1.uk" tvg-name="Sky Sports F1 UHD B" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-f1-uk.png?raw=true" group-title="UK: Sky Sport",Sky Sports F1 UHD B
 https://7pal.short.gy/SSF1uhd
 #EXTINF:-1 tvg-id="Sky Sports F1.uk" tvg-name="Sky Sports F1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-f1-uk.png?raw=true" group-title="UK: Sky Sport",Sky Sports F1
 http://tvmate.icu:8080/69NpyV/884735/53704
@@ -311,11 +311,11 @@ https://a1xs.vip/1100002
 https://a1xs.vip/1100032
 #EXTINF:-1 tvg-id="Hub Premier 1.sg" tvg-name="Hub Premier 1 " tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/singapore/hub-premier-1-sg.png?raw=true" group-title="SG: Hub Premier",Hub Premier 1 
 http://mag.redmytv.com/bO3trtivgYaMDwr/l4ptb6R31K/1289436
-#EXTINF:-1 tvg-id="Hub Premier 1.sg" tvg-name="Hub Premier 1 B" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/singapore/hub-premier-1-sg.png?raw=true" group-title="Other NW 19-12",Hub Premier 1 B
+#EXTINF:-1 tvg-id="Hub Premier 1.sg" tvg-name="Hub Premier 1 B" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/singapore/hub-premier-1-sg.png?raw=true" group-title="SG: Hub Premier",Hub Premier 1 B
 https://a1xs.vip/1100041
 #EXTINF:-1 tvg-id="Hub Premier 2.sg" tvg-name="Hub Premier 2 " tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/singapore/hub-premier-2-sg.png?raw=true" group-title="SG: Hub Premier",Hub Premier 2 
 https://a1xs.vip/1100042
-#EXTINF:-1 tvg-id="Hub Premier 3.sg" tvg-name="Hub Premier 3 " tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/singapore/hub-premier-3-sg.png?raw=true" group-title="Other NW 19-12",Hub Premier 3 
+#EXTINF:-1 tvg-id="Hub Premier 3.sg" tvg-name="Hub Premier 3 " tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/singapore/hub-premier-3-sg.png?raw=true" group-title="SG: Hub Premier",Hub Premier 3 
 https://a1xs.vip/1100043
 #EXTINF:-1 tvg-id="Canal+ Sport.fr" tvg-name="Canal+ Sport 1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/france/canal-plus-fr.png?raw=true" group-title="PL: Canal+ Sport",Canal+ Sport 1
 http://151.80.18.177:86/Canal+_sport_HD/index.m3u8
@@ -449,6 +449,7 @@ https://a1xs.vip/400051
 https://a1xs.vip/40000033
 #EXTINF:-1 tvg-id="Space Toon.sa" tvg-name="Spacetoon" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Spacetoon_logo.png" group-title="Family",Spacetoon
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-spacetoon/d8382fb9ab4b2307058f12c7ea90db54/index.m3u8
+
 
 
 
