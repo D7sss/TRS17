@@ -141,6 +141,8 @@ https://a1xs.vip/140004
 http://2477fd5f.cbilant.com/iptv/WCSZMUM84X4689VHGC7UDAQQ/31590/index.m3u
 #EXTINF:-1 tvg-id="SPORTDIGITAL FUSSBALL.de" tvg-name="Sportdigital Fussball (Germany)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Sportdigital_Fu%C3%9Fball_Logo_2019.svg/2560px-Sportdigital_Fu%C3%9Fball_Logo_2019.svg.png" group-title="Africa Cup",Sportdigital Fussball (Germany)
 http://2477fd5f.cbilant.com/iptv/WCSZMUM84X4689VHGC7UDAQQ/31413/index.m3u
+#EXTINF:-1 tvg-id="Sportitalia.it" tvg-name="Sportitalia" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/hd/sportitalia-hd-it.png" group-title="Africa Cup",Sportitalia
+http://2477fd5f.cbilant.com/iptv/WCSZMUM84X4689VHGC7UDAQQ/19108/index.m3u
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Alwan Sport 1 FHD A" tvg-logo="https://static.nicegram.app/features/telegram_channel_icons/8fbd1510-9e0d-48b9-aba6-884fb8c8a5a5.jpeg" group-title="Alwan Sport",Alwan Sport 1 FHD A
 http://199.115.193.116/live/90040798278941/90040798278941/409794.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Alwan Sport 1 FHD B" tvg-logo="https://static.nicegram.app/features/telegram_channel_icons/8fbd1510-9e0d-48b9-aba6-884fb8c8a5a5.jpeg" group-title="Alwan Sport",Alwan Sport 1 FHD B
@@ -217,6 +219,8 @@ https://a1xs.vip/2000031
 https://a1xs.vip/2000021
 #EXTINF:-1 tvg-id="TNT Sports 1 HD.uk" tvg-name="TNT Sport 1 B" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tnt-sports-1-uk.png" group-title="UK: TNT Sport ",TNT Sport 1 B
 http://2477fd5f.cbilant.com/iptv/WCSZMUM84X4689VHGC7UDAQQ/6566/index.m3u
+#EXTINF:-1 tvg-id="TNT Sports 1 HD.uk" tvg-name="TNT Sport 1 B2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tnt-sports-1-uk.png" group-title="UK: TNT Sport ",TNT Sport 1 B2
+http://2477fd5f.cbilant.com/iptv/WCSZMUM84X4689VHGC7UDAQQ/2505/index.m3u
 #EXTINF:-1 tvg-id="TNT Sports 2 HD.uk" tvg-name="TNT Sport 2 " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tnt-sports-2-uk.png" group-title="UK: TNT Sport ",TNT Sport 2 
 https://a1xs.vip/2000022
 #EXTINF:-1 tvg-id="TNT Sports 2 HD.uk" tvg-name="TNT Sport 2 B" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tnt-sports-2-uk.png" group-title="UK: TNT Sport ",TNT Sport 2 B
@@ -273,6 +277,8 @@ http://fortv.cc:8080/3017851038/JACKWES2001@GMAIL.COM/76842
 https://a1xs.vip/2000011
 #EXTINF:-1 tvg-id="Sky Sport Action.it" tvg-name="Sky Sports Action & NFL B" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-action-uk.png?raw=true" group-title="UK: Sky Sport",Sky Sports Action & NFL B
 http://2477fd5f.cbilant.com/iptv/WCSZMUM84X4689VHGC7UDAQQ/9155/index.m3u
+#EXTINF:-1 tvg-id="Sky Sport Action.it" tvg-name="Sky Sports Action & NFL B2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-action-uk.png?raw=true" group-title="UK: Sky Sport",Sky Sports Action & NFL B2
+https://7pal.short.gy/ssportsat
 #EXTINF:-1 tvg-id="Sky Sports Tennis HD.uk" tvg-name="Sky Sports Tennis " tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-tennis-uk.png?raw=true" group-title="UK: Sky Sport",Sky Sports Tennis 
 https://a1xs.vip/2000013
 #EXTINF:-1 tvg-id="Sky Sports Tennis HD.uk" tvg-name="Sky Sports Tennis B" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-tennis-uk.png?raw=true" group-title="UK: Sky Sport",Sky Sports Tennis B
@@ -395,6 +401,18 @@ http://2477fd5f.cbilant.com/iptv/WCSZMUM84X4689VHGC7UDAQQ/31609/index.m3u
 http://2477fd5f.cbilant.com/iptv/WCSZMUM84X4689VHGC7UDAQQ/31610/index.m3u
 #EXTINF:-1 tvg-id="BandSports.br" tvg-name="Band Sport (Brazil)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/band-sports-br.png" group-title="SA: RSL",Band Sport (Brazil)
 http://2477fd5f.cbilant.com/iptv/WCSZMUM84X4689VHGC7UDAQQ/6157/index.m3u
+#EXTINF:-1 tvg-id="DAZN 1.pt" tvg-name="DAZN 1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/belgium/dazn-1-be.png?raw=true" group-title="PT: Dazn",DAZN 1
+http://supersonictv.live:8080/006779/439866/7626
+#EXTINF:-1 tvg-id="DAZN 2.pt" tvg-name="DAZN 2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/belgium/dazn-2-be.png?raw=true" group-title="PT: Dazn",DAZN 2
+http://supersonictv.live:8080/006779/439866/7628
+#EXTINF:-1 tvg-id="DAZN 3.pt" tvg-name="DAZN 3" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/belgium/dazn-3-be.png?raw=true" group-title="PT: Dazn",DAZN 3
+http://supersonictv.live:8080/006779/439866/7630
+#EXTINF:-1 tvg-id="DAZN 4.pt" tvg-name="DAZN 4" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/belgium/dazn-4-be.png?raw=true" group-title="PT: Dazn",DAZN 4
+http://supersonictv.live:8080/006779/439866/7632
+#EXTINF:-1 tvg-id="DAZN 5.pt" tvg-name="DAZN 5" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/belgium/dazn-5-be.png?raw=true" group-title="PT: Dazn",DAZN 5
+http://supersonictv.live:8080/006779/439866/7634
+#EXTINF:-1 tvg-id="DAZN 6.pt" tvg-name="DAZN 6" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/belgium/dazn-6-be.png?raw=true" group-title="PT: Dazn",DAZN 6
+http://supersonictv.live:8080/006779/439866/7636
 #EXTINF:-1 tvg-id="TVP Sport HD.pl" tvg-name="TVP Sport " tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/poland/tvp-sport-pl.png?raw=true" group-title="Others",TVP Sport 
 http://2477fd5f.cbilant.com/iptv/WCSZMUM84X4689VHGC7UDAQQ/2520/index.m3u
 #EXTINF:-1 tvg-id="V sport ultra HD (T).se" tvg-name="V Sport Ultra HD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/nordic/norway/v-sport-ultrahd-no.png?raw=true" group-title="Others",V Sport Ultra HD
@@ -449,6 +467,7 @@ https://a1xs.vip/400051
 https://a1xs.vip/40000033
 #EXTINF:-1 tvg-id="Space Toon.sa" tvg-name="Spacetoon" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Spacetoon_logo.png" group-title="Family",Spacetoon
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-spacetoon/d8382fb9ab4b2307058f12c7ea90db54/index.m3u8
+
 
 
 
