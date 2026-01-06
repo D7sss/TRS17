@@ -129,8 +129,6 @@ http://supersonictv.live:8080/006779/439866/7710
 http://2477fd5f.cbilant.com/iptv/WCSZMUM84X4689VHGC7UDAQQ/2529/index.m3u
 #EXTINF:-1 tvg-id="SPORT TV5 HD.pt" tvg-name="Sport TV 5 B" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/sport-tv-5-pt.png" group-title="Africa Cup (NW 5/1)",Sport TV 5 B
 http://supersonictv.live:8080/006779/439866/7713
-#EXTINF:-1 tvg-id="Sportitalia.it" tvg-name="Sportitalia" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/hd/sportitalia-hd-it.png" group-title="Africa Cup (NW 5/1)",Sportitalia
-http://2477fd5f.cbilant.com/iptv/WCSZMUM84X4689VHGC7UDAQQ/19108/index.m3u
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Alwan Sport 1 FHD" tvg-logo="https://static.nicegram.app/features/telegram_channel_icons/8fbd1510-9e0d-48b9-aba6-884fb8c8a5a5.jpeg" group-title="Alwan Sport  (NW 5/1)"",Alwan Sport 1 FHD
 https://py.dencreak.com/alwan_4k1.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Alwan Sport 1 HD" tvg-logo="https://static.nicegram.app/features/telegram_channel_icons/8fbd1510-9e0d-48b9-aba6-884fb8c8a5a5.jpeg" group-title="Alwan Sport  (NW 5/1)"",Alwan Sport 1 HD
@@ -187,19 +185,3 @@ https://213368-castr.akamaized.net/65bdf582e043b56b0868a081/live_0586efe0c2e611e
 https://213368-castr.akamaized.net/65bdf582e043b56b0868a081/live_1dc7d580558d11efa2eeebd0ba5ae7e5/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="TNT Sports UHD 4K.uk" tvg-name="TNT Sport Ultimate 4K B" tvg-logo="https://media.info/l/o/5/5824.1689874022.png" group-title="UK: TNT Sport (NW 5/1)",TNT Sport Ultimate 4K B
 https://hilay.tv/l/tntultimateuhd
-#EXTINF:-1 tvg-id="TNT Sports 1 HD.uk" tvg-name="TNT Sport 1 B" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tnt-sports-1-uk.png" group-title="UK: TNT Sport (NW 5/1)",TNT Sport 1 B
-http://2477fd5f.cbilant.com/iptv/WCSZMUM84X4689VHGC7UDAQQ/2505/index.m3u
-#EXTINF:-1 tvg-id="Sky Sport Action.it" tvg-name="Sky Sports Action & NFL B" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-action-uk.png?raw=true" group-title="UK: Sky Sport (NW 5/1)",Sky Sports Action & NFL B
-https://7pal.short.gy/ssportsat
-#EXTINF:-1 tvg-id="DAZN 1.pt" tvg-name="DAZN 1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/belgium/dazn-1-be.png?raw=true" group-title="PT: Dazn (NW 5/1)",DAZN 1
-http://supersonictv.live:8080/006779/439866/7626
-#EXTINF:-1 tvg-id="DAZN 2.pt" tvg-name="DAZN 2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/belgium/dazn-2-be.png?raw=true" group-title="PT: Dazn (NW 5/1)",DAZN 2
-http://supersonictv.live:8080/006779/439866/7628
-#EXTINF:-1 tvg-id="DAZN 3.pt" tvg-name="DAZN 3" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/belgium/dazn-3-be.png?raw=true" group-title="PT: Dazn (NW 5/1)",DAZN 3
-http://supersonictv.live:8080/006779/439866/7630
-#EXTINF:-1 tvg-id="DAZN 4.pt" tvg-name="DAZN 4" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/belgium/dazn-4-be.png?raw=true" group-title="PT: Dazn (NW 5/1)",DAZN 4
-http://supersonictv.live:8080/006779/439866/7632
-#EXTINF:-1 tvg-id="DAZN 5.pt" tvg-name="DAZN 5" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/belgium/dazn-5-be.png?raw=true" group-title="PT: Dazn (NW 5/1)",DAZN 5
-http://supersonictv.live:8080/006779/439866/7634
-#EXTINF:-1 tvg-id="DAZN 6.pt" tvg-name="DAZN 6" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/belgium/dazn-6-be.png?raw=true" group-title="PT: Dazn (NW 5/1)",DAZN 6
-http://supersonictv.live:8080/006779/439866/7636
