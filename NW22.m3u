@@ -91,20 +91,6 @@ https://py.dencreak.com/bn_g_sd9.m3u8
 https://prod-fastly-us-west-2.video.pscp.tv/Transcoding/v1/hls/KhJz3UZYB0Yv7EIIjXD3D48G4VQO77fVluskrBgbkC3AU1IJZSn9wX9wlxaS3M8Q_PlT_BMJDR0v6B5BQAqqGg/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live
 #EXTINF:-1 tvg-id="Ziggo Sport 2.nl" tvg-name="Ziggo Sport 2 B" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/netherlands/ziggo-sport-2-nl.png" group-title="Africa Cup (NW 5/1)",Ziggo Sport 2 B
 http://2477fd5f.cbilant.com/iptv/WCSZMUM84X4689VHGC7UDAQQ/2561/index.m3u
-#EXTINF:-1 tvg-id="SPORT TV1 HD.pt" tvg-name="Sport TV 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/sport-tv-1-pt.png" group-title="Africa Cup (NW 5/1)",Sport TV 1
-http://2477fd5f.cbilant.com/iptv/WCSZMUM84X4689VHGC7UDAQQ/2525/index.m3u
-#EXTINF:-1 tvg-id="SPORT TV2 HD.pt" tvg-name="Sport TV 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/sport-tv-2-pt.png" group-title="Africa Cup (NW 5/1)",Sport TV 2
-http://2477fd5f.cbilant.com/iptv/WCSZMUM84X4689VHGC7UDAQQ/2526/index.m3u
-#EXTINF:-1 tvg-id="SPORT TV3 HD.pt" tvg-name="Sport TV 3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/sport-tv-3-pt.png" group-title="Africa Cup (NW 5/1)",Sport TV 3
-http://2477fd5f.cbilant.com/iptv/WCSZMUM84X4689VHGC7UDAQQ/2527/index.m3u
-#EXTINF:-1 tvg-id="SPORT TV4 HD.pt" tvg-name="Sport TV 4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/sport-tv-4-pt.png" group-title="Africa Cup (NW 5/1)",Sport TV 4
-http://2477fd5f.cbilant.com/iptv/WCSZMUM84X4689VHGC7UDAQQ/2528/index.m3u
-#EXTINF:-1 tvg-id="SPORT TV4 HD.pt" tvg-name="Sport TV 4 B" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/sport-tv-4-pt.png" group-title="Africa Cup (NW 5/1)",Sport TV 4 B
-http://supersonictv.live:8080/006779/439866/7710
-#EXTINF:-1 tvg-id="SPORT TV5 HD.pt" tvg-name="Sport TV 5" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/sport-tv-5-pt.png" group-title="Africa Cup (NW 5/1)",Sport TV 5
-http://2477fd5f.cbilant.com/iptv/WCSZMUM84X4689VHGC7UDAQQ/2529/index.m3u
-#EXTINF:-1 tvg-id="SPORT TV5 HD.pt" tvg-name="Sport TV 5 B" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/sport-tv-5-pt.png" group-title="Africa Cup (NW 5/1)",Sport TV 5 B
-http://supersonictv.live:8080/006779/439866/7713
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Alwan Sport 1 FHD" tvg-logo="https://static.nicegram.app/features/telegram_channel_icons/8fbd1510-9e0d-48b9-aba6-884fb8c8a5a5.jpeg" group-title="Alwan Sport  (NW 5/1)"",Alwan Sport 1 FHD
 https://py.dencreak.com/alwan_4k1.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Alwan Sport 1 HD" tvg-logo="https://static.nicegram.app/features/telegram_channel_icons/8fbd1510-9e0d-48b9-aba6-884fb8c8a5a5.jpeg" group-title="Alwan Sport  (NW 5/1)"",Alwan Sport 1 HD
@@ -149,12 +135,6 @@ https://py.dencreak.com/alwan_sd8.m3u8
 https://py.dencreak.com/alwan_sd9.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Alwan Sport 10 FHD" tvg-logo="https://static.nicegram.app/features/telegram_channel_icons/8fbd1510-9e0d-48b9-aba6-884fb8c8a5a5.jpeg" group-title="Alwan Sport  (NW 5/1)"",Alwan Sport 10 FHD
 https://py.dencreak.com/alwan_sd10.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Thamanya 1 B" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Thmanyah_Logo.svg/2048px-Thmanyah_Logo.svg.png" group-title="SA: Thamanya  (NW 5/1)",Thamanya 1 B
-https://airmaxx.boats/live/airmaxtv/4562588/2533.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Thamanya 2 B" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Thmanyah_Logo.svg/2048px-Thmanyah_Logo.svg.png" group-title="SA: Thamanya  (NW 5/1)",Thamanya 2 B
-https://airmaxx.boats/live/airmaxtv/4562588/2534.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Thamanya 3 B" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Thmanyah_Logo.svg/2048px-Thmanyah_Logo.svg.png" group-title="SA: Thamanya  (NW 5/1)",Thamanya 3 B
-https://airmaxx.boats/live/airmaxtv/4562588/2535.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Shasha" tvg-logo="https://www.shasha.com/logo-57x57.png" group-title="SA: Arabic Sports  (NW 5/1)",Shasha
 https://213368-castr.akamaized.net/65bdf582e043b56b0868a081/live_0586efe0c2e611eeb02035c643a92b1e/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Shasha 2" tvg-logo="https://www.shasha.com/logo-57x57.png" group-title="SA: Arabic Sports  (NW 5/1)",Shasha 2
