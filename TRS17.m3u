@@ -228,6 +228,7 @@ http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:CB:46:ED&stream=1597571&exte
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Thamanya 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Thmanyah_Logo.svg/2048px-Thmanyah_Logo.svg.png" group-title="SA: Thamanya ",Thamanya 3 HD
 https://airmaxx.boats/live/airmaxtv/45685291/2535.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Thamanya Match FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Thmanyah_Logo.svg/2048px-Thmanyah_Logo.svg.png" group-title="SA: Thamanya ",Thamanya Match FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 https://alibaba-live.servers8.com/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJndzJ5cWQ2TG1nUnA1TURiQ0dGZHQ1YWpHOUYyIiwiY2hhbm5lbE5hbWUiOiJjaDAxLWZ0YSIsImlwIjoiMzcuMTA0LjQwLjIzIiwiaXBfdjQiOiIzNy4xMDQuNDAuMjMiLCJpcF92NiI6IiIsInVzZXJBZ2VudCI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xNDQuMC4wLjAgU2FmYXJpLzUzNy4zNiIsIm5iZiI6MTc3MDQwMjY3NiwiZXhwIjoxNzcwNDEzNDc2LCJpYXQiOjE3NzA0MDI2NzZ9.JhvnP-DmQxIe5ASTQa0gN8CUXI__u4mxeogv9QYJMVQ/live/ch01-fta/index.m3u8?auth_key=1770402706-4fe85edc12b4492a875132e652c7b8ed-0-3216275d85ab6e83a68d053a31053fcc
 #EXTINF:-1 tvg-id="Alkass One.qa" tvg-name="Alkass 1" tvg-logo="https://www.qatar.qa/media/2021/10/alkass_logo_ar.png" group-title="SA: Arabic Sports",Alkass 1
 https://liveeu-gcp.alkassdigital.net/alkass1-bu/20251218T024018Z/mux_video_1080p_ts/index-1.m3u8
@@ -513,6 +514,7 @@ https://a1xs.vip/400051
 https://a1xs.vip/40000033
 #EXTINF:-1 tvg-id="Space Toon.sa" tvg-name="Spacetoon" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Spacetoon_logo.png" group-title="Family",Spacetoon
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-spacetoon/d8382fb9ab4b2307058f12c7ea90db54/index.m3u8
+
 
 
 
